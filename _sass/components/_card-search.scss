@@ -1,0 +1,87 @@
+@use 'variables' as *;
+
+.card-search {
+    padding: $spacing 0;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: $spacing-sm;
+    align-items: center;
+    justify-content: space-between;
+}
+
+@media(min-width: $break-md) {
+    .card-search {
+        grid-template-columns: 1fr 120px 120px;
+    }
+}
+
+.card-search__fields {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+}
+
+.card-search__search-icon {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    pointer-events: none;
+}
+
+.card-search__input {
+    padding: $spacing-sm $spacing;
+    padding-left: 50px;
+    text-align: left;
+    width: 100%;
+    border-radius: .3rem;
+    background-color: $background-primary;
+    border: 2px solid $color-accent;
+    color: $white;
+}
+
+.card-search__clear {
+    background: none;
+    border: none;
+    color: $font-color-link;
+    text-align: right;
+}
+
+@media(min-width: $break-md) {
+    .card-search__clear {
+        text-align: center;
+    }
+}
+
+.card-search__clear:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.card-search__advanced {
+    display: none;
+    grid-template-columns: 1fr;
+    gap: $spacing-sm;
+}
+
+@media(min-width: $break-md) {
+    .card-search__advanced {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+.card-search__advanced.is-open {
+    display: grid;
+    gap: 1rem;
+}
+
+.card-search__advanced-field {
+    display: flex;
+    flex-direction: column;
+    border-color: $color-accent;
+}
+
+.card-search__card-count {
+    margin: $spacing 0;
+    color: $font-color-heading;
+}

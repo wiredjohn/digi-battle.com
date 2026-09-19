@@ -1,0 +1,105 @@
+---
+layout: default
+title: PSA Graded DW-01 MetalGreymon Cards
+seo_description: "Digimon Digi-Battle MetalGreymon (DW-01) Promo cards that have been graded or authenticated by PSA."
+redirect_from: "/DW01/PsaGraded"
+---
+
+<nav class="breadcrumbs">
+    <a href="/dw01" class="breadcrumbs__link">DW-01 Archive</a>
+    <span>PSA</span>
+</nav>
+
+<h1>
+    {{ page.title }}
+</h1>
+
+{% assign cards = site.dw01 | where: "psa_graded", true | sort: "number" %}
+{% assign grades = site.data.dw01_psa_data.grades %}
+
+<table class="dw01-psa-record-table">
+    <thead>
+        <tr>
+            <th></th>
+            <th>Auth</th>
+            {% for grade in (1..10) %}
+            <th>{{ grade }}</th>
+            {% endfor %}
+
+            <th>TOTAL</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr>
+            <th>Count</th>
+            <td>{{ grades["Auth"] }}</td>
+
+            {% for grade in (1..10) %}
+            <td>{{ grades[grade] }}</td>
+            {% endfor %}
+
+            <td>{{ site.data.dw01_psa_data.total }}</td>
+        </tr>
+
+        <tr>
+            <th>+</th>
+            <td></td>
+
+            {% for grade in (1..9) %}
+            {% assign half = grade | plus: 0.5 %}
+            <td>{{ grades[half] }}</td>
+            {% endfor %}
+
+            <td></td>
+        </tr>
+
+        <tr>
+            <th>Recorded</th>
+            <td>-</td>
+
+            {% for grade in (1..10) %}
+            {% assign count = cards | where: "psa_grade", grade | size %}
+            <td>{{ count }}</td>
+            {% endfor %}
+
+            <td>{{ cards | size}}</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<p>
+    PSA figures last updated: <date>{{ site.data.dw01_psa_data.last_updated }}</date>
+</p>
+
+
+<table class="dw01-psa-table">
+    <tr>
+        <th>Number</th>
+        <th>PSA Grade</th>
+        <th>PSA Certificate</th>
+        <th>Owner</th>
+    </tr>
+
+    {% for card in cards %}
+    <tr>
+        <td>
+            <a href="{{ card.url }}">
+                {{ card.number }}
+            </a>
+        </td>
+        <td>
+            {{ card.psa_grade }}
+        </td>
+        <td>
+            <a href="https://www.psacard.com/cert/{{ card.psa_certificate }}" target="_blank">
+                {{ card.psa_certificate }}
+            </a>
+        </td>
+        <td>
+            {{ card.owner_name }}
+        </td>
+    </tr>
+    {% endfor %}
+</table>

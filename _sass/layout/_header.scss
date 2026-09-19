@@ -1,0 +1,111 @@
+@use "variables" as *;
+
+.header {
+    display: flex;
+    justify-content: center;
+    margin-bottom: $spacing;
+}
+
+.header__inner {
+    width: 100%;
+    max-width: $width-max;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: $spacing-sm;
+    border-bottom: 1px solid $color-accent;
+}
+
+@media(min-width: $width-max) {
+    .header__inner {
+        padding: $spacing-sm 0;
+    }
+}
+
+.header__logo {
+    height: 50px;
+}
+.header__logo:hover {
+    filter: drop-shadow(0px 0px 3px $color-accent);
+}
+
+.header__nav {
+    display: none;
+}
+
+.header__hamburger {
+    display: block;
+    background: none;
+    border: 1px solid transparent;
+    display: flex;
+    align-items: center;
+    padding: $spacing-sm;
+}
+
+.header__hamburger:hover {
+    cursor: pointer;
+    border: 1px solid $color-accent;
+}
+
+@media(min-width: $break-md) {
+    .header__nav {
+        display: block;
+    }
+
+    .header__hamburger {
+        display: none;
+    }
+}
+
+.header__hamburger-close {
+    position: absolute;
+    top: $spacing-sm;
+    right: $spacing-sm;
+}
+
+.header__nav--expanded {
+    display: block;
+    position: fixed;
+    background-color: $background-primary;
+    /*border-left: 1px solid $color-accent;
+    border-bottom: 1px solid $color-accent;*/
+    top: 0;
+    right: 0;
+    z-index: 1000;
+    padding: $spacing;
+    padding-top: 75px;
+    width: 100%;
+    height: 100vh;
+    font-size: 2rem;
+}
+
+.header__nav--expanded > .header__nav-list {
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.header__nav-list {
+    display: flex;
+    gap: $spacing;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.header__nav-link {
+    text-decoration: none;
+    color: $font-color-nav;
+    display: flex;
+    align-items: center;
+}
+.header__nav-link:hover {
+    filter: drop-shadow(0px 0px 3px $color-accent);
+    text-decoration: underline;
+}
+
+.header__nav-item {
+    display: flex;
+    align-items: center;
+}

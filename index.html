@@ -1,0 +1,150 @@
+---
+layout: homepage
+title: DIGI-BATTLE.COM
+seo_description: "The Complete Digimon Digi-Battle Card List. From starter set and booster box scans to the game rules, you can find it all here online."
+featured_cards:
+  - "ST-01"
+  - "BO-74"
+  - "MO-12"
+  - "CP-09"
+  - "ST-18"
+  - "BO-129"
+  - "ST-85"
+  - "BO-65"
+  - "CP-34"
+  - "CP-37"
+  - "BO-59"
+  - "MO-01"
+  - "BO-66"
+  - "TB-12"
+  - "ST-44"
+---
+
+<section class="home-splash">
+    <div class="home-splash__content">
+        <h1 class="home-splash__title">
+            DIGI-BATTLE.COM
+        </h1>
+        <h2 class="home-splash__subheading">
+            The Complete Digimon <span class="nowrap">Digi-Battle</span> Card Database
+        </h2>
+        <p class="home-splash__cta">
+            <a href="/upper-deck/cards" class="btn btn-cta">See All Cards</a>
+        </p>
+    </div>
+    <div class="home-splash__graphic">
+
+    </div>
+</section>
+
+<section class="card-carousel__wrapper">
+    <div class="card-carousel" style="--card-count: {{ page.featured_cards | size }}">
+        {% for card in page.featured_cards %}
+        {% assign card_data = site.upper_deck_cards | where: "card_id", card | first  %}
+        <a href="{{card_data.url}}">
+            {% include upper-deck-card-image.html filename=card_data.card_id alt=card_data.name width="350" %}
+        </a>
+        {% endfor %}
+        <!--AGAIN-->
+        {% for card in page.featured_cards %}
+        {% assign card_data = site.upper_deck_cards | where: "card_id", card | first  %}
+        <a href="{{card_data.url}}">
+            {% include upper-deck-card-image.html filename=card_data.card_id alt=card_data.name width="350" %}
+        </a>
+        {% endfor %}
+    </div>
+</section>
+
+<div class="home-content">
+    <section class="home-content__left">
+        <h3>
+            Discover Vintage Digimon Card Collecting
+        </h3>
+
+        <p>
+            Digi-Battle is the original Digimon Trading Card Game (TCG) released in the West. This website is an open-source, community project to archive and document this card game from 1999.
+        </p>
+
+        <p>
+            Digi-Battle.com is your one-stop destination for everything Digi-Battle!
+        </p>
+
+        <p>
+            Not sure where to start? Why not check out the <a href="/upper-deck/sets/">card set list</a>.
+        </p>
+    </section>
+
+    <section class="home-content__right">
+        <h3>
+            A Community Project
+        </h3>
+
+        <p>
+            This site is <a href="{{ site.data.external_links.gh_home }}">open-source</a> and supported by user contributions. If you want to make the site better by writing an article, updating card info or implementing new features then check out the <a href="{{ site.data.external_links.gh_home }}">GitHub</a>!
+        </p>
+    </section>
+
+    <section class="article-card-container">
+        {% assign featured_articles = site.articles | where: "featured", true %}
+        {% for article in featured_articles %}
+        {% include article-card.html article=article %}
+        {% endfor %}
+    </section>
+
+    <section class="stats">
+        <div class="stat-item">
+            <h4 class="stat-item__value">
+                {{ site.upper_deck_cards | size }}
+            </h4>
+            <p class="stat-item__title">
+                Cards Archived
+            </p>
+        </div>
+        <div class="stat-item">
+            <h4 class="stat-item__value">
+                {{ site.articles | size }}
+            </h4>
+            <p class="stat-item__title">
+                Articles Written
+            </p>
+        </div>
+        <div class="stat-item">
+            <h4 class="stat-item__value">
+                {{ site.upper_deck_decks | size }}
+            </h4>
+            <p class="stat-item__title">
+                Battle Decks
+            </p>
+        </div>
+        <div class="stat-item">
+            <h4 id="YearsOnline" class="stat-item__value"></h4>
+            <p class="stat-item__title">
+                Years Online
+            </p>
+        </div>
+    </section>
+</div>
+
+<script>
+
+    document.getElementById("YearsOnline").innerText = yearsSince("2021-03-06");
+
+    function yearsSince(date) {
+        const d = new Date(date);
+        const now = new Date();
+
+        let years = now.getFullYear() - d.getFullYear();
+
+        // Adjust if the anniversary hasn't happened yet this year
+        const hasHadAnniversary =
+            now.getMonth() > d.getMonth() ||
+            (now.getMonth() === d.getMonth() && now.getDate() >= d.getDate());
+
+        if (!hasHadAnniversary) {
+            years--;
+        }
+
+        return years;
+    }
+
+</script>

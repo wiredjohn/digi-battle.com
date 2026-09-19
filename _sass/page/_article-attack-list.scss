@@ -1,0 +1,18 @@
+@use "variables" as *;
+
+.attack-list__table {
+    width: 100%;
+    text-align: center;
+    min-width: 570px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-top: $spacing;
+}
+
+.attack-list__table tr {
+    border-bottom: 1px solid #272626;
+}
+
+.attack-list__table td {
+    vertical-align: baseline;
+}

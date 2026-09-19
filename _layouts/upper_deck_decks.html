@@ -1,0 +1,131 @@
+---
+layout: default
+---
+
+<nav class="breadcrumbs">
+    <a href="/" class="breadcrumbs__link">Home</a>
+    <a href="/upper-deck/battle-decks/" class="breadcrumbs__link">Battle Decks</a>
+    <span>{{ page.name }}</span>
+</nav>
+
+<div class="battle-deck__header">
+    <h1>
+        {{ page.name }}
+    </h1>
+</div>
+
+<section class="battle-deck">
+
+    <div class="battle-deck__body">
+        <div class="battle-deck__battle-types">
+            <img src="/assets/img/icons/battle-type-{{page.primary_color}}.png" class="battle-deck__battle-type" />
+
+            {% if page.secondary_color %}
+            <img src="/assets/img/icons/battle-type-{{page.secondary_color}}.png" class="battle-deck__battle-type" />
+            {% endif %}
+        </div>
+
+        {% if page.source_url and page.source %}
+        <p>
+            Source:
+            <a href="{{ page.source_url }}" target="_blank">
+                {{ page.source }}
+            </a>
+        </p>
+        {% else if page.source %}
+        <p>
+            Source: {{ page.source }}
+        </p>
+        {% endif %}
+
+        {% if page.created_on %}
+        <p>
+            Date added:
+            {{ page.created_on | date: "%Y-%m-%d" }}
+        </p>
+        {% endif %}
+
+        <p>
+            {{ page.deck_description }}
+        </p>
+
+
+        {% assign cards = site.upper_deck_cards
+        | where_exp: "item", "page.cards contains item.card_id"
+        | sort: "name" %}
+        <div class="battle-deck__card-list">
+            <ol>
+                {% for card in cards %}
+                <li>
+                    <a href="{{ card.url }}">
+                        {{ card.name }} ({{ card.serial_code }})
+                    </a>
+                </li>
+                {% endfor %}
+            </ol>
+        </div>
+
+    </div>
+
+    <div class="battle-deck__card-gallery-container">
+        <div class="battle-deck__card-gallery">
+            <h3>Rookie Level</h3>
+            <div class="battle-deck__card-gallery-images">
+                {% assign rookies = cards | where: "level", "Rookie" %}
+                {% for card in rookies %}
+                <a href="{{ card.url }}">
+                    {% include upper-deck-card-image.html filename=card.card_id alt=card.name width=175 %}
+                </a>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div class="battle-deck__card-gallery">
+            <h3>Champion Level</h3>
+            <div class="battle-deck__card-gallery-images">
+                {% assign champions = cards | where: "level", "Champion" %}
+                {% for card in champions %}
+                <a href="{{ card.url }}">
+                    {% include upper-deck-card-image.html filename=card.card_id alt=card.name width=175 %}
+                </a>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div class="battle-deck__card-gallery">
+            <h3>Ultimate Level</h3>
+            <div class="battle-deck__card-gallery-images">
+                {% assign ultimates = cards | where: "level", "Ultimate" %}
+                {% for card in ultimates %}
+                <a href="{{ card.url }}">
+                    {% include upper-deck-card-image.html filename=card.card_id alt=card.name width=175 %}
+                </a>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div class="battle-deck__card-gallery">
+            <h3>Mega Level</h3>
+            <div class="battle-deck__card-gallery-images">
+                {% assign megas = cards | where: "level", "Mega" %}
+                {% for card in megas %}
+                <a href="{{ card.url }}">
+                    {% include upper-deck-card-image.html filename=card.card_id alt=card.name width=175 %}
+                </a>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div class="battle-deck__card-gallery">
+            <h3>Power Options</h3>
+            <div class="battle-deck__card-gallery-images">
+                {% assign options = cards | where: "card_type", "Power Option" %}
+                {% for card in options %}
+                <a href="{{ card.url }}">
+                    {% include upper-deck-card-image.html filename=card.card_id alt=card.name width=175 %}
+                </a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>

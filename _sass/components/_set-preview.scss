@@ -1,0 +1,42 @@
+@use "variables" as *;
+
+.set-preview {
+    margin-bottom: $spacing-lg;
+}
+
+.set-preview__title-link {
+    text-decoration: none;
+    display: inline-block;
+}
+
+.set-preview__title {
+
+}
+.set-preview__title:hover {
+    text-decoration: underline;
+}
+
+.set-preview__description {
+    margin-bottom: $spacing-sm;
+}
+
+.set-preview__cards {
+    display: flex;
+    flex-direction: row;
+    gap: $spacing-sm;
+    padding-bottom: $spacing-sm;
+    overflow: auto;
+    scrollbar-color: $color-accent transparent;
+}
+
+.set-preview__card-link {
+    width: 175px;
+    flex-shrink: 0;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.set-preview__link {
+
+}

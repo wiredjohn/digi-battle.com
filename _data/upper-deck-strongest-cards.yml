@@ -1,0 +1,2029 @@
+rankings:
+  - overall: 1
+    level_rank: 1
+    combined_attack_power: 1650
+    digimon_name: "Diaboromon"
+    card_id: "MO-12"
+    level: "Mega"
+  - overall: 2
+    level_rank: 2
+    combined_attack_power: 1510
+    digimon_name: "Apokarimon"
+    card_id: "BO-138"
+    level: "Mega"
+  - overall: 3
+    level_rank: 3
+    combined_attack_power: 1470
+    digimon_name: "The Miracle 4"
+    card_id: "DM-02"
+    level: "Mega"
+  - overall: 4
+    level_rank: 4
+    combined_attack_power: 1450
+    digimon_name: "Omnimon"
+    card_id: "DM-01"
+    level: "Mega"
+  - overall: 5
+    level_rank: 5
+    combined_attack_power: 1430
+    digimon_name: "Millenniummon"
+    card_id: "BO-141"
+    level: "Mega"
+  - overall: 6
+    level_rank: 6
+    combined_attack_power: 1420
+    digimon_name: "Kerpymon"
+    card_id: "MO-07"
+    level: "Mega"
+  - overall: 7
+    level_rank: 7
+    combined_attack_power: 1420
+    digimon_name: "WarGreymon"
+    card_id: "TB-12"
+    level: "Mega"
+  - overall: 8
+    level_rank: 8
+    combined_attack_power: 1410
+    digimon_name: "Goldramon"
+    card_id: "UN-01"
+    level: "Mega"
+  - overall: 9
+    level_rank: 9
+    combined_attack_power: 1410
+    digimon_name: "Goldramon"
+    card_id: "BO-139"
+    level: "Mega"
+  - overall: 10
+    level_rank: 11
+    combined_attack_power: 1410
+    digimon_name: "Magnadramon"
+    card_id: "CP-11"
+    level: "Mega"
+  - overall: 11
+    level_rank: 10
+    combined_attack_power: 1410
+    digimon_name: "Magnadramon"
+    card_id: "BO-17"
+    level: "Mega"
+  - overall: 12
+    level_rank: 12
+    combined_attack_power: 1410
+    digimon_name: "Phoenixmon"
+    card_id: "BO-94"
+    level: "Mega"
+  - overall: 13
+    level_rank: 13
+    combined_attack_power: 1390
+    digimon_name: "SaberLeomon"
+    card_id: "TB-10"
+    level: "Mega"
+  - overall: 14
+    level_rank: 14
+    combined_attack_power: 1390
+    digimon_name: "WarGreymon"
+    card_id: "ST-84"
+    level: "Mega"
+  - overall: 15
+    level_rank: 15
+    combined_attack_power: 1390
+    digimon_name: "WarGreymon"
+    card_id: "MP-84"
+    level: "Mega"
+  - overall: 16
+    level_rank: 16
+    combined_attack_power: 1380
+    digimon_name: "Magnadramon"
+    card_id: "MO-10"
+    level: "Mega"
+  - overall: 17
+    level_rank: 17
+    combined_attack_power: 1370
+    digimon_name: "Boltmon"
+    card_id: "TB-11"
+    level: "Mega"
+  - overall: 18
+    level_rank: 18
+    combined_attack_power: 1370
+    digimon_name: "MetalEtemon"
+    card_id: "BO-27"
+    level: "Mega"
+  - overall: 19
+    level_rank: 19
+    combined_attack_power: 1370
+    digimon_name: "MetalEtemon"
+    card_id: "CP-21"
+    level: "Mega"
+  - overall: 20
+    level_rank: 20
+    combined_attack_power: 1360
+    digimon_name: "Creepymon"
+    card_id: "BO-142"
+    level: "Mega"
+  - overall: 21
+    level_rank: 21
+    combined_attack_power: 1360
+    digimon_name: "Gryphonmon"
+    card_id: "BO-95"
+    level: "Mega"
+  - overall: 22
+    level_rank: 1
+    combined_attack_power: 1360
+    digimon_name: "Infermon"
+    card_id: "MO-11"
+    level: "Ultimate"
+  - overall: 23
+    level_rank: 22
+    combined_attack_power: 1360
+    digimon_name: "Kerpymon"
+    card_id: "MO-08"
+    level: "Mega"
+  - overall: 24
+    level_rank: 23
+    combined_attack_power: 1360
+    digimon_name: "MetalGarurumon"
+    card_id: "MP-85"
+    level: "Mega"
+  - overall: 25
+    level_rank: 24
+    combined_attack_power: 1360
+    digimon_name: "MetalGarurumon"
+    card_id: "ST-85"
+    level: "Mega"
+  - overall: 26
+    level_rank: 25
+    combined_attack_power: 1360
+    digimon_name: "MetalSeadramon"
+    card_id: "CP-26"
+    level: "Mega"
+  - overall: 27
+    level_rank: 26
+    combined_attack_power: 1360
+    digimon_name: "MetalSeadramon"
+    card_id: "BO-35"
+    level: "Mega"
+  - overall: 28
+    level_rank: 27
+    combined_attack_power: 1360
+    digimon_name: "Piedmon"
+    card_id: "BO-42"
+    level: "Mega"
+  - overall: 29
+    level_rank: 28
+    combined_attack_power: 1360
+    digimon_name: "Piedmon"
+    card_id: "CP-37"
+    level: "Mega"
+  - overall: 30
+    level_rank: 29
+    combined_attack_power: 1360
+    digimon_name: "Preciomon"
+    card_id: "BO-135"
+    level: "Mega"
+  - overall: 31
+    level_rank: 30
+    combined_attack_power: 1360
+    digimon_name: "SaberLeomon"
+    card_id: "ST-34"
+    level: "Mega"
+  - overall: 32
+    level_rank: 31
+    combined_attack_power: 1360
+    digimon_name: "SkullMammothmon"
+    card_id: "BO-40"
+    level: "Mega"
+  - overall: 33
+    level_rank: 32
+    combined_attack_power: 1350
+    digimon_name: "MarineAngemon"
+    card_id: "BO-34"
+    level: "Mega"
+  - overall: 34
+    level_rank: 33
+    combined_attack_power: 1340
+    digimon_name: "Boltmon"
+    card_id: "BO-41"
+    level: "Mega"
+  - overall: 35
+    level_rank: 34
+    combined_attack_power: 1340
+    digimon_name: "Machinedramon"
+    card_id: "BO-55"
+    level: "Mega"
+  - overall: 36
+    level_rank: 35
+    combined_attack_power: 1340
+    digimon_name: "Machinedramon"
+    card_id: "CP-27"
+    level: "Mega"
+  - overall: 37
+    level_rank: 36
+    combined_attack_power: 1340
+    digimon_name: "VenomMyotismon"
+    card_id: "BO-136"
+    level: "Mega"
+  - overall: 38
+    level_rank: 37
+    combined_attack_power: 1330
+    digimon_name: "Rosemon"
+    card_id: "BO-140"
+    level: "Mega"
+  - overall: 39
+    level_rank: 38
+    combined_attack_power: 1290
+    digimon_name: "Puppetmon"
+    card_id: "BO-96"
+    level: "Mega"
+  - overall: 40
+    level_rank: 39
+    combined_attack_power: 1280
+    digimon_name: "HerculesKabuterimon"
+    card_id: "ST-33"
+    level: "Mega"
+  - overall: 41
+    level_rank: 40
+    combined_attack_power: 1260
+    digimon_name: "Jijimon"
+    card_id: "BO-137"
+    level: "Mega"
+  - overall: 42
+    level_rank: 41
+    combined_attack_power: 1260
+    digimon_name: "Pukumon"
+    card_id: "ST-40S"
+    level: "Mega"
+  - overall: 43
+    level_rank: 42
+    combined_attack_power: 1250
+    digimon_name: "Babamon"
+    card_id: "MP-109"
+    level: "Mega"
+  - overall: 44
+    level_rank: 43
+    combined_attack_power: 1250
+    digimon_name: "Pukumon"
+    card_id: "ST-40"
+    level: "Mega"
+  - overall: 45
+    level_rank: 2
+    combined_attack_power: 1230
+    digimon_name: "Kimeramon"
+    card_id: "ST-21S"
+    level: "Ultimate"
+  - overall: 46
+    level_rank: 3
+    combined_attack_power: 1220
+    digimon_name: "Kimeramon"
+    card_id: "ST-21"
+    level: "Ultimate"
+  - overall: 47
+    level_rank: 4
+    combined_attack_power: 1220
+    digimon_name: "MasterTyrannomon"
+    card_id: "BO-133"
+    level: "Ultimate"
+  - overall: 48
+    level_rank: 5
+    combined_attack_power: 1210
+    digimon_name: "Andromon"
+    card_id: "TB-08"
+    level: "Ultimate"
+  - overall: 49
+    level_rank: 6
+    combined_attack_power: 1210
+    digimon_name: "Asuramon"
+    card_id: "CP-18"
+    level: "Ultimate"
+  - overall: 50
+    level_rank: 7
+    combined_attack_power: 1210
+    digimon_name: "Asuramon"
+    card_id: "BO-24"
+    level: "Ultimate"
+  - overall: 51
+    level_rank: 8
+    combined_attack_power: 1200
+    digimon_name: "BigMamemon"
+    card_id: "MP-81"
+    level: "Ultimate"
+  - overall: 52
+    level_rank: 9
+    combined_attack_power: 1190
+    digimon_name: "Divermon"
+    card_id: "BO-126"
+    level: "Ultimate"
+  - overall: 53
+    level_rank: 10
+    combined_attack_power: 1190
+    digimon_name: "MagnaAngemon"
+    card_id: "BO-131"
+    level: "Ultimate"
+  - overall: 54
+    level_rank: 11
+    combined_attack_power: 1190
+    digimon_name: "MetalGreymon"
+    card_id: "DW-01"
+    level: "Ultimate"
+  - overall: 55
+    level_rank: 12
+    combined_attack_power: 1190
+    digimon_name: "WaruMonzaemon"
+    card_id: "MP-80"
+    level: "Ultimate"
+  - overall: 56
+    level_rank: 14
+    combined_attack_power: 1180
+    digimon_name: "Cyberdramon"
+    card_id: "ST-83"
+    level: "Ultimate"
+  - overall: 57
+    level_rank: 13
+    combined_attack_power: 1180
+    digimon_name: "Cyberdramon"
+    card_id: "MP-83"
+    level: "Ultimate"
+  - overall: 58
+    level_rank: 15
+    combined_attack_power: 1180
+    digimon_name: "Digitamamon"
+    card_id: "BO-70"
+    level: "Ultimate"
+  - overall: 59
+    level_rank: 16
+    combined_attack_power: 1170
+    digimon_name: "AeroVeedramon"
+    card_id: "BO-88"
+    level: "Ultimate"
+  - overall: 60
+    level_rank: 17
+    combined_attack_power: 1170
+    digimon_name: "Antylamon"
+    card_id: "MO-06"
+    level: "Ultimate"
+  - overall: 61
+    level_rank: 18
+    combined_attack_power: 1170
+    digimon_name: "MetalGreymon"
+    card_id: "BO-80"
+    level: "Ultimate"
+  - overall: 62
+    level_rank: 20
+    combined_attack_power: 1170
+    digimon_name: "MetalTyrannomon"
+    card_id: "MP-103"
+    level: "Ultimate"
+  - overall: 63
+    level_rank: 19
+    combined_attack_power: 1170
+    digimon_name: "MetalTyrannomon"
+    card_id: "ST-103"
+    level: "Ultimate"
+  - overall: 64
+    level_rank: 21
+    combined_attack_power: 1160
+    digimon_name: "Andromon"
+    card_id: "BO-11"
+    level: "Ultimate"
+  - overall: 65
+    level_rank: 22
+    combined_attack_power: 1160
+    digimon_name: "BlueMeramon"
+    card_id: "BO-128"
+    level: "Ultimate"
+  - overall: 66
+    level_rank: 23
+    combined_attack_power: 1160
+    digimon_name: "Cherrymon"
+    card_id: "BO-92"
+    level: "Ultimate"
+  - overall: 67
+    level_rank: 24
+    combined_attack_power: 1160
+    digimon_name: "Etemon"
+    card_id: "CP-29"
+    level: "Ultimate"
+  - overall: 68
+    level_rank: 25
+    combined_attack_power: 1160
+    digimon_name: "Etemon"
+    card_id: "BO-57"
+    level: "Ultimate"
+  - overall: 69
+    level_rank: 26
+    combined_attack_power: 1160
+    digimon_name: "Gigadramon"
+    card_id: "MP-107"
+    level: "Ultimate"
+  - overall: 70
+    level_rank: 27
+    combined_attack_power: 1160
+    digimon_name: "Lillymon"
+    card_id: "BO-129"
+    level: "Ultimate"
+  - overall: 71
+    level_rank: 1
+    combined_attack_power: 1160
+    digimon_name: "Magnamon"
+    card_id: "MO-09"
+    level: "Champion"
+  - overall: 72
+    level_rank: 28
+    combined_attack_power: 1160
+    digimon_name: "SkullSatanmon"
+    card_id: "BO-134"
+    level: "Ultimate"
+  - overall: 73
+    level_rank: 29
+    combined_attack_power: 1160
+    digimon_name: "Triceramon"
+    card_id: "ST-29S"
+    level: "Ultimate"
+  - overall: 74
+    level_rank: 30
+    combined_attack_power: 1150
+    digimon_name: "Brachiomon"
+    card_id: "MP-106"
+    level: "Ultimate"
+  - overall: 75
+    level_rank: 31
+    combined_attack_power: 1150
+    digimon_name: "Brachiomon"
+    card_id: "ST-106"
+    level: "Ultimate"
+  - overall: 76
+    level_rank: 32
+    combined_attack_power: 1150
+    digimon_name: "Dragomon"
+    card_id: "BO-33"
+    level: "Ultimate"
+  - overall: 77
+    level_rank: 33
+    combined_attack_power: 1150
+    digimon_name: "ExTyrannomon"
+    card_id: "BO-73"
+    level: "Ultimate"
+  - overall: 78
+    level_rank: 34
+    combined_attack_power: 1150
+    digimon_name: "Garudamon"
+    card_id: "BO-89"
+    level: "Ultimate"
+  - overall: 79
+    level_rank: 35
+    combined_attack_power: 1150
+    digimon_name: "MarineDevimon"
+    card_id: "ST-39S"
+    level: "Ultimate"
+  - overall: 80
+    level_rank: 2
+    combined_attack_power: 1150
+    digimon_name: "Rapidmon"
+    card_id: "MO-05"
+    level: "Champion"
+  - overall: 81
+    level_rank: 36
+    combined_attack_power: 1150
+    digimon_name: "SkullMeramon"
+    card_id: "TB-07"
+    level: "Ultimate"
+  - overall: 82
+    level_rank: 37
+    combined_attack_power: 1150
+    digimon_name: "Triceramon"
+    card_id: "ST-29"
+    level: "Ultimate"
+  - overall: 83
+    level_rank: 38
+    combined_attack_power: 1148
+    digimon_name: "Pumpkinmon"
+    card_id: "BO-37"
+    level: "Ultimate"
+  - overall: 84
+    level_rank: 39
+    combined_attack_power: 1140
+    digimon_name: "Deramon"
+    card_id: "BO-91"
+    level: "Ultimate"
+  - overall: 85
+    level_rank: 41
+    combined_attack_power: 1140
+    digimon_name: "Knightmon"
+    card_id: "ST-82"
+    level: "Ultimate"
+  - overall: 86
+    level_rank: 40
+    combined_attack_power: 1140
+    digimon_name: "Knightmon"
+    card_id: "MP-82"
+    level: "Ultimate"
+  - overall: 87
+    level_rank: 42
+    combined_attack_power: 1140
+    digimon_name: "MarineDevimon"
+    card_id: "ST-39"
+    level: "Ultimate"
+  - overall: 88
+    level_rank: 43
+    combined_attack_power: 1140
+    digimon_name: "SkullMeramon"
+    card_id: "ST-48S"
+    level: "Ultimate"
+  - overall: 89
+    level_rank: 44
+    combined_attack_power: 1140
+    digimon_name: "Vermilimon"
+    card_id: "ST-104"
+    level: "Ultimate"
+  - overall: 90
+    level_rank: 45
+    combined_attack_power: 1140
+    digimon_name: "Vermilimon"
+    card_id: "MP-104"
+    level: "Ultimate"
+  - overall: 91
+    level_rank: 46
+    combined_attack_power: 1130
+    digimon_name: "Angewomon"
+    card_id: "CP-10"
+    level: "Ultimate"
+  - overall: 92
+    level_rank: 47
+    combined_attack_power: 1130
+    digimon_name: "Angewomon"
+    card_id: "BO-16"
+    level: "Ultimate"
+  - overall: 93
+    level_rank: 3
+    combined_attack_power: 1130
+    digimon_name: "Digmon"
+    card_id: "FX-10"
+    level: "Champion"
+  - overall: 94
+    level_rank: 49
+    combined_attack_power: 1130
+    digimon_name: "LadyDevimon"
+    card_id: "CP-16"
+    level: "Ultimate"
+  - overall: 95
+    level_rank: 48
+    combined_attack_power: 1130
+    digimon_name: "LadyDevimon"
+    card_id: "BO-22"
+    level: "Ultimate"
+  - overall: 96
+    level_rank: 50
+    combined_attack_power: 1130
+    digimon_name: "Meteormon"
+    card_id: "BO-130"
+    level: "Ultimate"
+  - overall: 97
+    level_rank: 51
+    combined_attack_power: 1130
+    digimon_name: "Phantomon"
+    card_id: "BO-39"
+    level: "Ultimate"
+  - overall: 98
+    level_rank: 52
+    combined_attack_power: 1130
+    digimon_name: "SkullMeramon"
+    card_id: "ST-48"
+    level: "Ultimate"
+  - overall: 99
+    level_rank: 53
+    combined_attack_power: 1130
+    digimon_name: "Tekkamon"
+    card_id: "MP-108"
+    level: "Ultimate"
+  - overall: 100
+    level_rank: 54
+    combined_attack_power: 1120
+    digimon_name: "MetalMamemon"
+    card_id: "BO-65"
+    level: "Ultimate"
+  - overall: 101
+    level_rank: 55
+    combined_attack_power: 1120
+    digimon_name: "Monzaemon"
+    card_id: "BO-62"
+    level: "Ultimate"
+  - overall: 102
+    level_rank: 56
+    combined_attack_power: 1120
+    digimon_name: "Monzaemon"
+    card_id: "CP-34"
+    level: "Ultimate"
+  - overall: 103
+    level_rank: 57
+    combined_attack_power: 1120
+    digimon_name: "Piximon"
+    card_id: "ST-30S"
+    level: "Ultimate"
+  - overall: 104
+    level_rank: 58
+    combined_attack_power: 1120
+    digimon_name: "Scorpiomon"
+    card_id: "BO-32"
+    level: "Ultimate"
+  - overall: 105
+    level_rank: 59
+    combined_attack_power: 1120
+    digimon_name: "ShogunGekomon"
+    card_id: "BO-08"
+    level: "Ultimate"
+  - overall: 106
+    level_rank: 60
+    combined_attack_power: 1120
+    digimon_name: "WaruSeadramon"
+    card_id: "BO-132"
+    level: "Ultimate"
+  - overall: 107
+    level_rank: 61
+    combined_attack_power: 1120
+    digimon_name: "Zudomon"
+    card_id: "ST-38S"
+    level: "Ultimate"
+  - overall: 108
+    level_rank: 62
+    combined_attack_power: 1110
+    digimon_name: "Megadramon"
+    card_id: "BO-69"
+    level: "Ultimate"
+  - overall: 109
+    level_rank: 63
+    combined_attack_power: 1110
+    digimon_name: "Myotismon"
+    card_id: "BO-76"
+    level: "Ultimate"
+  - overall: 110
+    level_rank: 64
+    combined_attack_power: 1110
+    digimon_name: "Okuwamon"
+    card_id: "TB-09"
+    level: "Ultimate"
+  - overall: 111
+    level_rank: 65
+    combined_attack_power: 1110
+    digimon_name: "Panjyamon"
+    card_id: "BO-127"
+    level: "Ultimate"
+  - overall: 112
+    level_rank: 66
+    combined_attack_power: 1110
+    digimon_name: "Piximon"
+    card_id: "ST-30"
+    level: "Ultimate"
+  - overall: 113
+    level_rank: 67
+    combined_attack_power: 1110
+    digimon_name: "WereGarurumon"
+    card_id: "ST-47S"
+    level: "Ultimate"
+  - overall: 114
+    level_rank: 68
+    combined_attack_power: 1110
+    digimon_name: "Zudomon"
+    card_id: "ST-38"
+    level: "Ultimate"
+  - overall: 115
+    level_rank: 4
+    combined_attack_power: 1100
+    digimon_name: "Cyclonemon"
+    card_id: "BO-78"
+    level: "Champion"
+  - overall: 116
+    level_rank: 69
+    combined_attack_power: 1100
+    digimon_name: "MegaSeadramon"
+    card_id: "BO-31"
+    level: "Ultimate"
+  - overall: 117
+    level_rank: 70
+    combined_attack_power: 1100
+    digimon_name: "MegaSeadramon"
+    card_id: "CP-25"
+    level: "Ultimate"
+  - overall: 118
+    level_rank: 71
+    combined_attack_power: 1100
+    digimon_name: "MetalGreymon"
+    card_id: "CP-01"
+    level: "Ultimate"
+  - overall: 119
+    level_rank: 72
+    combined_attack_power: 1100
+    digimon_name: "MetalGreymon"
+    card_id: "BO-01"
+    level: "Ultimate"
+  - overall: 120
+    level_rank: 5
+    combined_attack_power: 1100
+    digimon_name: "Wendigomon"
+    card_id: "MO-04"
+    level: "Champion"
+  - overall: 121
+    level_rank: 73
+    combined_attack_power: 1100
+    digimon_name: "WereGarurumon"
+    card_id: "ST-47"
+    level: "Ultimate"
+  - overall: 122
+    level_rank: 74
+    combined_attack_power: 1090
+    digimon_name: "Blossomon"
+    card_id: "BO-90"
+    level: "Ultimate"
+  - overall: 123
+    level_rank: 6
+    combined_attack_power: 1090
+    digimon_name: "Gargomon"
+    card_id: "MO-03"
+    level: "Champion"
+  - overall: 124
+    level_rank: 75
+    combined_attack_power: 1090
+    digimon_name: "Jagamon"
+    card_id: "CP-20"
+    level: "Ultimate"
+  - overall: 125
+    level_rank: 76
+    combined_attack_power: 1090
+    digimon_name: "Jagamon"
+    card_id: "BO-26"
+    level: "Ultimate"
+  - overall: 126
+    level_rank: 77
+    combined_attack_power: 1090
+    digimon_name: "Minotarumon"
+    card_id: "BO-21"
+    level: "Ultimate"
+  - overall: 127
+    level_rank: 78
+    combined_attack_power: 1090
+    digimon_name: "Minotarumon"
+    card_id: "CP-15"
+    level: "Ultimate"
+  - overall: 128
+    level_rank: 79
+    combined_attack_power: 1090
+    digimon_name: "SkullGreymon"
+    card_id: "ST-32S"
+    level: "Ultimate"
+  - overall: 129
+    level_rank: 80
+    combined_attack_power: 1090
+    digimon_name: "Vademon"
+    card_id: "MP-105"
+    level: "Ultimate"
+  - overall: 130
+    level_rank: 7
+    combined_attack_power: 1080
+    digimon_name: "Flamedramon"
+    card_id: "FX-08"
+    level: "Champion"
+  - overall: 131
+    level_rank: 81
+    combined_attack_power: 1080
+    digimon_name: "Garbagemon"
+    card_id: "BO-93"
+    level: "Ultimate"
+  - overall: 132
+    level_rank: 82
+    combined_attack_power: 1080
+    digimon_name: "Giromon"
+    card_id: "BO-68"
+    level: "Ultimate"
+  - overall: 133
+    level_rank: 83
+    combined_attack_power: 1080
+    digimon_name: "Mammothmon"
+    card_id: "ST-46S"
+    level: "Ultimate"
+  - overall: 134
+    level_rank: 84
+    combined_attack_power: 1080
+    digimon_name: "Okuwamon"
+    card_id: "ST-31S"
+    level: "Ultimate"
+  - overall: 135
+    level_rank: 85
+    combined_attack_power: 1080
+    digimon_name: "SkullGreymon"
+    card_id: "ST-32"
+    level: "Ultimate"
+  - overall: 136
+    level_rank: 8
+    combined_attack_power: 1070
+    digimon_name: "Halsemon"
+    card_id: "FX-09"
+    level: "Champion"
+  - overall: 137
+    level_rank: 86
+    combined_attack_power: 1070
+    digimon_name: "Mammothmon"
+    card_id: "ST-46"
+    level: "Ultimate"
+  - overall: 138
+    level_rank: 87
+    combined_attack_power: 1070
+    digimon_name: "Okuwamon"
+    card_id: "ST-31"
+    level: "Ultimate"
+  - overall: 139
+    level_rank: 9
+    combined_attack_power: 1060
+    digimon_name: "Devimon"
+    card_id: "TB-06"
+    level: "Champion"
+  - overall: 140
+    level_rank: 88
+    combined_attack_power: 1060
+    digimon_name: "Mamemon"
+    card_id: "BO-64"
+    level: "Ultimate"
+  - overall: 141
+    level_rank: 89
+    combined_attack_power: 1060
+    digimon_name: "Mamemon"
+    card_id: "CP-36"
+    level: "Ultimate"
+  - overall: 142
+    level_rank: 10
+    combined_attack_power: 1050
+    digimon_name: "Gekomon"
+    card_id: "ST-27S"
+    level: "Champion"
+  - overall: 143
+    level_rank: 90
+    combined_attack_power: 1050
+    digimon_name: "MegaKabuterimon"
+    card_id: "ST-28S"
+    level: "Ultimate"
+  - overall: 144
+    level_rank: 11
+    combined_attack_power: 1050
+    digimon_name: "Tuskmon"
+    card_id: "BO-75"
+    level: "Champion"
+  - overall: 145
+    level_rank: 12
+    combined_attack_power: 1050
+    digimon_name: "Wizardmon"
+    card_id: "ST-44S"
+    level: "Champion"
+  - overall: 146
+    level_rank: 14
+    combined_attack_power: 1040
+    digimon_name: "Devimon"
+    card_id: "BO-02"
+    level: "Champion"
+  - overall: 147
+    level_rank: 13
+    combined_attack_power: 1040
+    digimon_name: "Devimon"
+    card_id: "CP-02"
+    level: "Champion"
+  - overall: 148
+    level_rank: 15
+    combined_attack_power: 1040
+    digimon_name: "Gekomon"
+    card_id: "ST-27"
+    level: "Champion"
+  - overall: 149
+    level_rank: 91
+    combined_attack_power: 1040
+    digimon_name: "MegaKabuterimon"
+    card_id: "ST-28"
+    level: "Ultimate"
+  - overall: 150
+    level_rank: 92
+    combined_attack_power: 1040
+    digimon_name: "Myotismon"
+    card_id: "BO-38"
+    level: "Ultimate"
+  - overall: 151
+    level_rank: 16
+    combined_attack_power: 1040
+    digimon_name: "Wizardmon"
+    card_id: "ST-44"
+    level: "Champion"
+  - overall: 152
+    level_rank: 17
+    combined_attack_power: 1030
+    digimon_name: "IceDevimon"
+    card_id: "MP-86"
+    level: "Champion"
+  - overall: 153
+    level_rank: 19
+    combined_attack_power: 1030
+    digimon_name: "Mekanorimon"
+    card_id: "MP-71"
+    level: "Champion"
+  - overall: 154
+    level_rank: 18
+    combined_attack_power: 1030
+    digimon_name: "Mekanorimon"
+    card_id: "ST-71"
+    level: "Champion"
+  - overall: 155
+    level_rank: 20
+    combined_attack_power: 1030
+    digimon_name: "Octomon"
+    card_id: "ST-37S"
+    level: "Champion"
+  - overall: 156
+    level_rank: 21
+    combined_attack_power: 1030
+    digimon_name: "Tankmon"
+    card_id: "MP-69"
+    level: "Champion"
+  - overall: 157
+    level_rank: 22
+    combined_attack_power: 1020
+    digimon_name: "Airdramon"
+    card_id: "ST-96"
+    level: "Champion"
+  - overall: 158
+    level_rank: 23
+    combined_attack_power: 1020
+    digimon_name: "Airdramon"
+    card_id: "MP-96"
+    level: "Champion"
+  - overall: 159
+    level_rank: 24
+    combined_attack_power: 1020
+    digimon_name: "Octomon"
+    card_id: "ST-37"
+    level: "Champion"
+  - overall: 160
+    level_rank: 25
+    combined_attack_power: 1020
+    digimon_name: "Soulmon"
+    card_id: "MP-77"
+    level: "Champion"
+  - overall: 161
+    level_rank: 26
+    combined_attack_power: 1020
+    digimon_name: "Soulmon"
+    card_id: "ST-77"
+    level: "Champion"
+  - overall: 162
+    level_rank: 27
+    combined_attack_power: 1020
+    digimon_name: "Starmon"
+    card_id: "ST-26S"
+    level: "Champion"
+  - overall: 163
+    level_rank: 28
+    combined_attack_power: 1010
+    digimon_name: "Akatorimon"
+    card_id: "BO-121"
+    level: "Champion"
+  - overall: 164
+    level_rank: 29
+    combined_attack_power: 1010
+    digimon_name: "Bakemon"
+    card_id: "ST-45S"
+    level: "Champion"
+  - overall: 165
+    level_rank: 30
+    combined_attack_power: 1010
+    digimon_name: "Centarumon"
+    card_id: "TB-05"
+    level: "Champion"
+  - overall: 166
+    level_rank: 31
+    combined_attack_power: 1010
+    digimon_name: "DarkTyrannomon"
+    card_id: "BO-79"
+    level: "Champion"
+  - overall: 167
+    level_rank: 32
+    combined_attack_power: 1010
+    digimon_name: "Hyogamon"
+    card_id: "MP-78"
+    level: "Champion"
+  - overall: 168
+    level_rank: 33
+    combined_attack_power: 1010
+    digimon_name: "Kurisarimon"
+    card_id: "BO-125"
+    level: "Champion"
+  - overall: 169
+    level_rank: 34
+    combined_attack_power: 1010
+    digimon_name: "Starmon"
+    card_id: "ST-26"
+    level: "Champion"
+  - overall: 170
+    level_rank: 35
+    combined_attack_power: 1000
+    digimon_name: "Bakemon"
+    card_id: "ST-45"
+    level: "Champion"
+  - overall: 171
+    level_rank: 93
+    combined_attack_power: 1000
+    digimon_name: "Datamon"
+    card_id: "BO-67"
+    level: "Ultimate"
+  - overall: 172
+    level_rank: 37
+    combined_attack_power: 1000
+    digimon_name: "Devidramon"
+    card_id: "ST-97"
+    level: "Champion"
+  - overall: 173
+    level_rank: 36
+    combined_attack_power: 1000
+    digimon_name: "Devidramon"
+    card_id: "MP-97"
+    level: "Champion"
+  - overall: 174
+    level_rank: 38
+    combined_attack_power: 1000
+    digimon_name: "Icemon"
+    card_id: "BO-120"
+    level: "Champion"
+  - overall: 175
+    level_rank: 39
+    combined_attack_power: 1000
+    digimon_name: "Musyamon"
+    card_id: "ST-20S"
+    level: "Champion"
+  - overall: 176
+    level_rank: 40
+    combined_attack_power: 990
+    digimon_name: "Flarerizamon"
+    card_id: "MP-74"
+    level: "Champion"
+  - overall: 177
+    level_rank: 41
+    combined_attack_power: 990
+    digimon_name: "Flarerizamon"
+    card_id: "ST-74"
+    level: "Champion"
+  - overall: 178
+    level_rank: 42
+    combined_attack_power: 990
+    digimon_name: "Fugamon"
+    card_id: "BO-116"
+    level: "Champion"
+  - overall: 179
+    level_rank: 43
+    combined_attack_power: 990
+    digimon_name: "Gatomon"
+    card_id: "BO-77"
+    level: "Champion"
+  - overall: 180
+    level_rank: 44
+    combined_attack_power: 990
+    digimon_name: "Kokatorimon"
+    card_id: "BO-56"
+    level: "Champion"
+  - overall: 181
+    level_rank: 45
+    combined_attack_power: 990
+    digimon_name: "Kokatorimon"
+    card_id: "CP-28"
+    level: "Champion"
+  - overall: 182
+    level_rank: 46
+    combined_attack_power: 990
+    digimon_name: "Leomon"
+    card_id: "CP-03"
+    level: "Champion"
+  - overall: 183
+    level_rank: 47
+    combined_attack_power: 990
+    digimon_name: "Leomon"
+    card_id: "BO-03"
+    level: "Champion"
+  - overall: 184
+    level_rank: 48
+    combined_attack_power: 990
+    digimon_name: "Monochromon"
+    card_id: "BO-12"
+    level: "Champion"
+  - overall: 185
+    level_rank: 49
+    combined_attack_power: 990
+    digimon_name: "Musyamon"
+    card_id: "ST-20"
+    level: "Champion"
+  - overall: 186
+    level_rank: 50
+    combined_attack_power: 990
+    digimon_name: "Thunderballmon"
+    card_id: "ST-75"
+    level: "Champion"
+  - overall: 187
+    level_rank: 51
+    combined_attack_power: 990
+    digimon_name: "Thunderballmon"
+    card_id: "MP-75"
+    level: "Champion"
+  - overall: 188
+    level_rank: 52
+    combined_attack_power: 980
+    digimon_name: "Darkrizamon"
+    card_id: "BO-124"
+    level: "Champion"
+  - overall: 189
+    level_rank: 53
+    combined_attack_power: 980
+    digimon_name: "Frigimon"
+    card_id: "BO-07"
+    level: "Champion"
+  - overall: 190
+    level_rank: 54
+    combined_attack_power: 980
+    digimon_name: "Greymon"
+    card_id: "ST-02"
+    level: "Champion"
+  - overall: 191
+    level_rank: 55
+    combined_attack_power: 980
+    digimon_name: "Kuwagamon"
+    card_id: "TB-04"
+    level: "Champion"
+  - overall: 192
+    level_rank: 56
+    combined_attack_power: 980
+    digimon_name: "MudFrigimon"
+    card_id: "MP-99"
+    level: "Champion"
+  - overall: 193
+    level_rank: 57
+    combined_attack_power: 980
+    digimon_name: "RedVegiemon"
+    card_id: "BO-87"
+    level: "Champion"
+  - overall: 194
+    level_rank: 58
+    combined_attack_power: 980
+    digimon_name: "ShimaUnimon"
+    card_id: "MP-76"
+    level: "Champion"
+  - overall: 195
+    level_rank: 59
+    combined_attack_power: 980
+    digimon_name: "ShimaUnimon"
+    card_id: "ST-76"
+    level: "Champion"
+  - overall: 196
+    level_rank: 60
+    combined_attack_power: 980
+    digimon_name: "Veedramon"
+    card_id: "BO-83"
+    level: "Champion"
+  - overall: 197
+    level_rank: 61
+    combined_attack_power: 980
+    digimon_name: "Woodmon"
+    card_id: "BO-86"
+    level: "Champion"
+  - overall: 198
+    level_rank: 62
+    combined_attack_power: 970
+    digimon_name: "Birdramon"
+    card_id: "ST-04"
+    level: "Champion"
+  - overall: 199
+    level_rank: 63
+    combined_attack_power: 970
+    digimon_name: "Dolphmon"
+    card_id: "ST-35S"
+    level: "Champion"
+  - overall: 200
+    level_rank: 65
+    combined_attack_power: 970
+    digimon_name: "Ninjamon"
+    card_id: "ST-94"
+    level: "Champion"
+  - overall: 201
+    level_rank: 64
+    combined_attack_power: 970
+    digimon_name: "Ninjamon"
+    card_id: "MP-94"
+    level: "Champion"
+  - overall: 202
+    level_rank: 67
+    combined_attack_power: 970
+    digimon_name: "Ogremon"
+    card_id: "CP-04"
+    level: "Champion"
+  - overall: 203
+    level_rank: 66
+    combined_attack_power: 970
+    digimon_name: "Ogremon"
+    card_id: "BO-04"
+    level: "Champion"
+  - overall: 204
+    level_rank: 68
+    combined_attack_power: 970
+    digimon_name: "Saberdramon"
+    card_id: "BO-119"
+    level: "Champion"
+  - overall: 205
+    level_rank: 70
+    combined_attack_power: 970
+    digimon_name: "Seadramon"
+    card_id: "BO-06"
+    level: "Champion"
+  - overall: 206
+    level_rank: 69
+    combined_attack_power: 970
+    digimon_name: "Seadramon"
+    card_id: "CP-06"
+    level: "Champion"
+  - overall: 207
+    level_rank: 71
+    combined_attack_power: 970
+    digimon_name: "Tyrannomon"
+    card_id: "BO-66"
+    level: "Champion"
+  - overall: 208
+    level_rank: 72
+    combined_attack_power: 960
+    digimon_name: "Coelamon"
+    card_id: "ST-36S"
+    level: "Champion"
+  - overall: 209
+    level_rank: 73
+    combined_attack_power: 960
+    digimon_name: "Deltamon"
+    card_id: "BO-74"
+    level: "Champion"
+  - overall: 210
+    level_rank: 74
+    combined_attack_power: 960
+    digimon_name: "Dolphmon"
+    card_id: "ST-35"
+    level: "Champion"
+  - overall: 211
+    level_rank: 75
+    combined_attack_power: 960
+    digimon_name: "Kuwagamon"
+    card_id: "BO-13"
+    level: "Champion"
+  - overall: 212
+    level_rank: 76
+    combined_attack_power: 960
+    digimon_name: "Kuwagamon"
+    card_id: "CP-07"
+    level: "Champion"
+  - overall: 213
+    level_rank: 78
+    combined_attack_power: 960
+    digimon_name: "MoriShellmon"
+    card_id: "MP-93"
+    level: "Champion"
+  - overall: 214
+    level_rank: 77
+    combined_attack_power: 960
+    digimon_name: "MoriShellmon"
+    card_id: "ST-93"
+    level: "Champion"
+  - overall: 215
+    level_rank: 79
+    combined_attack_power: 960
+    digimon_name: "Snimon"
+    card_id: "CP-19"
+    level: "Champion"
+  - overall: 216
+    level_rank: 80
+    combined_attack_power: 960
+    digimon_name: "Snimon"
+    card_id: "BO-25"
+    level: "Champion"
+  - overall: 217
+    level_rank: 81
+    combined_attack_power: 950
+    digimon_name: "Angemon"
+    card_id: "ST-14"
+    level: "Champion"
+  - overall: 218
+    level_rank: 82
+    combined_attack_power: 950
+    digimon_name: "Apemon"
+    card_id: "ST-43S"
+    level: "Champion"
+  - overall: 219
+    level_rank: 83
+    combined_attack_power: 950
+    digimon_name: "Centarumon"
+    card_id: "ST-17"
+    level: "Champion"
+  - overall: 220
+    level_rank: 84
+    combined_attack_power: 950
+    digimon_name: "Clockmon"
+    card_id: "ST-72"
+    level: "Champion"
+  - overall: 221
+    level_rank: 85
+    combined_attack_power: 950
+    digimon_name: "Clockmon"
+    card_id: "MP-72"
+    level: "Champion"
+  - overall: 222
+    level_rank: 86
+    combined_attack_power: 950
+    digimon_name: "Coelamon"
+    card_id: "ST-36"
+    level: "Champion"
+  - overall: 223
+    level_rank: 87
+    combined_attack_power: 950
+    digimon_name: "Dokugumon"
+    card_id: "ST-19S"
+    level: "Champion"
+  - overall: 224
+    level_rank: 88
+    combined_attack_power: 950
+    digimon_name: "Drimogemon"
+    card_id: "BO-10"
+    level: "Champion"
+  - overall: 225
+    level_rank: 89
+    combined_attack_power: 950
+    digimon_name: "Ebidramon"
+    card_id: "BO-18"
+    level: "Champion"
+  - overall: 226
+    level_rank: 90
+    combined_attack_power: 950
+    digimon_name: "Ebidramon"
+    card_id: "CP-12"
+    level: "Champion"
+  - overall: 227
+    level_rank: 92
+    combined_attack_power: 950
+    digimon_name: "Gesomon"
+    card_id: "CP-24"
+    level: "Champion"
+  - overall: 228
+    level_rank: 91
+    combined_attack_power: 950
+    digimon_name: "Gesomon"
+    card_id: "BO-30"
+    level: "Champion"
+  - overall: 229
+    level_rank: 93
+    combined_attack_power: 950
+    digimon_name: "Gorillamon"
+    card_id: "BO-19"
+    level: "Champion"
+  - overall: 230
+    level_rank: 94
+    combined_attack_power: 950
+    digimon_name: "Gorillamon"
+    card_id: "CP-13"
+    level: "Champion"
+  - overall: 231
+    level_rank: 95
+    combined_attack_power: 950
+    digimon_name: "Kabuterimon"
+    card_id: "ST-08"
+    level: "Champion"
+  - overall: 232
+    level_rank: 96
+    combined_attack_power: 950
+    digimon_name: "Meramon"
+    card_id: "BO-05"
+    level: "Champion"
+  - overall: 233
+    level_rank: 97
+    combined_attack_power: 950
+    digimon_name: "Meramon"
+    card_id: "CP-05"
+    level: "Champion"
+  - overall: 234
+    level_rank: 98
+    combined_attack_power: 950
+    digimon_name: "Piddomon"
+    card_id: "MP-79"
+    level: "Champion"
+  - overall: 235
+    level_rank: 99
+    combined_attack_power: 950
+    digimon_name: "Tortomon"
+    card_id: "ST-25S"
+    level: "Champion"
+  - overall: 236
+    level_rank: 100
+    combined_attack_power: 950
+    digimon_name: "Whamon"
+    card_id: "CP-30"
+    level: "Champion"
+  - overall: 237
+    level_rank: 101
+    combined_attack_power: 950
+    digimon_name: "Whamon"
+    card_id: "BO-58"
+    level: "Champion"
+  - overall: 238
+    level_rank: 102
+    combined_attack_power: 940
+    digimon_name: "Apemon"
+    card_id: "ST-43"
+    level: "Champion"
+  - overall: 239
+    level_rank: 103
+    combined_attack_power: 940
+    digimon_name: "Dokugumon"
+    card_id: "ST-19"
+    level: "Champion"
+  - overall: 240
+    level_rank: 104
+    combined_attack_power: 940
+    digimon_name: "Gatomon"
+    card_id: "BO-15"
+    level: "Champion"
+  - overall: 241
+    level_rank: 105
+    combined_attack_power: 940
+    digimon_name: "Gatomon"
+    card_id: "CP-09"
+    level: "Champion"
+  - overall: 242
+    level_rank: 106
+    combined_attack_power: 940
+    digimon_name: "Guardromon"
+    card_id: "ST-73"
+    level: "Champion"
+  - overall: 243
+    level_rank: 107
+    combined_attack_power: 940
+    digimon_name: "Guardromon"
+    card_id: "MP-73"
+    level: "Champion"
+  - overall: 244
+    level_rank: 108
+    combined_attack_power: 940
+    digimon_name: "Gururumon"
+    card_id: "BO-118"
+    level: "Champion"
+  - overall: 245
+    level_rank: 109
+    combined_attack_power: 940
+    digimon_name: "Ikkakumon"
+    card_id: "ST-12"
+    level: "Champion"
+  - overall: 246
+    level_rank: 110
+    combined_attack_power: 940
+    digimon_name: "Mojyamon"
+    card_id: "BO-14"
+    level: "Champion"
+  - overall: 247
+    level_rank: 111
+    combined_attack_power: 940
+    digimon_name: "Mojyamon"
+    card_id: "CP-08"
+    level: "Champion"
+  - overall: 248
+    level_rank: 112
+    combined_attack_power: 940
+    digimon_name: "NiseDrimogemon"
+    card_id: "ST-95"
+    level: "Champion"
+  - overall: 249
+    level_rank: 113
+    combined_attack_power: 940
+    digimon_name: "NiseDrimogemon"
+    card_id: "MP-95"
+    level: "Champion"
+  - overall: 250
+    level_rank: 114
+    combined_attack_power: 940
+    digimon_name: "Tortomon"
+    card_id: "ST-25"
+    level: "Champion"
+  - overall: 251
+    level_rank: 115
+    combined_attack_power: 930
+    digimon_name: "Shellmon"
+    card_id: "BO-09"
+    level: "Champion"
+  - overall: 252
+    level_rank: 116
+    combined_attack_power: 930
+    digimon_name: "Vilemon"
+    card_id: "BO-20"
+    level: "Champion"
+  - overall: 253
+    level_rank: 117
+    combined_attack_power: 930
+    digimon_name: "Vilemon"
+    card_id: "CP-14"
+    level: "Champion"
+  - overall: 254
+    level_rank: 118
+    combined_attack_power: 920
+    digimon_name: "Garurumon"
+    card_id: "ST-06"
+    level: "Champion"
+  - overall: 255
+    level_rank: 119
+    combined_attack_power: 920
+    digimon_name: "Rockmon"
+    card_id: "ST-22S"
+    level: "Champion"
+  - overall: 256
+    level_rank: 120
+    combined_attack_power: 910
+    digimon_name: "J-Mojyamon"
+    card_id: "BO-117"
+    level: "Champion"
+  - overall: 257
+    level_rank: 121
+    combined_attack_power: 910
+    digimon_name: "Roachmon"
+    card_id: "CP-17"
+    level: "Champion"
+  - overall: 258
+    level_rank: 122
+    combined_attack_power: 910
+    digimon_name: "Roachmon"
+    card_id: "BO-23"
+    level: "Champion"
+  - overall: 259
+    level_rank: 123
+    combined_attack_power: 910
+    digimon_name: "Rockmon"
+    card_id: "ST-22"
+    level: "Champion"
+  - overall: 260
+    level_rank: 124
+    combined_attack_power: 910
+    digimon_name: "SandYanmamon"
+    card_id: "MP-102"
+    level: "Champion"
+  - overall: 261
+    level_rank: 125
+    combined_attack_power: 910
+    digimon_name: "Unimon"
+    card_id: "ST-16"
+    level: "Champion"
+  - overall: 262
+    level_rank: 126
+    combined_attack_power: 900
+    digimon_name: "Deputymon"
+    card_id: "MP-70"
+    level: "Champion"
+  - overall: 263
+    level_rank: 127
+    combined_attack_power: 900
+    digimon_name: "Flymon"
+    card_id: "MP-110"
+    level: "Champion"
+  - overall: 264
+    level_rank: 128
+    combined_attack_power: 900
+    digimon_name: "Kiwimon"
+    card_id: "BO-85"
+    level: "Champion"
+  - overall: 265
+    level_rank: 129
+    combined_attack_power: 900
+    digimon_name: "Yanmamon"
+    card_id: "MP-101"
+    level: "Champion"
+  - overall: 266
+    level_rank: 130
+    combined_attack_power: 860
+    digimon_name: "Togemon"
+    card_id: "BO-84"
+    level: "Champion"
+  - overall: 267
+    level_rank: 131
+    combined_attack_power: 860
+    digimon_name: "Togemon"
+    card_id: "ST-10"
+    level: "Champion"
+  - overall: 268
+    level_rank: 132
+    combined_attack_power: 840
+    digimon_name: "ShellNumemon"
+    card_id: "BO-123"
+    level: "Champion"
+  - overall: 269
+    level_rank: 133
+    combined_attack_power: 810
+    digimon_name: "Raremon"
+    card_id: "BO-72"
+    level: "Champion"
+  - overall: 270
+    level_rank: 2
+    combined_attack_power: 770
+    digimon_name: "Tsukaimon"
+    card_id: "MP-90"
+    level: "Rookie"
+  - overall: 271
+    level_rank: 1
+    combined_attack_power: 770
+    digimon_name: "Tsukaimon"
+    card_id: "ST-90"
+    level: "Rookie"
+  - overall: 272
+    level_rank: 3
+    combined_attack_power: 760
+    digimon_name: "Floramon"
+    card_id: "BO-81"
+    level: "Rookie"
+  - overall: 273
+    level_rank: 5
+    combined_attack_power: 760
+    digimon_name: "Kokuwamon"
+    card_id: "MP-64"
+    level: "Rookie"
+  - overall: 274
+    level_rank: 4
+    combined_attack_power: 760
+    digimon_name: "Kokuwamon"
+    card_id: "ST-64"
+    level: "Rookie"
+  - overall: 275
+    level_rank: 7
+    combined_attack_power: 760
+    digimon_name: "Muchomon"
+    card_id: "ST-68"
+    level: "Rookie"
+  - overall: 276
+    level_rank: 6
+    combined_attack_power: 760
+    digimon_name: "Muchomon"
+    card_id: "MP-68"
+    level: "Rookie"
+  - overall: 277
+    level_rank: 8
+    combined_attack_power: 760
+    digimon_name: "Patamon"
+    card_id: "ST-13"
+    level: "Rookie"
+  - overall: 278
+    level_rank: 10
+    combined_attack_power: 760
+    digimon_name: "Salamon"
+    card_id: "MP-66"
+    level: "Rookie"
+  - overall: 279
+    level_rank: 9
+    combined_attack_power: 760
+    digimon_name: "Salamon"
+    card_id: "ST-66"
+    level: "Rookie"
+  - overall: 280
+    level_rank: 11
+    combined_attack_power: 760
+    digimon_name: "SnowGoburimon"
+    card_id: "BO-113"
+    level: "Rookie"
+  - overall: 281
+    level_rank: 12
+    combined_attack_power: 750
+    digimon_name: "Agumon"
+    card_id: "ST-01"
+    level: "Rookie"
+  - overall: 282
+    level_rank: 14
+    combined_attack_power: 750
+    digimon_name: "Gazimon"
+    card_id: "BO-60"
+    level: "Rookie"
+  - overall: 283
+    level_rank: 13
+    combined_attack_power: 750
+    digimon_name: "Gazimon"
+    card_id: "CP-32"
+    level: "Rookie"
+  - overall: 284
+    level_rank: 15
+    combined_attack_power: 750
+    digimon_name: "Gizamon"
+    card_id: "BO-71"
+    level: "Rookie"
+  - overall: 285
+    level_rank: 16
+    combined_attack_power: 750
+    digimon_name: "Lopmon"
+    card_id: "MO-02"
+    level: "Rookie"
+  - overall: 286
+    level_rank: 17
+    combined_attack_power: 750
+    digimon_name: "Palmon"
+    card_id: "TB-03"
+    level: "Rookie"
+  - overall: 287
+    level_rank: 18
+    combined_attack_power: 750
+    digimon_name: "Palmon"
+    card_id: "ST-09"
+    level: "Rookie"
+  - overall: 288
+    level_rank: 19
+    combined_attack_power: 750
+    digimon_name: "Penguinmon"
+    card_id: "BO-109"
+    level: "Rookie"
+  - overall: 289
+    level_rank: 21
+    combined_attack_power: 750
+    digimon_name: "Psychemon"
+    card_id: "MP-89"
+    level: "Rookie"
+  - overall: 290
+    level_rank: 20
+    combined_attack_power: 750
+    digimon_name: "Psychemon"
+    card_id: "ST-89"
+    level: "Rookie"
+  - overall: 291
+    level_rank: 22
+    combined_attack_power: 750
+    digimon_name: "Sharmamon"
+    card_id: "BO-115"
+    level: "Rookie"
+  - overall: 292
+    level_rank: 23
+    combined_attack_power: 750
+    digimon_name: "ToyAgumon"
+    card_id: "MP-65"
+    level: "Rookie"
+  - overall: 293
+    level_rank: 24
+    combined_attack_power: 740
+    digimon_name: "Betamon"
+    card_id: "MP-87"
+    level: "Rookie"
+  - overall: 294
+    level_rank: 25
+    combined_attack_power: 740
+    digimon_name: "ClearAgumon"
+    card_id: "BO-112"
+    level: "Rookie"
+  - overall: 295
+    level_rank: 27
+    combined_attack_power: 740
+    digimon_name: "Elecmon"
+    card_id: "CP-33"
+    level: "Rookie"
+  - overall: 296
+    level_rank: 26
+    combined_attack_power: 740
+    digimon_name: "Elecmon"
+    card_id: "BO-61"
+    level: "Rookie"
+  - overall: 297
+    level_rank: 28
+    combined_attack_power: 740
+    digimon_name: "Gabumon"
+    card_id: "ST-05"
+    level: "Rookie"
+  - overall: 298
+    level_rank: 29
+    combined_attack_power: 740
+    digimon_name: "Gomamon"
+    card_id: "ST-11"
+    level: "Rookie"
+  - overall: 299
+    level_rank: 30
+    combined_attack_power: 740
+    digimon_name: "SnowAgumon"
+    card_id: "BO-110"
+    level: "Rookie"
+  - overall: 300
+    level_rank: 31
+    combined_attack_power: 730
+    digimon_name: "Aruraumon"
+    card_id: "BO-111"
+    level: "Rookie"
+  - overall: 301
+    level_rank: 32
+    combined_attack_power: 730
+    digimon_name: "Biyomon"
+    card_id: "ST-03"
+    level: "Rookie"
+  - overall: 302
+    level_rank: 34
+    combined_attack_power: 730
+    digimon_name: "Goburimon"
+    card_id: "MP-67"
+    level: "Rookie"
+  - overall: 303
+    level_rank: 33
+    combined_attack_power: 730
+    digimon_name: "Goburimon"
+    card_id: "ST-67"
+    level: "Rookie"
+  - overall: 304
+    level_rank: 35
+    combined_attack_power: 730
+    digimon_name: "Hagurumon"
+    card_id: "MP-63"
+    level: "Rookie"
+  - overall: 305
+    level_rank: 36
+    combined_attack_power: 730
+    digimon_name: "Keramon"
+    card_id: "BO-114"
+    level: "Rookie"
+  - overall: 306
+    level_rank: 37
+    combined_attack_power: 730
+    digimon_name: "ModokiBetamon"
+    card_id: "MP-91"
+    level: "Rookie"
+  - overall: 307
+    level_rank: 38
+    combined_attack_power: 720
+    digimon_name: "Mushroomon"
+    card_id: "BO-82"
+    level: "Rookie"
+  - overall: 308
+    level_rank: 40
+    combined_attack_power: 710
+    digimon_name: "Dokunemon"
+    card_id: "MP-88"
+    level: "Rookie"
+  - overall: 309
+    level_rank: 39
+    combined_attack_power: 710
+    digimon_name: "Dokunemon"
+    card_id: "ST-88"
+    level: "Rookie"
+  - overall: 310
+    level_rank: 41
+    combined_attack_power: 710
+    digimon_name: "Tapirmon"
+    card_id: "BO-36"
+    level: "Rookie"
+  - overall: 311
+    level_rank: 42
+    combined_attack_power: 700
+    digimon_name: "Candlemon"
+    card_id: "ST-41S"
+    level: "Rookie"
+  - overall: 312
+    level_rank: 44
+    combined_attack_power: 700
+    digimon_name: "Crabmon"
+    card_id: "BO-28"
+    level: "Rookie"
+  - overall: 313
+    level_rank: 43
+    combined_attack_power: 700
+    digimon_name: "Crabmon"
+    card_id: "CP-22"
+    level: "Rookie"
+  - overall: 314
+    level_rank: 45
+    combined_attack_power: 700
+    digimon_name: "Gotsumon"
+    card_id: "TB-01"
+    level: "Rookie"
+  - overall: 315
+    level_rank: 46
+    combined_attack_power: 700
+    digimon_name: "Kunemon"
+    card_id: "TB-02"
+    level: "Rookie"
+  - overall: 316
+    level_rank: 47
+    combined_attack_power: 700
+    digimon_name: "Kunemon"
+    card_id: "ST-18"
+    level: "Rookie"
+  - overall: 317
+    level_rank: 48
+    combined_attack_power: 700
+    digimon_name: "Tentomon"
+    card_id: "ST-07"
+    level: "Rookie"
+  - overall: 318
+    level_rank: 49
+    combined_attack_power: 690
+    digimon_name: "Candlemon"
+    card_id: "ST-41"
+    level: "Rookie"
+  - overall: 319
+    level_rank: 50
+    combined_attack_power: 690
+    digimon_name: "DemiDevimon"
+    card_id: "ST-42S"
+    level: "Rookie"
+  - overall: 320
+    level_rank: 51
+    combined_attack_power: 690
+    digimon_name: "Gotsumon"
+    card_id: "ST-23S"
+    level: "Rookie"
+  - overall: 321
+    level_rank: 52
+    combined_attack_power: 690
+    digimon_name: "Syakomon"
+    card_id: "BO-29"
+    level: "Rookie"
+  - overall: 322
+    level_rank: 53
+    combined_attack_power: 690
+    digimon_name: "Syakomon"
+    card_id: "CP-23"
+    level: "Rookie"
+  - overall: 323
+    level_rank: 54
+    combined_attack_power: 690
+    digimon_name: "Terriermon"
+    card_id: "MO-01"
+    level: "Rookie"
+  - overall: 324
+    level_rank: 55
+    combined_attack_power: 680
+    digimon_name: "DemiDevimon"
+    card_id: "ST-42"
+    level: "Rookie"
+  - overall: 325
+    level_rank: 56
+    combined_attack_power: 680
+    digimon_name: "Gotsumon"
+    card_id: "ST-23"
+    level: "Rookie"
+  - overall: 326
+    level_rank: 57
+    combined_attack_power: 670
+    digimon_name: "Otamamon"
+    card_id: "ST-24S"
+    level: "Rookie"
+  - overall: 327
+    level_rank: 58
+    combined_attack_power: 660
+    digimon_name: "Otamamon"
+    card_id: "ST-24"
+    level: "Rookie"
+  - overall: 328
+    level_rank: 135
+    combined_attack_power: 640
+    digimon_name: "PlatinumSukamon"
+    card_id: "ST-92"
+    level: "Champion"
+  - overall: 329
+    level_rank: 134
+    combined_attack_power: 640
+    digimon_name: "PlatinumSukamon"
+    card_id: "MP-92"
+    level: "Champion"
+  - overall: 330
+    level_rank: 136
+    combined_attack_power: 630
+    digimon_name: "Numemon"
+    card_id: "CP-35"
+    level: "Champion"
+  - overall: 331
+    level_rank: 137
+    combined_attack_power: 630
+    digimon_name: "Numemon"
+    card_id: "BO-63"
+    level: "Champion"
+  - overall: 332
+    level_rank: 138
+    combined_attack_power: 620
+    digimon_name: "Nanimon"
+    card_id: "ST-15"
+    level: "Champion"
+  - overall: 333
+    level_rank: 139
+    combined_attack_power: 590
+    digimon_name: "Geremon"
+    card_id: "BO-122"
+    level: "Champion"
+  - overall: 334
+    level_rank: 140
+    combined_attack_power: 570
+    digimon_name: "Vegiemon"
+    card_id: "MP-98"
+    level: "Champion"
+  - overall: 335
+    level_rank: 141
+    combined_attack_power: 570
+    digimon_name: "Vegiemon"
+    card_id: "ST-98"
+    level: "Champion"
+  - overall: 336
+    level_rank: 142
+    combined_attack_power: 570
+    digimon_name: "Zassomon"
+    card_id: "MP-100"
+    level: "Champion"
+  - overall: 337
+    level_rank: 143
+    combined_attack_power: 560
+    digimon_name: "Sukamon"
+    card_id: "CP-31"
+    level: "Champion"
+  - overall: 338
+    level_rank: 144
+    combined_attack_power: 560
+    digimon_name: "Sukamon"
+    card_id: "BO-59"
+    level: "Champion"

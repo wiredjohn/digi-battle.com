@@ -1,0 +1,61 @@
+
+title: "Digimon Digi-Battle Card Database"
+description: "The Complete Digimon Digi-Battle Card List. From starter set and booster box scans to the game rules, you can find it all here online."
+url: "https://digi-battle.com"
+
+excerpt_separator: ""
+
+collections:
+  upper_deck_cards:
+    output: true
+    permalink: /upper-deck/cards/:slug
+  upper_deck_oddities:
+    output: false
+  upper_deck_sets:
+    output: true
+    permalink: /upper-deck/sets/:slug
+  upper_deck_decks:
+    output: true
+    permalink: /upper-deck/battle-decks/:slug
+  articles:
+    output: true
+    permalink: /articles/:slug
+  devlog:
+    output: false  
+  dw01:
+    output: true
+    permalink: /dw01/:name
+
+defaults:
+  - scope:
+      path: ""
+      type: upper_deck_cards
+    values:
+      layout: upper_deck_cards
+  - scope:
+      path: ""
+      type: upper_deck_decks
+    values:
+      layout: upper_deck_decks
+  - scope:
+      path: ""
+      type: upper_deck_sets
+    values:
+      layout: upper_deck_sets
+  - scope:
+      path: ""
+      type: articles
+    values:
+      layout: articles
+  - scope:
+      path: ""
+      type: dw01
+    values:
+      layout: dw01
+
+exclude:
+  - .sass-cache
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - .vs

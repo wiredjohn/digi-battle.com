@@ -1,0 +1,20 @@
+---
+    permalink: /random
+---
+<head>
+    <meta name="robots" content="noindex, follow">
+</head>
+
+<script>
+const cards = [
+    {% for card in site.upper_deck_cards %}
+        "{{ card.url | relative_url }}",
+    {% endfor %}
+];
+
+location.replace(
+    cards[Math.floor(Math.random() * cards.length)]
+);
+</script>
+
+<p>Choosing a random card...</p>

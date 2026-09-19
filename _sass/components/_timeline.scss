@@ -1,0 +1,39 @@
+@use "variables" as *;
+
+.timeline {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.timeline__row {
+    display: grid;
+    grid-template-columns: 100px 5px 1fr;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: -1px;    
+}
+
+.timeline__date {
+    text-align: right;
+}
+
+.timeline__marker {
+    width: 100%;
+    height: 100%;
+    background-color: $color-accent;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.timeline__marker:after {
+    content: '';
+    width: 25px;
+    height: 5px;
+    background-color: $color-accent;
+    margin-left: -10px;
+}
+
+.timeline__text {
+    padding: $spacing 0;
+}

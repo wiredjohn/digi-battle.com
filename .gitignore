@@ -1,0 +1,7 @@
+.bundle
+.jekyll-cache
+.vs
+_site
+*.bak
+.DS_Store
+Thumbs.db

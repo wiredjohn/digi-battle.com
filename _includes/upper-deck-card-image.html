@@ -1,0 +1,23 @@
+{% assign width = include.width | default: 700 %}
+{% assign height = include.width | plus: 0 | times: 1.38 %}
+{% assign loading = include.loading | default: "lazy" %}
+{% assign fetchpriority = include.fetchpriority | default: "" %}
+
+<picture>
+    <source type="image/webp"
+            srcset="
+      /assets/img/upper-deck-cards/{{ include.filename }}-175.webp 175w,
+      /assets/img/upper-deck-cards/{{ include.filename }}-350.webp 350w,
+      /assets/img/upper-deck-cards/{{ include.filename }}-700.webp 700w"
+            sizes="{{ width }}px">
+
+    <img src="/assets/img/upper-deck-cards/{{ include.filename }}.png"
+         alt="{{ include.alt | escape }}"
+         width="{{ width }}"
+         height="{{ height }}"
+         loading="{{ loading }}"
+         {% if fetchpriority != "" %}
+            fetchpriority="{{ fetchpriority }}"
+         {% endif %}
+         decoding="async">
+</picture>

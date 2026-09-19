@@ -1,0 +1,141 @@
+<h1 class="ud-card__name">
+    {{ page.name }}
+</h1>
+
+<div class="ud-card__level">
+    <img src="/assets/img/icons/battle-type-{{page.battle_type | downcase}}.png" class="ud-card__battle-type-icon" alt="Digimon Battle Type {{ page.battle_type }}" />
+    <p class="ud-card__level-text {{page.level | downcase }}">
+        {{page.level}} Level
+    </p>
+</div>
+
+<div class="ud-card__generic">
+    <div class="ud-card__generic--left">
+        <dl>
+            <dt>Set: </dt>
+            <dd><a href="/upper-deck/sets/{{ page.set | slugify}}">{{ page.set }}</a></dd>
+            <dt>Rarity:</dt>
+            <dd class="mb-0">{{ page.rarity }}</dd>
+        </dl>
+    </div>
+    <div class="ud-card__generic--right">
+        <dl>
+            <dt>Serial Code:</dt>
+            <dd>{{ page.serial_code }}</dd>
+            <dt>Finish:</dt>
+            <dd class="mb-0">{{ page.finish }}</dd>
+        </dl>
+    </div>
+</div>
+
+<ul class="ud-card__attacks">
+    <li class="ud-card__attack">
+        <img src="/assets/img/icons/battle-type-red.png"
+             class="ud-card__attack-battle-type-icon"
+             alt="Red attack type">
+
+        <div class="ud-card__attack-info">
+            <span class="ud-card__attack-power">
+                {{ page.attack_red }}
+            </span>
+            <span class="ud-card__attack-name">
+                {{ page.attack_red_power }}
+            </span>
+        </div>
+    </li>
+
+    <li class="ud-card__attack">
+        <img src="/assets/img/icons/battle-type-green.png"
+             class="ud-card__attack-battle-type-icon"
+             alt="Green attack type">
+
+        <div class="ud-card__attack-info">
+            <span class="ud-card__attack-power">
+                {{ page.attack_green }}
+            </span>
+            <span class="ud-card__attack-name">
+                {{ page.attack_green_power }}
+            </span>
+        </div>
+    </li>
+
+    <li class="ud-card__attack">
+        <img src="/assets/img/icons/battle-type-yellow.png"
+             class="ud-card__attack-battle-type-icon"
+             alt="Yellow attack type">
+
+        <div class="ud-card__attack-info">
+            <span class="ud-card__attack-power">
+                {{ page.attack_yellow }}
+            </span>
+            <span class="ud-card__attack-name">
+                {{ page.attack_yellow_power }}
+            </span>
+        </div>
+    </li>
+</ul>
+
+<div class="ud-card__digimon-info">
+    <dl>
+        <dt>Description:</dt>
+        <dd>{{ page.digimon_description }}</dd>
+
+        {% if page.digimon_type %}
+        <dt>Digimon Type:</dt>
+        <dd>{{ page.digimon_type }}</dd>
+        {% endif %}
+
+        {% if page.special_ability %}
+        <dt>Special Ability:</dt>
+        <dd>{{ page.special_ability }}</dd>
+        {% endif %}
+
+        {% if page.special_effect %}
+        <dt>Special Effect:</dt>
+        <dd>{{ page.special_effect }}</dd>
+        {% endif %}
+
+        <dt>Editions &amp; Languages:</dt>
+        <dd>
+            {% include upper-deck-card-editions-table.html card=page %}
+        </dd>
+
+        <dt>Scores:</dt>
+        <dd>
+            <div class="ud-card__digimon-scores">
+                <div class="ud-card__score">
+                    <p class="ud-card__score-level">
+                        Rookie
+                    </p>
+                    <p class="ud-card__score-value">
+                        {{ page.score_rookie }}
+                    </p>
+                </div>
+                <div class="ud-card__score">
+                    <p class="ud-card__score-level">
+                        Champion
+                    </p>
+                    <p class="ud-card__score-value">
+                        {{ page.score_champion }}
+                    </p>
+                </div>
+                <div class="ud-card__score">
+                    <p class="ud-card__score-level">
+                        Ultimate
+                    </p>
+                    <p class="ud-card__score-value">
+                        {{ page.score_ultimate }}
+                    </p>
+                </div>
+                <div class="ud-card__score">
+                    <p class="ud-card__score-level">
+                        Mega
+                    </p>
+                    <p class="ud-card__score-value">
+                        {{ page.score_mega }}
+                    </p>
+                </div>
+            </div>
+        </dd>
+    </dl>
+</div>

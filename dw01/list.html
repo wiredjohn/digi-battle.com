@@ -1,0 +1,88 @@
+---
+layout: default
+title: DW-01 Card List
+seo_description: "A list of all known Digimon World PS1 MetalGreymon DW-01 Promo Cards from the Digimon Digi-Battle card game."
+---
+
+<nav class="breadcrumbs">
+    <a href="/dw01" class="breadcrumbs__link">DW-01 Archive</a>
+    <span>Card List</span>
+</nav>
+
+<h1>
+    {{ page.title }}
+</h1>
+
+<p>
+    This is a catalog of all DW-01 MetalGreymon promo cards I know to still exist. This card was limited to 100,000 with each card being numbered. You can read more about the card and this archive on the <a href="/dw01">archive homepage</a>.
+</p>
+
+<section class="dw01-list-container">
+
+    {% assign group = 0 %}
+    {% assign cards = site.dw01 | sort: "number" %}
+
+    {% for card in cards %}
+    {% assign number = card.number | plus: 0 %}
+
+    {% if number > group %}
+    {% assign group = group | plus: 10000 %}
+    {% if group <> 0 %}
+    </ol>
+    </div>
+    {% endif %}
+
+    <div class="dw01-list-group">
+        <h2 class="dw01-list-title">{{ group | minus: 9999 }}-{{ group }}</h2>
+        <ol class="dw01-list">
+            {% endif %}
+
+            <li class="dw01-list-item">
+                <a href="{{ card.url }}">
+                    {{ card.number }}
+                </a>
+
+                {% if card.psa_graded == true %}
+                <img src="/assets/img/icons/psa.png" alt="PSA graded card" title="PSA Graded" />
+                {% endif %}
+
+                {% if card.owner_name %}
+                <img src="/assets/img/icons/person.png" alt="Owner known" title="Owner Known" />
+                {% endif %}
+            </li>
+            {% endfor %}
+    </div>
+
+</section>
+
+
+
+
+
+
+
+
+<!--<table class="dw01-list__table">
+    <tr>
+        <th>Number</th>
+        <th>Owner</th>
+        <th>PSA Grade</th>
+        <th></th>
+    </tr>
+
+    {% for card in site.dw01 %}
+    <tr>
+        <td>
+            <a href="{{ card.url }}">{{ card.number }} </a>
+        </td>
+        <td>
+            {{ card.owner_name }}
+        </td>
+        <td>
+            {% if card.psa_grade %}
+            PSA {{ card.psa_grade }}
+            {% endif %}
+        </td>
+    </tr>
+    {% endfor %}
+</table>-->

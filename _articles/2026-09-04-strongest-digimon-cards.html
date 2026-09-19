@@ -1,0 +1,158 @@
+---
+title: "Strongest Digimon Cards"
+cover_image: ""
+date_data_generated: "2026-09-17"
+redirect_from:
+  - "/Ranks"
+  - "/Ranks/All"
+  - "/Ranks/Rookie"
+  - "/Ranks/Champion"
+  - "/Ranks/Ultimate"
+  - "/Ranks/Mega"
+---
+<p>
+    The card rank is calculated by summing the cards Red Attack power, Green Attack power and Yellow Attack power. In instances where two cards have the same overall power rating then they are sorted in alphabetical order.
+</p>
+<p>
+    This is by no means a perfect way of determining the best or worst cards in the game and doesn't take into account power option support, special effects, Digivolution lines or anything else. However this does give you a high level overview of what cards are likely to be better than others.
+</p>
+<p>
+    <strong>WARNING</strong>: This content has been statically generated on {{ page.date_data_generated | date: "%d/%m/%Y" }} - any updates to any attack powers on any Card's main page will not be reflected here.
+</p>
+<p>
+    There's also a discrepency in the sort order when the cards are identical (e.g. Magnadramon CP-11 &amp; BO-17). The overall rank is sorted descending by serial code and the level rank is sorted ascending, so one card will appear higher overall and the other will be higher in the level rank which doesn't make sense! Only noticed this when rebuilding this page following the redesign so this has been messed up for years&hellip;
+</p>
+
+{% assign overall_count = site.data.upper-deck-strongest-cards.rankings | size %}
+{% assign rookie_count = site.data.upper-deck-strongest-cards.rankings | where: "level", "Rookie" | size %}
+{% assign champion_count = site.data.upper-deck-strongest-cards.rankings | where: "level", "Champion" | size %}
+{% assign ultimate_count = site.data.upper-deck-strongest-cards.rankings | where: "level", "Ultimate" | size %}
+{% assign mega_count = site.data.upper-deck-strongest-cards.rankings | where: "level", "Mega" | size %}
+
+<h2>
+    <span id="FilterHeading"></span> Digimon Rankings:
+</h2>
+
+<div id="LevelFilters" class="strongest-digimon__level-filters">
+    <button type="button" data-level="all">All</button>
+    <button type="button" data-level="Rookie">Rookie</button>
+    <button type="button" data-level="Champion">Champion</button>
+    <button type="button" data-level="Ultimate">Ultimate</button>
+    <button type="button" data-level="Mega">Mega</button>
+</div>
+
+<table class="strongest-digimon__table">
+    <thead>
+        <tr>
+            <th>Overall</th>
+            <th>Level Rank</th>
+            <th class="text-left">Digimon</th>
+            <th>Level</th>
+            <th>Combined Power</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for ranking in site.data.upper-deck-strongest-cards.rankings %}
+        <tr data-level="{{ ranking.level }}" data-overall-rank="{{ ranking.overall }}" data-level-rank="{{ ranking.level_rank }}">
+            <td>{{ ranking.overall }} / {{ overall_count }}</td>
+            <td>
+                {{ ranking.level_rank }} /
+                {% if ranking.level == "Rookie" %}
+                {{ rookie_count }}
+                {% elsif ranking.level == "Champion" %}
+                {{ champion_count }}
+                {% elsif ranking.level == "Ultimate" %}
+                {{ ultimate_count }}
+                {% elsif ranking.level == "Mega" %}
+                {{ mega_count }}
+                {% endif %}
+            </td>
+            <td class="text-left">
+                <a href="/upper-deck/cards/{{ ranking.digimon_name }}-{{ ranking.card_id }}">{{ ranking.digimon_name }}</a> ({{ ranking.card_id }})
+            </td>
+            <td>{{ ranking.level }}</td>
+            <td>{{ ranking.combined_attack_power }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var buttons = document.querySelectorAll('#LevelFilters button');
+        var tableBody = document.querySelector('table tbody');
+        var filterHeading = document.querySelector('#FilterHeading');
+        var rows = Array.from(tableBody.querySelectorAll('tr'));
+        var validLevels = ['Rookie', 'Champion', 'Ultimate', 'Mega'];
+
+        function applyLevel(level) {
+            if (!validLevels.includes(level)) {
+                level = null;
+                filterHeading.innerText = "All";
+            }
+            else {
+                filterHeading.innerText = level;
+            }
+
+            rows.sort(function (a, b) {
+                var aRank;
+                var bRank;
+
+                if (level === null) {
+                    aRank = parseInt(a.getAttribute('data-overall-rank'), 10);
+                    bRank = parseInt(b.getAttribute('data-overall-rank'), 10);
+                } else {
+                    aRank = parseInt(a.getAttribute('data-level-rank'), 10);
+                    bRank = parseInt(b.getAttribute('data-level-rank'), 10);
+                }
+
+                return aRank - bRank;
+            });
+
+            rows.forEach(function (row) {
+                if (level === null || row.getAttribute('data-level') === level) {
+                    //row.style.display = '';
+                    row.classList.remove("d-none");
+                } else {
+                    //row.style.display = 'none';
+                    row.classList.add("d-none");
+                }
+
+                tableBody.appendChild(row);
+            });
+
+            buttons.forEach(function (button) {
+                if (level === null && button.getAttribute('data-level') === 'all') {
+                    button.classList.add('active');
+                } else if (button.getAttribute('data-level') === level) {
+                    button.classList.add('active');
+                } else {
+                    button.classList.remove('active');
+                }
+            });
+        }
+
+        buttons.forEach(function (button) {
+            button.addEventListener('click', function () {
+                var level = this.getAttribute('data-level');
+                var url = new URL(window.location.href);
+
+                if (level === 'all') {
+                    url.searchParams.delete('level');
+                    level = null;
+                } else {
+                    url.searchParams.set('level', level);
+                }
+
+                window.history.pushState({}, '', url);
+
+                applyLevel(level);
+            });
+        });
+
+        var urlParams = new URLSearchParams(window.location.search);
+        var initialLevel = urlParams.get('level');
+
+        applyLevel(initialLevel);
+    });
+</script>

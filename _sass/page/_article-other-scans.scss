@@ -1,0 +1,29 @@
+@use "variables" as *;
+
+.other-scans__grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: $spacing-lg $spacing;
+    margin: $spacing 0;
+}
+
+@media(min-width: $break-md) {
+    .other-scans__grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media(min-width: $break-lg) {
+    .other-scans__grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+.other-scans__grid-item figure {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    text-align: center;
+    gap: $spacing-sm;
+}

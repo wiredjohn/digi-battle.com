@@ -1,0 +1,103 @@
+---
+title: "History of the Digi-Battle Card Game"
+timeline:
+  - date: "1999-11-20"
+    event: "Upper Deck announce plans to create the Digi-Battle card game with Bandai."
+    references:
+      - "https://web.archive.org/web/20000621223324/http://www.upperdeck.com/digimon/index.html"
+
+  - date: "2000-02"
+    event: "Initial release of Digi-Battle, including the Starter Set and Booster Set 1."
+    references:
+      - "https://en.wikipedia.org/wiki/Digi-Battle"
+
+  - date: "2000-05-23"
+    event: "Digimon World is released alongside the DW-01 promotional card."
+    references:
+      - "https://en.wikipedia.org/wiki/Digimon_World"
+
+  - date: "2000-07-13"
+    event: "Taco Bell promotional cards are released. The promotion runs until 2000-09-09."
+    references:
+      - "https://www.qsrmagazine.com/news/yo-quiero-taco-bell-and-digimon"
+
+  - date: "2000-08-15"
+    event: "Upper Deck update their website to announce the release of Booster Set 2."
+    references:
+      - "https://web.archive.org/web/20000815093240/http://www.upperdeck.com:80/"
+
+  - date: "2000-09-02"
+    event: "The Digimon Weekend takes place at Universal Studios Hollywood. The UN-01 Goldramon promotional card is distributed exclusively during the event."
+    references:
+      - "https://www.animenation.net/blog/universal-studios-hollywood-does-digimon/"
+      - "http://www.toymania.com/news/messages/802.shtml"
+
+  - date: "2000-10-06"
+    event: "Digimon: The Movie promotional cards are released alongside the theatrical release of Digimon: The Movie."
+    references: []
+
+  - date: "2000-10"
+    event: "DM-01 Omnimon and DM-02 The Miracle 4 are released with action figures as part of the Digimon: The Movie promotional campaign."
+    references:
+      - "https://www.worthpoint.com/worthopedia/digimon-miracle-four-digi-set-miracle-1736390272"
+      - "https://www.figurerealm.com/actionfigure?action=actionfigure&id=50713"
+
+  - date: "2000-12"
+    event: "Fox Kids promotional cards FX-08, FX-09 and FX-10 are released in the Winter 2000 issue of Fox Kids Magazine."
+    references:
+      - "/Content/img/fox-mag-winter-2000-cover.jpg"
+
+  - date: "2000-12-06"
+    event: "The German Comic promotional version of DW-01 is released."
+    references: []
+
+  - date: "2001"
+    event: "The Cereal Promo set is released in the UK, based on the copyright and best-before dates printed on the cereal boxes."
+    references: []
+
+  - date: "2001-05-04"
+    event: "Upper Deck remove all traces of Digimon from their website."
+    references:
+      - "https://web.archive.org/web/20010504230119/http://www.upperdeck.com:80/"
+
+  - date: "2001-06-28"
+    event: "Digimon Digital Card Battle (PlayStation) is released in Western regions. This game is unrelated to the Digi-Battle trading card game."
+    references: []
+redirect_from: "/Game/History"
+---
+
+<p>
+    This is a timeline of events related to the Digi-Battle card game. Some dates are speculations but I'm pretty sure they're close enough. It's sad to see but the original Digi-Battle cards seem to have only been released for a single year. If you can pinpoint more specific dates or if any of the below information is incorrect then please correct me.
+</p>
+
+<p>
+    Dates are in format day/month/year and when a specific date is not known it is substituted with "00".
+</p>
+
+<section class="timeline">
+
+    {% for item in page.timeline %}
+    <div class="timeline__row">
+        <div class="timeline__date">
+            {{ item.date }}
+        </div>
+
+        <div class="timeline__marker"></div>
+
+        <div class="timeline__text">
+
+            {{ item.event }}
+
+            {% for reference in item.references %}
+            <sup>
+                <a href="{{ reference }}" target="_blank" rel="noopener noreferrer">
+                    (reference{% if item.references.size > 1 %}{{ forloop.index }}{% endif %})
+                </a>
+            </sup>
+            {% endfor %}
+
+        </div>
+    </div>
+    {% endfor %}
+
+</section>

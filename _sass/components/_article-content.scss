@@ -1,0 +1,41 @@
+@use "variables" as *;
+
+.article-content {
+    width: 100%;
+    max-width: $width-max;
+
+    h1, h2, h3, h4, h5 {
+        margin-top: $spacing-lg;
+    }
+
+    h1 {
+        margin-bottom: $spacing;
+    }
+
+    p, ul {
+        margin-bottom: $spacing-sm;
+    }
+
+    img {
+        display: block;
+        margin: 0 auto;
+        max-height: 100vh;
+    }
+
+    @media (min-width: $break-md) {
+        img {
+            max-height: 40vh;
+        }
+    }
+}
+
+.article-footer-nav {
+    border-top: 1px solid $color-accent;
+    padding-top: $spacing-lg;
+    margin-top: $spacing-lg;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: start;
+    justify-content: space-between;
+    gap: $spacing-sm;
+}

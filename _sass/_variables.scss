@@ -1,0 +1,48 @@
+$black: #131313;
+$white: #fff;
+$blue: #4394C9;
+$gray: #4C5A68;
+
+$background-primary: $black;
+
+$font-color-primary: #D9D9D9;
+$font-color-heading: $white;
+$font-color-nav: $white;
+$font-color-link: $blue;
+
+/*$width-max: 960px;*/
+$width-max: 1140px;
+
+$font-size: 16px;
+$font-size-sm: .75rem;
+
+$spacing-xs: .25rem;
+$spacing-sm: .5rem;
+$spacing: 1rem;
+$spacing-lg: 2rem;
+
+$color-rookie: #55645F;
+$color-champion: #D03600;
+$color-ultimate: #2A3F7E;
+$color-mega: #4A2F6E;
+$color-accent: $gray;
+$color-glow: $white;
+
+$box-shadow-glow: 0 0 10px $color-glow;
+
+$break-sm: 576px;
+$break-md: 768px;
+$break-lg: 992px;
+$break-xl: 1200px;
+$break-xxl: 1400px;
+
+
+$ebay-gradient: linear-gradient( 90deg, #E53238 0 25%, #0064D2 25% 50%, #F5AF02 50% 75%, #86B817 75% 100% );
+
+
+$dv-tree-width: 75px;
+$dv-tree-height: 105px;
+$dv-tree-border-width: 2px;
+$dv-tree-col-gap: 80px;
+$dv-tree-card-gap: 5px;
+$dv-tree-line-color: $blue;

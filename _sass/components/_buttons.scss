@@ -1,0 +1,61 @@
+@use "variables" as *;
+
+.btn {
+    border: 1px solid transparent;
+    border-radius: 4px;
+    text-decoration: none;
+    text-align: center;
+    padding: 6px 12px;
+    transition: all .2s linear;
+    font-size: 1rem;
+}
+
+.btn:hover {
+    background-color: transparent;
+}
+
+.btn-primary {
+    border-color: $blue;
+    background-color: $blue;
+    color: $white;
+}
+
+.btn-primary:hover {
+    border-color: $blue;
+    background-color: transparent;
+    color: $blue;
+}
+
+.btn-secondary {
+    border-color: $blue;
+    background-color: transparent;
+    color: $blue;
+}
+
+.btn-secondary:hover {
+    background-color: $blue;
+    color: $white;
+}
+
+.btn-ebay {
+    color: $white;
+    width: 100%;
+    max-width: 350px;
+    border: 3px solid;
+    border-image: $ebay-gradient 1;
+}
+
+.btn-ebay:hover {
+    color: $font-color-link;
+}
+
+.btn-cta {
+    color: $white;
+    background-color: $color-champion;
+    border-color: $color-champion;
+}
+
+.btn-cta:hover {
+    color: $color-champion;
+    background-color: transparent;    
+}

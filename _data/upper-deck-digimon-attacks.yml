@@ -1,0 +1,4824 @@
+attacks:
+  - id: 7194
+    name: "CABLE CRUSHER"
+    battle_type: "Red"
+    power: 650
+    digimon:
+      - name: "Diaboromon"
+        card_id: "MO-12"
+  - id: 8327
+    name: "TOTAL DARKNESS"
+    battle_type: "Red"
+    power: 600
+    digimon:
+      - name: "Apokarimon"
+        card_id: "BO-138"
+  - id: 6207
+    name: "LEGENDARY BLADE"
+    battle_type: "Red"
+    power: 580
+    digimon:
+      - name: "Gryphonmon"
+        card_id: "BO-95"
+  - id: 7165
+    name: "GROUP ATTACK"
+    battle_type: "Red"
+    power: 580
+    digimon:
+      - name: "The Miracle 4"
+        card_id: "DM-02"
+  - id: 2051
+    name: "TOMAHAWK CRUNCH"
+    battle_type: "Red"
+    power: 570
+    digimon:
+      - name: "Boltmon"
+        card_id: "BO-41"
+      - name: "Boltmon"
+        card_id: "TB-11"
+  - id: 4181
+    name: "OCEAN LOVE"
+    battle_type: "Yellow"
+    power: 570
+    digimon:
+      - name: "MarineAngemon"
+        card_id: "BO-34"
+  - id: 7170
+    name: "GREY SWORD"
+    battle_type: "Yellow"
+    power: 570
+    digimon:
+      - name: "Omnimon"
+        card_id: "DM-01"
+  - id: 8331
+    name: "THORN WHIPS"
+    battle_type: "Red"
+    power: 570
+    digimon:
+      - name: "Rosemon"
+        card_id: "BO-140"
+  - id: 2048
+    name: "HOWLING CRUSHER"
+    battle_type: "Red"
+    power: 560
+    digimon:
+      - name: "SaberLeomon"
+        card_id: "TB-10"
+  - id: 7189
+    name: "FIRE TORNADO"
+    battle_type: "Red"
+    power: 560
+    digimon:
+      - name: "Magnadramon"
+        card_id: "MO-10"
+  - id: 7195
+    name: "WEB WRECKER"
+    battle_type: "Green"
+    power: 560
+    digimon:
+      - name: "Diaboromon"
+        card_id: "MO-12"
+  - id: 8333
+    name: "DIMENSIONAL CRUSHER"
+    battle_type: "Green"
+    power: 560
+    digimon:
+      - name: "Millenniummon"
+        card_id: "BO-141"
+  - id: 4095
+    name: "HOWLING CRUSHER"
+    battle_type: "Red"
+    power: 550
+    digimon:
+      - name: "SaberLeomon"
+        card_id: "ST-34"
+  - id: 4182
+    name: "RIVER OF POWER"
+    battle_type: "Red"
+    power: 550
+    digimon:
+      - name: "MetalSeadramon"
+        card_id: "BO-35"
+      - name: "MetalSeadramon"
+        card_id: "CP-26"
+  - id: 7184
+    name: "LIGHTNING SPEAR"
+    battle_type: "Yellow"
+    power: 550
+    digimon:
+      - name: "Kerpymon"
+        card_id: "MO-07"
+  - id: 8194
+    name: "METAL WOLF CLAW"
+    battle_type: "Red"
+    power: 550
+    digimon:
+      - name: "MetalGarurumon"
+        card_id: "ST-85"
+      - name: "MetalGarurumon"
+        card_id: "MP-85"
+  - id: 8321
+    name: "HYDRO CANON"
+    battle_type: "Red"
+    power: 550
+    digimon:
+      - name: "Preciomon"
+        card_id: "BO-135"
+  - id: 8328
+    name: "BIG BANG"
+    battle_type: "Green"
+    power: 550
+    digimon:
+      - name: "Apokarimon"
+        card_id: "BO-138"
+  - id: 2056
+    name: "NOVA FORCE"
+    battle_type: "Yellow"
+    power: 540
+    digimon:
+      - name: "WarGreymon"
+        card_id: "ST-84"
+      - name: "WarGreymon"
+        card_id: "TB-12"
+      - name: "WarGreymon"
+        card_id: "MP-84"
+  - id: 4148
+    name: "FIRE TORNADO"
+    battle_type: "Yellow"
+    power: 540
+    digimon:
+      - name: "Magnadramon"
+        card_id: "BO-17"
+      - name: "Magnadramon"
+        card_id: "CP-11"
+  - id: 7183
+    name: "HOLY HUG"
+    battle_type: "Green"
+    power: 540
+    digimon:
+      - name: "Kerpymon"
+        card_id: "MO-07"
+  - id: 7185
+    name: "LIGHTNING SPEAR"
+    battle_type: "Green"
+    power: 540
+    digimon:
+      - name: "Kerpymon"
+        card_id: "MO-08"
+  - id: 7198
+    name: "GOLD FLAME"
+    battle_type: "Yellow"
+    power: 540
+    digimon:
+      - name: "Goldramon"
+        card_id: "UN-01"
+  - id: 8330
+    name: "ORIFLAME"
+    battle_type: "Yellow"
+    power: 540
+    digimon:
+      - name: "Goldramon"
+        card_id: "BO-139"
+  - id: 4139
+    name: "LIGHTNING BLADE"
+    battle_type: "Green"
+    power: 530
+    digimon:
+      - name: "Andromon"
+        card_id: "BO-11"
+      - name: "Andromon"
+        card_id: "TB-08"
+  - id: 4198
+    name: "TRUMP SWORD"
+    battle_type: "Yellow"
+    power: 530
+    digimon:
+      - name: "Piedmon"
+        card_id: "BO-42"
+      - name: "Piedmon"
+        card_id: "CP-37"
+  - id: 6205
+    name: "CRIMSON FLAME"
+    battle_type: "Green"
+    power: 530
+    digimon:
+      - name: "Phoenixmon"
+        card_id: "BO-94"
+  - id: 6206
+    name: "STAR-LIGHT EXPLOSION"
+    battle_type: "Yellow"
+    power: 530
+    digimon:
+      - name: "Phoenixmon"
+        card_id: "BO-94"
+  - id: 7166
+    name: "TEAMWORK"
+    battle_type: "Green"
+    power: 530
+    digimon:
+      - name: "The Miracle 4"
+        card_id: "DM-02"
+  - id: 8195
+    name: "METAL SLAMMING ATTACK"
+    battle_type: "Green"
+    power: 530
+    digimon:
+      - name: "MetalGarurumon"
+        card_id: "ST-85"
+      - name: "MetalGarurumon"
+        card_id: "MP-85"
+  - id: 8334
+    name: "TOTAL FUSION"
+    battle_type: "Yellow"
+    power: 530
+    digimon:
+      - name: "Millenniummon"
+        card_id: "BO-141"
+  - id: 8339
+    name: "POISON WING"
+    battle_type: "Green"
+    power: 530
+    digimon:
+      - name: "Kimeramon"
+        card_id: "ST-21S"
+  - id: 2049
+    name: "TWIN FANG"
+    battle_type: "Green"
+    power: 520
+    digimon:
+      - name: "SaberLeomon"
+        card_id: "TB-10"
+  - id: 2055
+    name: "MEGA CLAW"
+    battle_type: "Green"
+    power: 520
+    digimon:
+      - name: "WarGreymon"
+        card_id: "TB-12"
+  - id: 4063
+    name: "POISON WING"
+    battle_type: "Green"
+    power: 520
+    digimon:
+      - name: "Kimeramon"
+        card_id: "ST-21"
+  - id: 4147
+    name: "DRAGON FIRE"
+    battle_type: "Green"
+    power: 520
+    digimon:
+      - name: "Magnadramon"
+        card_id: "BO-17"
+      - name: "Magnadramon"
+        card_id: "CP-11"
+  - id: 4161
+    name: "THE FIST OF ASURA"
+    battle_type: "Green"
+    power: 520
+    digimon:
+      - name: "Asuramon"
+        card_id: "BO-24"
+      - name: "Asuramon"
+        card_id: "CP-18"
+  - id: 4166
+    name: "BANANA SLIP"
+    battle_type: "Green"
+    power: 520
+    digimon:
+      - name: "MetalEtemon"
+        card_id: "BO-27"
+      - name: "MetalEtemon"
+        card_id: "CP-21"
+  - id: 4194
+    name: "SPIRAL BONE CRUSHER"
+    battle_type: "Yellow"
+    power: 520
+    digimon:
+      - name: "SkullMammothmon"
+        card_id: "BO-40"
+  - id: 7193
+    name: "NETWORK GRENADE"
+    battle_type: "Yellow"
+    power: 520
+    digimon:
+      - name: "Infermon"
+        card_id: "MO-11"
+  - id: 8336
+    name: "HELL FLAMES"
+    battle_type: "Yellow"
+    power: 520
+    digimon:
+      - name: "Creepymon"
+        card_id: "BO-142"
+  - id: 23
+    name: "GIGA CANNON"
+    battle_type: "Yellow"
+    power: 510
+    digimon:
+      - name: "Machinedramon"
+        card_id: "BO-55"
+      - name: "Machinedramon"
+        card_id: "CP-27"
+  - id: 4094
+    name: "GIGA SCISSOR CLAW"
+    battle_type: "Yellow"
+    power: 510
+    digimon:
+      - name: "HerculesKabuterimon"
+        card_id: "ST-33"
+  - id: 4167
+    name: "METAL PUNCH"
+    battle_type: "Yellow"
+    power: 510
+    digimon:
+      - name: "MetalEtemon"
+        card_id: "BO-27"
+      - name: "MetalEtemon"
+        card_id: "CP-21"
+  - id: 7181
+    name: "MEDITATION CURE"
+    battle_type: "Red"
+    power: 510
+    digimon:
+      - name: "Antylamon"
+        card_id: "MO-06"
+  - id: 7197
+    name: "GOOD SUMMON"
+    battle_type: "Green"
+    power: 510
+    digimon:
+      - name: "Goldramon"
+        card_id: "UN-01"
+  - id: 8265
+    name: "BABABRUME"
+    battle_type: "Yellow"
+    power: 510
+    digimon:
+      - name: "Babamon"
+        card_id: "MP-109"
+  - id: 8326
+    name: "CAVEMAN"
+    battle_type: "Yellow"
+    power: 510
+    digimon:
+      - name: "Jijimon"
+        card_id: "BO-137"
+  - id: 8329
+    name: "MAGIC INCANTATION"
+    battle_type: "Green"
+    power: 510
+    digimon:
+      - name: "Goldramon"
+        card_id: "BO-139"
+  - id: 2052
+    name: "TOMAHAWK KNUCKLE"
+    battle_type: "Green"
+    power: 500
+    digimon:
+      - name: "Boltmon"
+        card_id: "TB-11"
+  - id: 4096
+    name: "TWIN FANG"
+    battle_type: "Green"
+    power: 500
+    digimon:
+      - name: "SaberLeomon"
+        card_id: "ST-34"
+  - id: 6162
+    name: "PRETTY ATTACK"
+    battle_type: "Yellow"
+    power: 500
+    digimon:
+      - name: "ExTyrannomon"
+        card_id: "BO-73"
+  - id: 7169
+    name: "GARURU CANNON"
+    battle_type: "Green"
+    power: 500
+    digimon:
+      - name: "Omnimon"
+        card_id: "DM-01"
+  - id: 7190
+    name: "DRAGON FIRE"
+    battle_type: "Green"
+    power: 500
+    digimon:
+      - name: "Magnadramon"
+        card_id: "MO-10"
+  - id: 7192
+    name: "SPIDER SHOOTER"
+    battle_type: "Green"
+    power: 500
+    digimon:
+      - name: "Infermon"
+        card_id: "MO-11"
+  - id: 8193
+    name: "MEGA CLAW"
+    battle_type: "Green"
+    power: 500
+    digimon:
+      - name: "WarGreymon"
+        card_id: "ST-84"
+      - name: "WarGreymon"
+        card_id: "MP-84"
+  - id: 8314
+    name: "THE GATE OF DESTINY"
+    battle_type: "Yellow"
+    power: 500
+    digimon:
+      - name: "MagnaAngemon"
+        card_id: "BO-131"
+  - id: 8323
+    name: "INFERNO"
+    battle_type: "Green"
+    power: 500
+    digimon:
+      - name: "VenomMyotismon"
+        card_id: "BO-136"
+  - id: 8324
+    name: "CHAOS FLAME"
+    battle_type: "Yellow"
+    power: 500
+    digimon:
+      - name: "VenomMyotismon"
+        card_id: "BO-136"
+  - id: 8335
+    name: "WINGS OF HADES"
+    battle_type: "Green"
+    power: 500
+    digimon:
+      - name: "Creepymon"
+        card_id: "BO-142"
+  - id: 15
+    name: "DRAGON FIRE"
+    battle_type: "Green"
+    power: 490
+    digimon:
+      - name: "Machinedramon"
+        card_id: "BO-55"
+      - name: "Machinedramon"
+        card_id: "CP-27"
+  - id: 4195
+    name: "TOMAHAWK KNUCKLE"
+    battle_type: "Green"
+    power: 490
+    digimon:
+      - name: "Boltmon"
+        card_id: "BO-41"
+  - id: 4197
+    name: "CROWN TRICK"
+    battle_type: "Green"
+    power: 490
+    digimon:
+      - name: "Piedmon"
+        card_id: "BO-42"
+      - name: "Piedmon"
+        card_id: "CP-37"
+  - id: 6210
+    name: "PUPPET PUMMEL"
+    battle_type: "Yellow"
+    power: 490
+    digimon:
+      - name: "Puppetmon"
+        card_id: "BO-96"
+  - id: 8302
+    name: "FIN-ATTACK"
+    battle_type: "Red"
+    power: 490
+    digimon:
+      - name: "Divermon"
+        card_id: "BO-126"
+  - id: 8308
+    name: "FLOWER CANNON"
+    battle_type: "Red"
+    power: 490
+    digimon:
+      - name: "Lillymon"
+        card_id: "BO-129"
+  - id: 8356
+    name: "NEEDLE SQUALL"
+    battle_type: "Green"
+    power: 490
+    digimon:
+      - name: "Pukumon"
+        card_id: "ST-40S"
+  - id: 8360
+    name: "THUNDER BLASTER"
+    battle_type: "Red"
+    power: 490
+    digimon:
+      - name: "Wizardmon"
+        card_id: "ST-44S"
+  - id: 8364
+    name: "METAL FIREBALL"
+    battle_type: "Red"
+    power: 490
+    digimon:
+      - name: "SkullMeramon"
+        card_id: "ST-48S"
+  - id: 2043
+    name: "METAL FIREBALL"
+    battle_type: "Red"
+    power: 480
+    digimon:
+      - name: "SkullMeramon"
+        card_id: "ST-48"
+      - name: "SkullMeramon"
+        card_id: "TB-07"
+  - id: 4062
+    name: "SCISSOR CLAW"
+    battle_type: "Red"
+    power: 480
+    digimon:
+      - name: "Kimeramon"
+        card_id: "ST-21"
+      - name: "Kimeramon"
+        card_id: "ST-21S"
+  - id: 4108
+    name: "NEEDLE SQUALL"
+    battle_type: "Green"
+    power: 480
+    digimon:
+      - name: "Pukumon"
+        card_id: "ST-40"
+  - id: 4116
+    name: "THUNDER BLASTER"
+    battle_type: "Red"
+    power: 480
+    digimon:
+      - name: "Wizardmon"
+        card_id: "ST-44"
+  - id: 4183
+    name: "GIGA ICE BLAST"
+    battle_type: "Green"
+    power: 480
+    digimon:
+      - name: "MetalSeadramon"
+        card_id: "BO-35"
+      - name: "MetalSeadramon"
+        card_id: "CP-26"
+  - id: 4193
+    name: "DASH"
+    battle_type: "Green"
+    power: 480
+    digimon:
+      - name: "SkullMammothmon"
+        card_id: "BO-40"
+  - id: 5190
+    name: "NIGHTMARE SYNDROME"
+    battle_type: "Red"
+    power: 480
+    digimon:
+      - name: "Digitamamon"
+        card_id: "BO-70"
+  - id: 6208
+    name: "LEGENDARY CLAW"
+    battle_type: "Green"
+    power: 480
+    digimon:
+      - name: "Gryphonmon"
+        card_id: "BO-95"
+  - id: 7180
+    name: "RAPID FIRE"
+    battle_type: "Yellow"
+    power: 480
+    digimon:
+      - name: "Rapidmon"
+        card_id: "MO-05"
+  - id: 7186
+    name: "HOLY HUG"
+    battle_type: "Yellow"
+    power: 480
+    digimon:
+      - name: "Kerpymon"
+        card_id: "MO-08"
+  - id: 8189
+    name: "BERSERK SWORD"
+    battle_type: "Red"
+    power: 480
+    digimon:
+      - name: "Knightmon"
+        card_id: "ST-82"
+      - name: "Knightmon"
+        card_id: "MP-82"
+  - id: 8223
+    name: "BRACHIO BUBBLE"
+    battle_type: "Red"
+    power: 480
+    digimon:
+      - name: "Brachiomon"
+        card_id: "ST-106"
+      - name: "Brachiomon"
+        card_id: "MP-106"
+  - id: 8318
+    name: "MEGA TYRANNOFLAMME"
+    battle_type: "Yellow"
+    power: 480
+    digimon:
+      - name: "MasterTyrannomon"
+        card_id: "BO-133"
+  - id: 8322
+    name: "VIBRATION TYPHOON"
+    battle_type: "Green"
+    power: 480
+    digimon:
+      - name: "Preciomon"
+        card_id: "BO-135"
+  - id: 8332
+    name: "FLORAL LANCE"
+    battle_type: "Green"
+    power: 480
+    digimon:
+      - name: "Rosemon"
+        card_id: "BO-140"
+  - id: 8346
+    name: "HORN BUSTER"
+    battle_type: "Yellow"
+    power: 480
+    digimon:
+      - name: "MegaKabuterimon"
+        card_id: "ST-28S"
+  - id: 8347
+    name: "TRI-HORN ATTACK"
+    battle_type: "Red"
+    power: 480
+    digimon:
+      - name: "Triceramon"
+        card_id: "ST-29S"
+  - id: 8348
+    name: "PIT BOMB"
+    battle_type: "Red"
+    power: 480
+    digimon:
+      - name: "Piximon"
+        card_id: "ST-30S"
+  - id: 8363
+    name: "WOLF CLAW"
+    battle_type: "Yellow"
+    power: 480
+    digimon:
+      - name: "WereGarurumon"
+        card_id: "ST-47S"
+  - id: 4187
+    name: "TRICK OR TREAT"
+    battle_type: "Red"
+    power: 478
+    digimon:
+      - name: "Pumpkinmon"
+        card_id: "BO-37"
+  - id: 11
+    name: "CELESTIAL ARROW"
+    battle_type: "Yellow"
+    power: 470
+    digimon:
+      - name: "Angewomon"
+        card_id: "BO-16"
+      - name: "Angewomon"
+        card_id: "CP-10"
+  - id: 4082
+    name: "HORN BUSTER"
+    battle_type: "Yellow"
+    power: 470
+    digimon:
+      - name: "MegaKabuterimon"
+        card_id: "ST-28"
+  - id: 4083
+    name: "TRI-HORN ATTACK"
+    battle_type: "Red"
+    power: 470
+    digimon:
+      - name: "Triceramon"
+        card_id: "ST-29"
+  - id: 4086
+    name: "PIT BOMB"
+    battle_type: "Red"
+    power: 470
+    digimon:
+      - name: "Piximon"
+        card_id: "ST-30"
+  - id: 4093
+    name: "MEGA ELECTRO SHOCKER"
+    battle_type: "Green"
+    power: 470
+    digimon:
+      - name: "HerculesKabuterimon"
+        card_id: "ST-33"
+  - id: 4123
+    name: "WOLF CLAW"
+    battle_type: "Yellow"
+    power: 470
+    digimon:
+      - name: "WereGarurumon"
+        card_id: "ST-47"
+  - id: 4173
+    name: "THUNDER JAVELIN"
+    battle_type: "Red"
+    power: 470
+    digimon:
+      - name: "MegaSeadramon"
+        card_id: "BO-31"
+      - name: "MegaSeadramon"
+        card_id: "CP-25"
+  - id: 4176
+    name: "TAIL BLADE"
+    battle_type: "Red"
+    power: 470
+    digimon:
+      - name: "Scorpiomon"
+        card_id: "BO-32"
+  - id: 4180
+    name: "SMILING FACE"
+    battle_type: "Green"
+    power: 470
+    digimon:
+      - name: "MarineAngemon"
+        card_id: "BO-34"
+  - id: 5175
+    name: "HEARTS ATTACK"
+    battle_type: "Yellow"
+    power: 470
+    digimon:
+      - name: "Monzaemon"
+        card_id: "BO-62"
+      - name: "Monzaemon"
+        card_id: "CP-34"
+  - id: 6198
+    name: "ROYAL SMASHER"
+    battle_type: "Red"
+    power: 470
+    digimon:
+      - name: "Deramon"
+        card_id: "BO-91"
+  - id: 7188
+    name: "PLASMA SHOT"
+    battle_type: "Yellow"
+    power: 470
+    digimon:
+      - name: "Magnamon"
+        card_id: "MO-09"
+  - id: 8221
+    name: "VOLCANIC STRIKE II"
+    battle_type: "Red"
+    power: 470
+    digimon:
+      - name: "Vermilimon"
+        card_id: "ST-104"
+      - name: "Vermilimon"
+        card_id: "MP-104"
+  - id: 8241
+    name: "FUNNY BOMB"
+    battle_type: "Red"
+    power: 470
+    digimon:
+      - name: "BigMamemon"
+        card_id: "MP-81"
+  - id: 8305
+    name: "CRYSTAL FIST"
+    battle_type: "Yellow"
+    power: 470
+    digimon:
+      - name: "Panjyamon"
+        card_id: "BO-127"
+  - id: 8306
+    name: "ATTACK OF THE BLUE GHOST"
+    battle_type: "Red"
+    power: 470
+    digimon:
+      - name: "BlueMeramon"
+        card_id: "BO-128"
+  - id: 8344
+    name: "METEOR STREAM"
+    battle_type: "Red"
+    power: 470
+    digimon:
+      - name: "Starmon"
+        card_id: "ST-26S"
+  - id: 4076
+    name: "METEOR STREAM"
+    battle_type: "Red"
+    power: 460
+    digimon:
+      - name: "Starmon"
+        card_id: "ST-26"
+  - id: 5180
+    name: "ENERGETIC BOMB"
+    battle_type: "Red"
+    power: 460
+    digimon:
+      - name: "MetalMamemon"
+        card_id: "BO-65"
+  - id: 5187
+    name: "BIG BANG BOOM"
+    battle_type: "Yellow"
+    power: 460
+    digimon:
+      - name: "Giromon"
+        card_id: "BO-68"
+  - id: 6194
+    name: "WING BLADE"
+    battle_type: "Green"
+    power: 460
+    digimon:
+      - name: "Garudamon"
+        card_id: "BO-89"
+  - id: 6196
+    name: "SPIRAL FLOWER"
+    battle_type: "Red"
+    power: 460
+    digimon:
+      - name: "Blossomon"
+        card_id: "BO-90"
+  - id: 6209
+    name: "LIE"
+    battle_type: "Green"
+    power: 460
+    digimon:
+      - name: "Puppetmon"
+        card_id: "BO-96"
+  - id: 8183
+    name: "THUNDER VOLT"
+    battle_type: "Red"
+    power: 460
+    digimon:
+      - name: "Thunderballmon"
+        card_id: "ST-75"
+      - name: "Thunderballmon"
+        card_id: "MP-75"
+  - id: 8264
+    name: "SWIFT SWEEP"
+    battle_type: "Green"
+    power: 460
+    digimon:
+      - name: "Babamon"
+        card_id: "MP-109"
+  - id: 8317
+    name: "TYRANNO CLAW"
+    battle_type: "Green"
+    power: 460
+    digimon:
+      - name: "MasterTyrannomon"
+        card_id: "BO-133"
+  - id: 8354
+    name: "VULCAN'S HAMMER"
+    battle_type: "Yellow"
+    power: 460
+    digimon:
+      - name: "Zudomon"
+        card_id: "ST-38S"
+  - id: 8355
+    name: "EVIL WIND"
+    battle_type: "Green"
+    power: 460
+    digimon:
+      - name: "MarineDevimon"
+        card_id: "ST-39S"
+  - id: 2038
+    name: "SOLAR RAY"
+    battle_type: "Red"
+    power: 450
+    digimon:
+      - name: "Centarumon"
+        card_id: "TB-05"
+  - id: 4105
+    name: "VULCAN'S HAMMER"
+    battle_type: "Yellow"
+    power: 450
+    digimon:
+      - name: "Zudomon"
+        card_id: "ST-38"
+  - id: 4106
+    name: "EVIL WIND"
+    battle_type: "Green"
+    power: 450
+    digimon:
+      - name: "MarineDevimon"
+        card_id: "ST-39"
+  - id: 5178
+    name: "SMILEY BOMB"
+    battle_type: "Red"
+    power: 450
+    digimon:
+      - name: "Mamemon"
+        card_id: "BO-64"
+      - name: "Mamemon"
+        card_id: "CP-36"
+  - id: 6192
+    name: "V-WING BLADE"
+    battle_type: "Green"
+    power: 450
+    digimon:
+      - name: "AeroVeedramon"
+        card_id: "BO-88"
+  - id: 6201
+    name: "PIT PELTER"
+    battle_type: "Green"
+    power: 450
+    digimon:
+      - name: "Cherrymon"
+        card_id: "BO-92"
+  - id: 7163
+    name: "GIGA BLASTER"
+    battle_type: "Green"
+    power: 450
+    digimon:
+      - name: "MetalGreymon"
+        card_id: "DW-01"
+  - id: 7176
+    name: "GARLING ARM"
+    battle_type: "Yellow"
+    power: 450
+    digimon:
+      - name: "Gargomon"
+        card_id: "MO-03"
+  - id: 8165
+    name: "GOLD RUSH"
+    battle_type: "Red"
+    power: 450
+    digimon:
+      - name: "Digmon"
+        card_id: "FX-10"
+  - id: 8192
+    name: "ERASE CLAW"
+    battle_type: "Yellow"
+    power: 450
+    digimon:
+      - name: "Cyberdramon"
+        card_id: "ST-83"
+      - name: "Cyberdramon"
+        card_id: "MP-83"
+  - id: 8229
+    name: "HYPER CANON"
+    battle_type: "Red"
+    power: 450
+    digimon:
+      - name: "Tankmon"
+        card_id: "MP-69"
+  - id: 8242
+    name: "BIG BALL"
+    battle_type: "Green"
+    power: 450
+    digimon:
+      - name: "BigMamemon"
+        card_id: "MP-81"
+  - id: 8263
+    name: "DIGITAL SWORD"
+    battle_type: "Yellow"
+    power: 450
+    digimon:
+      - name: "Tekkamon"
+        card_id: "MP-108"
+  - id: 8303
+    name: "OCEANO-HARPOON"
+    battle_type: "Green"
+    power: 450
+    digimon:
+      - name: "Divermon"
+        card_id: "BO-126"
+  - id: 8310
+    name: "COSMOFLASH"
+    battle_type: "Red"
+    power: 450
+    digimon:
+      - name: "Meteormon"
+        card_id: "BO-130"
+  - id: 8319
+    name: "SKELETON CLAW"
+    battle_type: "Green"
+    power: 450
+    digimon:
+      - name: "SkullSatanmon"
+        card_id: "BO-134"
+  - id: 8325
+    name: "FELINE STAFF"
+    battle_type: "Green"
+    power: 450
+    digimon:
+      - name: "Jijimon"
+        card_id: "BO-137"
+  - id: 8362
+    name: "TUSK CRUSHER"
+    battle_type: "Yellow"
+    power: 450
+    digimon:
+      - name: "Mammothmon"
+        card_id: "ST-46S"
+  - id: 1013
+    name: "GIGA BLASTER"
+    battle_type: "Green"
+    power: 440
+    digimon:
+      - name: "MetalGreymon"
+        card_id: "BO-01"
+      - name: "MetalGreymon"
+        card_id: "CP-01"
+  - id: 2044
+    name: "FLAME CHAIN"
+    battle_type: "Green"
+    power: 440
+    digimon:
+      - name: "SkullMeramon"
+        card_id: "TB-07"
+  - id: 4121
+    name: "TUSK CRUSHER"
+    battle_type: "Yellow"
+    power: 440
+    digimon:
+      - name: "Mammothmon"
+        card_id: "ST-46"
+  - id: 4141
+    name: "VOLCANIC STRIKE"
+    battle_type: "Red"
+    power: 440
+    digimon:
+      - name: "Monochromon"
+        card_id: "BO-12"
+  - id: 5161
+    name: "FROZEN FIRE SHOT"
+    battle_type: "Red"
+    power: 440
+    digimon:
+      - name: "Kokatorimon"
+        card_id: "BO-56"
+      - name: "Kokatorimon"
+        card_id: "CP-28"
+  - id: 5164
+    name: "DARK NETWORK & CONCERT CRUSH"
+    battle_type: "Yellow"
+    power: 440
+    digimon:
+      - name: "Etemon"
+        card_id: "BO-57"
+      - name: "Etemon"
+        card_id: "CP-29"
+  - id: 6175
+    name: "MEGA CLAW"
+    battle_type: "Green"
+    power: 440
+    digimon:
+      - name: "MetalGreymon"
+        card_id: "BO-80"
+  - id: 6176
+    name: "GIGA BLASTER"
+    battle_type: "Yellow"
+    power: 440
+    digimon:
+      - name: "MetalGreymon"
+        card_id: "BO-80"
+  - id: 6193
+    name: "MAGNUM CRASHER"
+    battle_type: "Yellow"
+    power: 440
+    digimon:
+      - name: "AeroVeedramon"
+        card_id: "BO-88"
+  - id: 7196
+    name: "DEFEND"
+    battle_type: "Yellow"
+    power: 440
+    digimon:
+      - name: "Diaboromon"
+        card_id: "MO-12"
+  - id: 8191
+    name: "CYBER NAIL"
+    battle_type: "Green"
+    power: 440
+    digimon:
+      - name: "Cyberdramon"
+        card_id: "ST-83"
+      - name: "Cyberdramon"
+        card_id: "MP-83"
+  - id: 8224
+    name: "HAMMER HEAD"
+    battle_type: "Green"
+    power: 440
+    digimon:
+      - name: "Brachiomon"
+        card_id: "ST-106"
+      - name: "Brachiomon"
+        card_id: "MP-106"
+  - id: 8239
+    name: "BROKEN HEART ATTACK"
+    battle_type: "Green"
+    power: 440
+    digimon:
+      - name: "WaruMonzaemon"
+        card_id: "MP-80"
+  - id: 8290
+    name: "ICEBERG BOMB"
+    battle_type: "Red"
+    power: 440
+    digimon:
+      - name: "Icemon"
+        card_id: "BO-120"
+  - id: 8292
+    name: "REGARD REBUIS"
+    battle_type: "Red"
+    power: 440
+    digimon:
+      - name: "Akatorimon"
+        card_id: "BO-121"
+  - id: 8307
+    name: "ARCTIC FLAMETHROWER"
+    battle_type: "Green"
+    power: 440
+    digimon:
+      - name: "BlueMeramon"
+        card_id: "BO-128"
+  - id: 8313
+    name: "ANGELIC LANCE"
+    battle_type: "Green"
+    power: 440
+    digimon:
+      - name: "MagnaAngemon"
+        card_id: "BO-131"
+  - id: 8350
+    name: "DARK SHOT"
+    battle_type: "Green"
+    power: 440
+    digimon:
+      - name: "SkullGreymon"
+        card_id: "ST-32S"
+  - id: 4084
+    name: "MEGA DASH"
+    battle_type: "Green"
+    power: 430
+    digimon:
+      - name: "Triceramon"
+        card_id: "ST-29"
+      - name: "Triceramon"
+        card_id: "ST-29S"
+  - id: 4090
+    name: "DARK SHOT"
+    battle_type: "Green"
+    power: 430
+    digimon:
+      - name: "SkullGreymon"
+        card_id: "ST-32"
+  - id: 4109
+    name: "GLOBEFISH POISON"
+    battle_type: "Yellow"
+    power: 430
+    digimon:
+      - name: "Pukumon"
+        card_id: "ST-40"
+      - name: "Pukumon"
+        card_id: "ST-40S"
+  - id: 4133
+    name: "MUSICAL FIST"
+    battle_type: "Green"
+    power: 430
+    digimon:
+      - name: "ShogunGekomon"
+        card_id: "BO-08"
+  - id: 4151
+    name: "POWER LIFTING"
+    battle_type: "Red"
+    power: 430
+    digimon:
+      - name: "Gorillamon"
+        card_id: "BO-19"
+      - name: "Gorillamon"
+        card_id: "CP-13"
+  - id: 4162
+    name: "MULTIPLE FACES"
+    battle_type: "Yellow"
+    power: 430
+    digimon:
+      - name: "Asuramon"
+        card_id: "BO-24"
+      - name: "Asuramon"
+        card_id: "CP-18"
+  - id: 4165
+    name: "POTATO SMASH"
+    battle_type: "Yellow"
+    power: 430
+    digimon:
+      - name: "Jagamon"
+        card_id: "BO-26"
+      - name: "Jagamon"
+        card_id: "CP-20"
+  - id: 4177
+    name: "TWIN SWORD"
+    battle_type: "Green"
+    power: 430
+    digimon:
+      - name: "Scorpiomon"
+        card_id: "BO-32"
+  - id: 4179
+    name: "TENTACLE CLAW"
+    battle_type: "Yellow"
+    power: 430
+    digimon:
+      - name: "Dragomon"
+        card_id: "BO-33"
+  - id: 4192
+    name: "SHADOW SCYTHE"
+    battle_type: "Yellow"
+    power: 430
+    digimon:
+      - name: "Phantomon"
+        card_id: "BO-39"
+  - id: 6183
+    name: "V-NOVA BLAST"
+    battle_type: "Yellow"
+    power: 430
+    digimon:
+      - name: "Veedramon"
+        card_id: "BO-83"
+  - id: 6195
+    name: "EAGLE CLAW"
+    battle_type: "Yellow"
+    power: 430
+    digimon:
+      - name: "Garudamon"
+        card_id: "BO-89"
+  - id: 6199
+    name: "BEAK BUSTER"
+    battle_type: "Green"
+    power: 430
+    digimon:
+      - name: "Deramon"
+        card_id: "BO-91"
+  - id: 6204
+    name: "JUNK CHUNKER"
+    battle_type: "Yellow"
+    power: 430
+    digimon:
+      - name: "Garbagemon"
+        card_id: "BO-93"
+  - id: 7182
+    name: "ARM BOMBER"
+    battle_type: "Green"
+    power: 430
+    digimon:
+      - name: "Antylamon"
+        card_id: "MO-06"
+  - id: 7187
+    name: "EXTREME GRAB"
+    battle_type: "Green"
+    power: 430
+    digimon:
+      - name: "Magnamon"
+        card_id: "MO-09"
+  - id: 8164
+    name: "TEMPEST WING"
+    battle_type: "Yellow"
+    power: 430
+    digimon:
+      - name: "Halsemon"
+        card_id: "FX-09"
+  - id: 8166
+    name: "ROCK CRACKING"
+    battle_type: "Green"
+    power: 430
+    digimon:
+      - name: "Digmon"
+        card_id: "FX-10"
+  - id: 8176
+    name: "TWIN BEAM"
+    battle_type: "Yellow"
+    power: 430
+    digimon:
+      - name: "Mekanorimon"
+        card_id: "ST-71"
+      - name: "Mekanorimon"
+        card_id: "MP-71"
+  - id: 8219
+    name: "FIRE BLAST II"
+    battle_type: "Green"
+    power: 430
+    digimon:
+      - name: "MetalTyrannomon"
+        card_id: "ST-103"
+      - name: "MetalTyrannomon"
+        card_id: "MP-103"
+  - id: 8240
+    name: "GRIZZLY-CLAW"
+    battle_type: "Yellow"
+    power: 430
+    digimon:
+      - name: "WaruMonzaemon"
+        card_id: "MP-80"
+  - id: 8315
+    name: "TWILIGHT BLASTER"
+    battle_type: "Green"
+    power: 430
+    digimon:
+      - name: "WaruSeadramon"
+        card_id: "BO-132"
+  - id: 1019
+    name: "NOVA BLAST"
+    battle_type: "Yellow"
+    power: 420
+    digimon:
+      - name: "Greymon"
+        card_id: "ST-02"
+  - id: 4087
+    name: "MAGICAL TAIL"
+    battle_type: "Green"
+    power: 420
+    digimon:
+      - name: "Piximon"
+        card_id: "ST-30"
+      - name: "Piximon"
+        card_id: "ST-30S"
+  - id: 4124
+    name: "FLAME CHAIN"
+    battle_type: "Green"
+    power: 420
+    digimon:
+      - name: "SkullMeramon"
+        card_id: "ST-48"
+      - name: "SkullMeramon"
+        card_id: "ST-48S"
+  - id: 4127
+    name: "FIREBALL"
+    battle_type: "Red"
+    power: 420
+    digimon:
+      - name: "Meramon"
+        card_id: "BO-05"
+      - name: "Meramon"
+        card_id: "CP-05"
+  - id: 4129
+    name: "ICE BLAST"
+    battle_type: "Red"
+    power: 420
+    digimon:
+      - name: "Seadramon"
+        card_id: "BO-06"
+      - name: "Seadramon"
+        card_id: "CP-06"
+  - id: 4137
+    name: "IRON DRILL SPIN"
+    battle_type: "Red"
+    power: 420
+    digimon:
+      - name: "Drimogemon"
+        card_id: "BO-10"
+  - id: 4149
+    name: "TWIN SCISSORS"
+    battle_type: "Red"
+    power: 420
+    digimon:
+      - name: "Ebidramon"
+        card_id: "BO-18"
+      - name: "Ebidramon"
+        card_id: "CP-12"
+  - id: 4158
+    name: "DARKNESS WAVE"
+    battle_type: "Yellow"
+    power: 420
+    digimon:
+      - name: "LadyDevimon"
+        card_id: "BO-22"
+      - name: "LadyDevimon"
+        card_id: "CP-16"
+  - id: 4164
+    name: "FRIED POTATO"
+    battle_type: "Green"
+    power: 420
+    digimon:
+      - name: "Jagamon"
+        card_id: "BO-26"
+      - name: "Jagamon"
+        card_id: "CP-20"
+  - id: 4174
+    name: "MEGA ICE BLAST"
+    battle_type: "Green"
+    power: 420
+    digimon:
+      - name: "MegaSeadramon"
+        card_id: "BO-31"
+      - name: "MegaSeadramon"
+        card_id: "CP-25"
+  - id: 4178
+    name: "TENTACLE FLAPPING"
+    battle_type: "Green"
+    power: 420
+    digimon:
+      - name: "Dragomon"
+        card_id: "BO-33"
+  - id: 4188
+    name: "PUMPKIN SQUASH"
+    battle_type: "Green"
+    power: 420
+    digimon:
+      - name: "Pumpkinmon"
+        card_id: "BO-37"
+  - id: 5163
+    name: "MONKEY CLAW"
+    battle_type: "Green"
+    power: 420
+    digimon:
+      - name: "Etemon"
+        card_id: "BO-57"
+      - name: "Etemon"
+        card_id: "CP-29"
+  - id: 5182
+    name: "FIRE BLAST"
+    battle_type: "Red"
+    power: 420
+    digimon:
+      - name: "Tyrannomon"
+        card_id: "BO-66"
+  - id: 5188
+    name: "DARK SIDE ATTACK"
+    battle_type: "Green"
+    power: 420
+    digimon:
+      - name: "Megadramon"
+        card_id: "BO-69"
+  - id: 6168
+    name: "GRISLY WING"
+    battle_type: "Yellow"
+    power: 420
+    digimon:
+      - name: "Myotismon"
+        card_id: "BO-76"
+  - id: 7175
+    name: "ANIMAL UPPERCUT"
+    battle_type: "Green"
+    power: 420
+    digimon:
+      - name: "Gargomon"
+        card_id: "MO-03"
+  - id: 7179
+    name: "MIRACLE MISSILE"
+    battle_type: "Green"
+    power: 420
+    digimon:
+      - name: "Rapidmon"
+        card_id: "MO-05"
+  - id: 8181
+    name: "BLAZE BUSTER"
+    battle_type: "Red"
+    power: 420
+    digimon:
+      - name: "Flarerizamon"
+        card_id: "ST-74"
+      - name: "Flarerizamon"
+        card_id: "MP-74"
+  - id: 8186
+    name: "STRIPED BLASTER"
+    battle_type: "Yellow"
+    power: 420
+    digimon:
+      - name: "ShimaUnimon"
+        card_id: "ST-76"
+      - name: "ShimaUnimon"
+        card_id: "MP-76"
+  - id: 8209
+    name: "NINJA KNIFE THROWING"
+    battle_type: "Yellow"
+    power: 420
+    digimon:
+      - name: "Ninjamon"
+        card_id: "ST-94"
+      - name: "Ninjamon"
+        card_id: "MP-94"
+  - id: 8213
+    name: "SPINNING NEEDLE"
+    battle_type: "Yellow"
+    power: 420
+    digimon:
+      - name: "Airdramon"
+        card_id: "ST-96"
+      - name: "Airdramon"
+        card_id: "MP-96"
+  - id: 8220
+    name: "NUCLEAR LASER"
+    battle_type: "Yellow"
+    power: 420
+    digimon:
+      - name: "MetalTyrannomon"
+        card_id: "ST-103"
+      - name: "MetalTyrannomon"
+        card_id: "MP-103"
+  - id: 8222
+    name: "VERM BLAZE"
+    battle_type: "Green"
+    power: 420
+    digimon:
+      - name: "Vermilimon"
+        card_id: "ST-104"
+      - name: "Vermilimon"
+        card_id: "MP-104"
+  - id: 8249
+    name: "DEVASTATING HOOK"
+    battle_type: "Red"
+    power: 420
+    digimon:
+      - name: "MudFrigimon"
+        card_id: "MP-99"
+  - id: 8261
+    name: "GIGABITE"
+    battle_type: "Yellow"
+    power: 420
+    digimon:
+      - name: "Gigadramon"
+        card_id: "MP-107"
+  - id: 8289
+    name: "DARK SABER"
+    battle_type: "Yellow"
+    power: 420
+    digimon:
+      - name: "Saberdramon"
+        card_id: "BO-119"
+  - id: 8304
+    name: "POLAR BREATH"
+    battle_type: "Green"
+    power: 420
+    digimon:
+  - id: 8309
+    name: "FAIRY CHARM"
+    battle_type: "Green"
+    power: 420
+    digimon:
+      - name: "Lillymon"
+        card_id: "BO-129"
+  - id: 8311
+    name: "SHOOTING STARS"
+    battle_type: "Green"
+    power: 420
+    digimon:
+      - name: "Meteormon"
+        card_id: "BO-130"
+  - id: 8352
+    name: "FOSSIL BITE"
+    battle_type: "Red"
+    power: 420
+    digimon:
+      - name: "Coelamon"
+        card_id: "ST-36S"
+  - id: 1022
+    name: "METEOR WING"
+    battle_type: "Red"
+    power: 410
+    digimon:
+      - name: "Birdramon"
+        card_id: "ST-04"
+  - id: 1025
+    name: "HOWLING BLASTER"
+    battle_type: "Red"
+    power: 410
+    digimon:
+      - name: "Garurumon"
+        card_id: "ST-06"
+  - id: 4037
+    name: "ELECTRO SHOCKER"
+    battle_type: "Yellow"
+    power: 410
+    digimon:
+      - name: "Kabuterimon"
+        card_id: "ST-08"
+  - id: 4052
+    name: "AERIAL GALLOP"
+    battle_type: "Yellow"
+    power: 410
+    digimon:
+      - name: "Unimon"
+        card_id: "ST-16"
+  - id: 4053
+    name: "SOLAR RAY"
+    battle_type: "Red"
+    power: 410
+    digimon:
+      - name: "Centarumon"
+        card_id: "ST-17"
+  - id: 4099
+    name: "FOSSIL BITE"
+    battle_type: "Red"
+    power: 410
+    digimon:
+      - name: "Coelamon"
+        card_id: "ST-36"
+  - id: 4156
+    name: "DARKSIDE QUAKE"
+    battle_type: "Yellow"
+    power: 410
+    digimon:
+      - name: "Minotarumon"
+        card_id: "BO-21"
+      - name: "Minotarumon"
+        card_id: "CP-15"
+  - id: 4157
+    name: "EVIL WING"
+    battle_type: "Green"
+    power: 410
+    digimon:
+      - name: "LadyDevimon"
+        card_id: "BO-22"
+      - name: "LadyDevimon"
+        card_id: "CP-16"
+  - id: 4163
+    name: "TWIN SICKLES"
+    battle_type: "Yellow"
+    power: 410
+    digimon:
+      - name: "Snimon"
+        card_id: "BO-25"
+      - name: "Snimon"
+        card_id: "CP-19"
+  - id: 4190
+    name: "GRISLY WING"
+    battle_type: "Yellow"
+    power: 410
+    digimon:
+      - name: "Myotismon"
+        card_id: "BO-38"
+  - id: 5166
+    name: "BLASTING SPOUT"
+    battle_type: "Yellow"
+    power: 410
+    digimon:
+      - name: "Whamon"
+        card_id: "BO-58"
+      - name: "Whamon"
+        card_id: "CP-30"
+  - id: 5181
+    name: "METAL CLAW"
+    battle_type: "Green"
+    power: 410
+    digimon:
+      - name: "MetalMamemon"
+        card_id: "BO-65"
+  - id: 5191
+    name: "HYPER FLASHING"
+    battle_type: "Green"
+    power: 410
+    digimon:
+      - name: "Digitamamon"
+        card_id: "BO-70"
+  - id: 6161
+    name: "DANGEROUS ZIPPER"
+    battle_type: "Green"
+    power: 410
+    digimon:
+      - name: "ExTyrannomon"
+        card_id: "BO-73"
+  - id: 6166
+    name: "SLAMMING TUSK"
+    battle_type: "Yellow"
+    power: 410
+    digimon:
+      - name: "Tuskmon"
+        card_id: "BO-75"
+  - id: 6202
+    name: "ILLUSION MIST"
+    battle_type: "Yellow"
+    power: 410
+    digimon:
+      - name: "Cherrymon"
+        card_id: "BO-92"
+  - id: 7161
+    name: "GATLING ATTACK"
+    battle_type: "Yellow"
+    power: 410
+    digimon:
+      - name: "Andromon"
+        card_id: "TB-08"
+  - id: 7164
+    name: "MEGA CLAW"
+    battle_type: "Yellow"
+    power: 410
+    digimon:
+      - name: "MetalGreymon"
+        card_id: "DW-01"
+  - id: 7178
+    name: "HOWLING DESTROYER"
+    battle_type: "Yellow"
+    power: 410
+    digimon:
+      - name: "Wendigomon"
+        card_id: "MO-04"
+  - id: 8190
+    name: "ARMOR KNIFE"
+    battle_type: "Green"
+    power: 410
+    digimon:
+      - name: "Knightmon"
+        card_id: "ST-82"
+      - name: "Knightmon"
+        card_id: "MP-82"
+  - id: 8232
+    name: "IN THE NAME OF THE LAW"
+    battle_type: "Yellow"
+    power: 410
+    digimon:
+      - name: "Deputymon"
+        card_id: "MP-70"
+  - id: 8256
+    name: "DESERT STORM"
+    battle_type: "Red"
+    power: 410
+    digimon:
+      - name: "SandYanmamon"
+        card_id: "MP-102"
+  - id: 8260
+    name: "GUILLOTINE WINGS"
+    battle_type: "Green"
+    power: 410
+    digimon:
+      - name: "Gigadramon"
+        card_id: "MP-107"
+  - id: 8287
+    name: "CHAOS HOWL"
+    battle_type: "Yellow"
+    power: 410
+    digimon:
+      - name: "Gururumon"
+        card_id: "BO-118"
+  - id: 8349
+    name: "DOUBLE SCISSOR CLAWS"
+    battle_type: "Yellow"
+    power: 410
+    digimon:
+      - name: "Okuwamon"
+        card_id: "ST-31S"
+  - id: 8351
+    name: "PULSE BLAST"
+    battle_type: "Yellow"
+    power: 410
+    digimon:
+      - name: "Dolphmon"
+        card_id: "ST-35S"
+  - id: 10
+    name: "HEAVEN'S CHARM"
+    battle_type: "Green"
+    power: 400
+    digimon:
+      - name: "Angewomon"
+        card_id: "BO-16"
+      - name: "Angewomon"
+        card_id: "CP-10"
+  - id: 2046
+    name: "BEETLE HORN ATTACK"
+    battle_type: "Green"
+    power: 400
+    digimon:
+      - name: "Okuwamon"
+        card_id: "TB-09"
+  - id: 2047
+    name: "DOUBLE SCISSOR CLAWS"
+    battle_type: "Yellow"
+    power: 400
+    digimon:
+      - name: "Okuwamon"
+        card_id: "ST-31"
+      - name: "Okuwamon"
+        card_id: "TB-09"
+  - id: 4098
+    name: "PULSE BLAST"
+    battle_type: "Yellow"
+    power: 400
+    digimon:
+      - name: "Dolphmon"
+        card_id: "ST-35"
+  - id: 4107
+    name: "DARKNESS WATER"
+    battle_type: "Yellow"
+    power: 400
+    digimon:
+      - name: "MarineDevimon"
+        card_id: "ST-39"
+      - name: "MarineDevimon"
+        card_id: "ST-39S"
+  - id: 4120
+    name: "FREEZING BREATH"
+    battle_type: "Green"
+    power: 400
+    digimon:
+      - name: "Mammothmon"
+        card_id: "ST-46"
+      - name: "Mammothmon"
+        card_id: "ST-46S"
+  - id: 4122
+    name: "GARURU KICK"
+    battle_type: "Green"
+    power: 400
+    digimon:
+      - name: "WereGarurumon"
+        card_id: "ST-47"
+      - name: "WereGarurumon"
+        card_id: "ST-47S"
+  - id: 4126
+    name: "FIST OF THE BEAST KING"
+    battle_type: "Yellow"
+    power: 400
+    digimon:
+      - name: "Leomon"
+        card_id: "BO-03"
+      - name: "Leomon"
+        card_id: "CP-03"
+  - id: 4132
+    name: "SUBZERO ICE PUNCH"
+    battle_type: "Yellow"
+    power: 400
+    digimon:
+      - name: "Frigimon"
+        card_id: "BO-07"
+  - id: 4134
+    name: "FROG KICK"
+    battle_type: "Yellow"
+    power: 400
+    digimon:
+      - name: "ShogunGekomon"
+        card_id: "BO-08"
+  - id: 4135
+    name: "HYDRO BLASTER"
+    battle_type: "Red"
+    power: 400
+    digimon:
+      - name: "Shellmon"
+        card_id: "BO-09"
+  - id: 4155
+    name: "BULL FIGHTING ATTACK"
+    battle_type: "Green"
+    power: 400
+    digimon:
+      - name: "Minotarumon"
+        card_id: "BO-21"
+      - name: "Minotarumon"
+        card_id: "CP-15"
+  - id: 4191
+    name: "FATHER TIME"
+    battle_type: "Green"
+    power: 400
+    digimon:
+      - name: "Phantomon"
+        card_id: "BO-39"
+  - id: 5174
+    name: "HUG"
+    battle_type: "Green"
+    power: 400
+    digimon:
+      - name: "Monzaemon"
+        card_id: "BO-62"
+      - name: "Monzaemon"
+        card_id: "CP-34"
+  - id: 6165
+    name: "HORN BUSTER"
+    battle_type: "Green"
+    power: 400
+    digimon:
+      - name: "Tuskmon"
+        card_id: "BO-75"
+  - id: 6170
+    name: "LIGHTNING CLAW"
+    battle_type: "Yellow"
+    power: 400
+    digimon:
+      - name: "Gatomon"
+        card_id: "BO-77"
+  - id: 6171
+    name: "HYPER HEAT"
+    battle_type: "Green"
+    power: 400
+    digimon:
+      - name: "Cyclonemon"
+        card_id: "BO-78"
+  - id: 6172
+    name: "ARM BOMBER"
+    battle_type: "Yellow"
+    power: 400
+    digimon:
+      - name: "Cyclonemon"
+        card_id: "BO-78"
+  - id: 6186
+    name: "PUMMEL PECK"
+    battle_type: "Red"
+    power: 400
+    digimon:
+      - name: "Kiwimon"
+        card_id: "BO-85"
+  - id: 6197
+    name: "THORN WHIPS"
+    battle_type: "Green"
+    power: 400
+    digimon:
+      - name: "Blossomon"
+        card_id: "BO-90"
+  - id: 7177
+    name: "LONG ARM GRABBING"
+    battle_type: "Green"
+    power: 400
+    digimon:
+      - name: "Wendigomon"
+        card_id: "MO-04"
+  - id: 8161
+    name: "FIRE ROCKET"
+    battle_type: "Green"
+    power: 400
+    digimon:
+      - name: "Flamedramon"
+        card_id: "FX-08"
+  - id: 8177
+    name: "CHRONO BREAKER"
+    battle_type: "Red"
+    power: 400
+    digimon:
+      - name: "Clockmon"
+        card_id: "ST-72"
+      - name: "Clockmon"
+        card_id: "MP-72"
+  - id: 8206
+    name: "PILE SHELL"
+    battle_type: "Red"
+    power: 400
+    digimon:
+      - name: "MoriShellmon"
+        card_id: "ST-93"
+      - name: "MoriShellmon"
+        card_id: "MP-93"
+  - id: 8210
+    name: "BOGUS IRON DRILL SPIN"
+    battle_type: "Red"
+    power: 400
+    digimon:
+      - name: "NiseDrimogemon"
+        card_id: "ST-95"
+      - name: "NiseDrimogemon"
+        card_id: "MP-95"
+  - id: 8258
+    name: "COSMIC KISS"
+    battle_type: "Green"
+    power: 400
+    digimon:
+      - name: "Vademon"
+        card_id: "MP-105"
+  - id: 8284
+    name: "JUNGLE PUNCH"
+    battle_type: "Red"
+    power: 400
+    digimon:
+      - name: "J-Mojyamon"
+        card_id: "BO-117"
+  - id: 8345
+    name: "SYMPHONY CRUSHER"
+    battle_type: "Green"
+    power: 400
+    digimon:
+      - name: "Gekomon"
+        card_id: "ST-27S"
+  - id: 8353
+    name: "SPURTING INK"
+    battle_type: "Green"
+    power: 400
+    digimon:
+      - name: "Octomon"
+        card_id: "ST-37S"
+  - id: 8359
+    name: "MEGA BONE STICK"
+    battle_type: "Yellow"
+    power: 400
+    digimon:
+      - name: "Apemon"
+        card_id: "ST-43S"
+  - id: 8361
+    name: "ZOMBIE CLAW"
+    battle_type: "Green"
+    power: 400
+    digimon:
+      - name: "Bakemon"
+        card_id: "ST-45S"
+  - id: 17
+    name: "PUMMEL WHACK"
+    battle_type: "Green"
+    power: 390
+    digimon:
+      - name: "Ogremon"
+        card_id: "BO-04"
+      - name: "Ogremon"
+        card_id: "CP-04"
+  - id: 2041
+    name: "THE TOUCH OF EVIL"
+    battle_type: "Green"
+    power: 390
+    digimon:
+      - name: "Devimon"
+        card_id: "BO-02"
+      - name: "Devimon"
+        card_id: "TB-06"
+      - name: "Devimon"
+        card_id: "CP-02"
+  - id: 2042
+    name: "EVIL WING"
+    battle_type: "Yellow"
+    power: 390
+    digimon:
+      - name: "Devimon"
+        card_id: "BO-02"
+      - name: "Devimon"
+        card_id: "TB-06"
+      - name: "Devimon"
+        card_id: "CP-02"
+  - id: 4047
+    name: "HAND OF DESTINY"
+    battle_type: "Yellow"
+    power: 390
+    digimon:
+      - name: "Angemon"
+        card_id: "ST-14"
+  - id: 4079
+    name: "SYMPHONY CRUSHER"
+    battle_type: "Green"
+    power: 390
+    digimon:
+      - name: "Gekomon"
+        card_id: "ST-27"
+  - id: 4102
+    name: "SPURTING INK"
+    battle_type: "Green"
+    power: 390
+    digimon:
+      - name: "Octomon"
+        card_id: "ST-37"
+  - id: 4104
+    name: "HORN & TUSK"
+    battle_type: "Green"
+    power: 390
+    digimon:
+      - name: "Zudomon"
+        card_id: "ST-38"
+      - name: "Zudomon"
+        card_id: "ST-38S"
+  - id: 4115
+    name: "MEGA BONE STICK"
+    battle_type: "Yellow"
+    power: 390
+    digimon:
+      - name: "Apemon"
+        card_id: "ST-43"
+  - id: 4118
+    name: "ZOMBIE CLAW"
+    battle_type: "Green"
+    power: 390
+    digimon:
+      - name: "Bakemon"
+        card_id: "ST-45"
+  - id: 4125
+    name: "BEAST SWORD"
+    battle_type: "Green"
+    power: 390
+    digimon:
+      - name: "Leomon"
+        card_id: "BO-03"
+      - name: "Leomon"
+        card_id: "CP-03"
+  - id: 4145
+    name: "ICE CLOUD"
+    battle_type: "Yellow"
+    power: 390
+    digimon:
+      - name: "Mojyamon"
+        card_id: "BO-14"
+      - name: "Mojyamon"
+        card_id: "CP-08"
+  - id: 4160
+    name: "DREAM DUST"
+    battle_type: "Yellow"
+    power: 390
+    digimon:
+      - name: "Roachmon"
+        card_id: "BO-23"
+      - name: "Roachmon"
+        card_id: "CP-17"
+  - id: 5179
+    name: "SPARKLING BLOW"
+    battle_type: "Green"
+    power: 390
+    digimon:
+      - name: "Mamemon"
+        card_id: "BO-64"
+      - name: "Mamemon"
+        card_id: "CP-36"
+  - id: 5186
+    name: "CHAIN SAW"
+    battle_type: "Green"
+    power: 390
+    digimon:
+      - name: "Giromon"
+        card_id: "BO-68"
+  - id: 5189
+    name: "ULTIMATE SLICER"
+    battle_type: "Yellow"
+    power: 390
+    digimon:
+      - name: "Megadramon"
+        card_id: "BO-69"
+  - id: 5196
+    name: "BREATH OF DECAY"
+    battle_type: "Yellow"
+    power: 390
+    digimon:
+      - name: "Raremon"
+        card_id: "BO-72"
+  - id: 6163
+    name: "TRIPLE FORCES"
+    battle_type: "Green"
+    power: 390
+    digimon:
+      - name: "Deltamon"
+        card_id: "BO-74"
+  - id: 6174
+    name: "FIRE BLAST"
+    battle_type: "Yellow"
+    power: 390
+    digimon:
+      - name: "DarkTyrannomon"
+        card_id: "BO-79"
+  - id: 7174
+    name: "TINY TWISTER"
+    battle_type: "Yellow"
+    power: 390
+    digimon:
+      - name: "Lopmon"
+        card_id: "MO-02"
+  - id: 8163
+    name: "RED TAIL"
+    battle_type: "Green"
+    power: 390
+    digimon:
+      - name: "Halsemon"
+        card_id: "FX-09"
+  - id: 8215
+    name: "RED EYES"
+    battle_type: "Yellow"
+    power: 390
+    digimon:
+      - name: "Devidramon"
+        card_id: "ST-97"
+      - name: "Devidramon"
+        card_id: "MP-97"
+  - id: 8238
+    name: "PHOENIX WINGS"
+    battle_type: "Yellow"
+    power: 390
+    digimon:
+      - name: "Piddomon"
+        card_id: "MP-79"
+  - id: 8254
+    name: "INSECTOID RADIATION"
+    battle_type: "Red"
+    power: 390
+    digimon:
+      - name: "Yanmamon"
+        card_id: "MP-101"
+  - id: 8259
+    name: "EXTRA-TERRESTRIAL RAY"
+    battle_type: "Yellow"
+    power: 390
+    digimon:
+      - name: "Vademon"
+        card_id: "MP-105"
+  - id: 8262
+    name: "PINBALL"
+    battle_type: "Green"
+    power: 390
+    digimon:
+      - name: "Tekkamon"
+        card_id: "MP-108"
+  - id: 8271
+    name: "DINO-BLIZZARD"
+    battle_type: "Yellow"
+    power: 390
+    digimon:
+      - name: "SnowAgumon"
+        card_id: "BO-110"
+  - id: 8282
+    name: "DEMONIC HURRICANE"
+    battle_type: "Green"
+    power: 390
+    digimon:
+      - name: "Fugamon"
+        card_id: "BO-116"
+  - id: 8316
+    name: "BOTTOMLESS WHIRLPOOL"
+    battle_type: "Yellow"
+    power: 390
+    digimon:
+      - name: "WaruSeadramon"
+        card_id: "BO-132"
+  - id: 8340
+    name: "ROCK PUNCH"
+    battle_type: "Yellow"
+    power: 390
+    digimon:
+      - name: "Rockmon"
+        card_id: "ST-22S"
+  - id: 1016
+    name: "PEPPER BREATH"
+    battle_type: "Yellow"
+    power: 380
+    digimon:
+      - name: "Agumon"
+        card_id: "ST-01"
+  - id: 2036
+    name: "SCISSOR CLAW"
+    battle_type: "Green"
+    power: 380
+    digimon:
+      - name: "Kuwagamon"
+        card_id: "BO-13"
+      - name: "Kuwagamon"
+        card_id: "TB-04"
+      - name: "Kuwagamon"
+        card_id: "CP-07"
+  - id: 4067
+    name: "ROCK PUNCH"
+    battle_type: "Yellow"
+    power: 380
+    digimon:
+      - name: "Rockmon"
+        card_id: "ST-22"
+  - id: 4080
+    name: "TONGUE ATTACK"
+    battle_type: "Yellow"
+    power: 380
+    digimon:
+      - name: "Gekomon"
+        card_id: "ST-27"
+      - name: "Gekomon"
+        card_id: "ST-27S"
+  - id: 4088
+    name: "BEETLE HORN ATTACK"
+    battle_type: "Green"
+    power: 380
+    digimon:
+      - name: "Okuwamon"
+        card_id: "ST-31"
+      - name: "Okuwamon"
+        card_id: "ST-31S"
+  - id: 4097
+    name: "DOLPHIN KICK"
+    battle_type: "Green"
+    power: 380
+    digimon:
+      - name: "Dolphmon"
+        card_id: "ST-35"
+      - name: "Dolphmon"
+        card_id: "ST-35S"
+  - id: 4138
+    name: "MOLE'S CLAW"
+    battle_type: "Green"
+    power: 380
+    digimon:
+      - name: "Drimogemon"
+        card_id: "BO-10"
+  - id: 4171
+    name: "CORAL CRUSHER"
+    battle_type: "Green"
+    power: 380
+    digimon:
+      - name: "Gesomon"
+        card_id: "BO-30"
+      - name: "Gesomon"
+        card_id: "CP-24"
+  - id: 5184
+    name: "DIGITAL BOMB"
+    battle_type: "Green"
+    power: 380
+    digimon:
+      - name: "Datamon"
+        card_id: "BO-67"
+  - id: 6167
+    name: "NIGHTMARE CLAW"
+    battle_type: "Green"
+    power: 380
+    digimon:
+      - name: "Myotismon"
+        card_id: "BO-76"
+  - id: 6184
+    name: "NEEDLE SPRAY"
+    battle_type: "Red"
+    power: 380
+    digimon:
+      - name: "Togemon"
+        card_id: "BO-84"
+  - id: 6188
+    name: "TWIG TAP"
+    battle_type: "Green"
+    power: 380
+    digimon:
+      - name: "Woodmon"
+        card_id: "BO-86"
+  - id: 7168
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 380
+    digimon:
+      - name: "Omnimon"
+        card_id: "DM-01"
+  - id: 8162
+    name: "FLAME FIST"
+    battle_type: "Yellow"
+    power: 380
+    digimon:
+      - name: "Flamedramon"
+        card_id: "FX-08"
+  - id: 8170
+    name: "PUPPY HOWLING"
+    battle_type: "Yellow"
+    power: 380
+    digimon:
+      - name: "Salamon"
+        card_id: "ST-66"
+      - name: "Salamon"
+        card_id: "MP-66"
+  - id: 8180
+    name: "PROTECT GRENADE"
+    battle_type: "Yellow"
+    power: 380
+    digimon:
+      - name: "Guardromon"
+        card_id: "ST-73"
+      - name: "Guardromon"
+        card_id: "MP-73"
+  - id: 8182
+    name: "RAGING INFERNO"
+    battle_type: "Green"
+    power: 380
+    digimon:
+      - name: "Flarerizamon"
+        card_id: "ST-74"
+      - name: "Flarerizamon"
+        card_id: "MP-74"
+  - id: 8187
+    name: "NECRO MAGIC"
+    battle_type: "Green"
+    power: 380
+    digimon:
+      - name: "Soulmon"
+        card_id: "ST-77"
+      - name: "Soulmon"
+        card_id: "MP-77"
+  - id: 8188
+    name: "SOUL CITY"
+    battle_type: "Yellow"
+    power: 380
+    digimon:
+      - name: "Soulmon"
+        card_id: "ST-77"
+      - name: "Soulmon"
+        card_id: "MP-77"
+  - id: 8211
+    name: "FAKE MOLE'S CLAW"
+    battle_type: "Green"
+    power: 380
+    digimon:
+      - name: "NiseDrimogemon"
+        card_id: "ST-95"
+      - name: "NiseDrimogemon"
+        card_id: "MP-95"
+  - id: 8212
+    name: "TORNADO"
+    battle_type: "Green"
+    power: 380
+    digimon:
+      - name: "Airdramon"
+        card_id: "ST-96"
+      - name: "Airdramon"
+        card_id: "MP-96"
+  - id: 8234
+    name: "POLAR BREATH"
+    battle_type: "Green"
+    power: 380
+    digimon:
+      - name: "Hyogamon"
+        card_id: "MP-78"
+      - name: "Panjyamon"
+        card_id: "BO-127"
+  - id: 8235
+    name: "ICE CLUB"
+    battle_type: "Yellow"
+    power: 380
+    digimon:
+      - name: "Hyogamon"
+        card_id: "MP-78"
+  - id: 8244
+    name: "CRYSTAL CLAW"
+    battle_type: "Yellow"
+    power: 380
+    digimon:
+      - name: "IceDevimon"
+        card_id: "MP-86"
+  - id: 8301
+    name: "DATA CRUSHER"
+    battle_type: "Yellow"
+    power: 380
+    digimon:
+      - name: "Kurisarimon"
+        card_id: "BO-125"
+  - id: 8343
+    name: "STRONG CARAPACE"
+    battle_type: "Yellow"
+    power: 380
+    digimon:
+      - name: "Tortomon"
+        card_id: "ST-25S"
+  - id: 3
+    name: "LIGHTNING CLAW"
+    battle_type: "Yellow"
+    power: 370
+    digimon:
+      - name: "Gatomon"
+        card_id: "BO-15"
+      - name: "Gatomon"
+        card_id: "CP-09"
+  - id: 4039
+    name: "POISON IVY"
+    battle_type: "Yellow"
+    power: 370
+    digimon:
+      - name: "Palmon"
+        card_id: "ST-09"
+  - id: 4043
+    name: "HARPOON TORPEDO"
+    battle_type: "Yellow"
+    power: 370
+    digimon:
+      - name: "Ikkakumon"
+        card_id: "ST-12"
+  - id: 4075
+    name: "STRONG CARAPACE"
+    battle_type: "Yellow"
+    power: 370
+    digimon:
+      - name: "Tortomon"
+        card_id: "ST-25"
+  - id: 4114
+    name: "METALLIC FUR"
+    battle_type: "Green"
+    power: 370
+    digimon:
+      - name: "Apemon"
+        card_id: "ST-43"
+      - name: "Apemon"
+        card_id: "ST-43S"
+  - id: 4119
+    name: "EVIL CHARM"
+    battle_type: "Yellow"
+    power: 370
+    digimon:
+      - name: "Bakemon"
+        card_id: "ST-45"
+      - name: "Bakemon"
+        card_id: "ST-45S"
+  - id: 4140
+    name: "GATLING ATTACK"
+    battle_type: "Yellow"
+    power: 370
+    digimon:
+      - name: "Andromon"
+        card_id: "BO-11"
+  - id: 4144
+    name: "BONE BOOMERANG"
+    battle_type: "Green"
+    power: 370
+    digimon:
+      - name: "Mojyamon"
+        card_id: "BO-14"
+      - name: "Mojyamon"
+        card_id: "CP-08"
+  - id: 4154
+    name: "NIGHTMARE SHOCKER"
+    battle_type: "Yellow"
+    power: 370
+    digimon:
+      - name: "Vilemon"
+        card_id: "BO-20"
+      - name: "Vilemon"
+        card_id: "CP-14"
+  - id: 6169
+    name: "CAT'S EYE HYPNOTISM"
+    battle_type: "Green"
+    power: 370
+    digimon:
+      - name: "Gatomon"
+        card_id: "BO-77"
+  - id: 6191
+    name: "ROTTEN RAINBALLS"
+    battle_type: "Yellow"
+    power: 370
+    digimon:
+      - name: "RedVegiemon"
+        card_id: "BO-87"
+  - id: 6203
+    name: "DIRTY SAUCER"
+    battle_type: "Green"
+    power: 370
+    digimon:
+      - name: "Garbagemon"
+        card_id: "BO-93"
+  - id: 8178
+    name: "TIME BUSTER"
+    battle_type: "Green"
+    power: 370
+    digimon:
+      - name: "Clockmon"
+        card_id: "ST-72"
+      - name: "Clockmon"
+        card_id: "MP-72"
+  - id: 8228
+    name: "PLAYFUL ATTACK"
+    battle_type: "Yellow"
+    power: 370
+    digimon:
+      - name: "ToyAgumon"
+        card_id: "MP-65"
+  - id: 8237
+    name: "LIGHT SPEED"
+    battle_type: "Green"
+    power: 370
+    digimon:
+      - name: "Piddomon"
+        card_id: "MP-79"
+  - id: 8250
+    name: "MUDBATH"
+    battle_type: "Green"
+    power: 370
+    digimon:
+      - name: "MudFrigimon"
+        card_id: "MP-99"
+  - id: 8267
+    name: "FATAL STINGER"
+    battle_type: "Yellow"
+    power: 370
+    digimon:
+      - name: "Flymon"
+        card_id: "MP-110"
+  - id: 8269
+    name: "PENGUIN ATTACK"
+    battle_type: "Yellow"
+    power: 370
+    digimon:
+      - name: "Penguinmon"
+        card_id: "BO-109"
+  - id: 8293
+    name: "AKATORI KICK"
+    battle_type: "Green"
+    power: 370
+    digimon:
+      - name: "Akatorimon"
+        card_id: "BO-121"
+  - id: 8299
+    name: "BLACK FLAMES"
+    battle_type: "Yellow"
+    power: 370
+    digimon:
+      - name: "Darkrizamon"
+        card_id: "BO-124"
+  - id: 8320
+    name: "SKULL HAMMER"
+    battle_type: "Yellow"
+    power: 370
+    digimon:
+      - name: "SkullSatanmon"
+        card_id: "BO-134"
+  - id: 2
+    name: "CAT'S EYE HYPNOTISM"
+    battle_type: "Green"
+    power: 360
+    digimon:
+      - name: "Gatomon"
+        card_id: "BO-15"
+      - name: "Gatomon"
+        card_id: "CP-09"
+  - id: 14
+    name: "NEEDLE SPRAY"
+    battle_type: "Yellow"
+    power: 360
+    digimon:
+      - name: "Togemon"
+        card_id: "ST-10"
+  - id: 1023
+    name: "FIRE FLAPPING"
+    battle_type: "Green"
+    power: 360
+    digimon:
+      - name: "Birdramon"
+        card_id: "ST-04"
+  - id: 2039
+    name: "JET GALLOP"
+    battle_type: "Green"
+    power: 360
+    digimon:
+      - name: "Centarumon"
+        card_id: "ST-17"
+      - name: "Centarumon"
+        card_id: "TB-05"
+  - id: 2054
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 360
+    digimon:
+      - name: "SkullMammothmon"
+        card_id: "BO-40"
+      - name: "Goldramon"
+        card_id: "UN-01"
+      - name: "Goldramon"
+        card_id: "BO-139"
+      - name: "WarGreymon"
+        card_id: "TB-12"
+  - id: 4042
+    name: "HEAT TOP"
+    battle_type: "Green"
+    power: 360
+    digimon:
+      - name: "Ikkakumon"
+        card_id: "ST-12"
+  - id: 4044
+    name: "BOOM BUBBLE"
+    battle_type: "Red"
+    power: 360
+    digimon:
+      - name: "Patamon"
+        card_id: "ST-13"
+  - id: 4046
+    name: "ANGEL ROD"
+    battle_type: "Green"
+    power: 360
+    digimon:
+      - name: "Angemon"
+        card_id: "ST-14"
+  - id: 4074
+    name: "SPINNING ATTACK"
+    battle_type: "Green"
+    power: 360
+    digimon:
+      - name: "Tortomon"
+        card_id: "ST-25"
+      - name: "Tortomon"
+        card_id: "ST-25S"
+  - id: 4103
+    name: "OCTOPUS TRAP"
+    battle_type: "Yellow"
+    power: 360
+    digimon:
+      - name: "Octomon"
+        card_id: "ST-37"
+      - name: "Octomon"
+        card_id: "ST-37S"
+  - id: 4117
+    name: "MAGICAL GAME"
+    battle_type: "Green"
+    power: 360
+    digimon:
+      - name: "Wizardmon"
+        card_id: "ST-44"
+      - name: "Wizardmon"
+        card_id: "ST-44S"
+  - id: 4131
+    name: "SNOW BALL"
+    battle_type: "Green"
+    power: 360
+    digimon:
+      - name: "Frigimon"
+        card_id: "BO-07"
+  - id: 4142
+    name: "SLAMMING ATTACK"
+    battle_type: "Green"
+    power: 360
+    digimon:
+      - name: "Monochromon"
+        card_id: "BO-12"
+  - id: 5162
+    name: "FEATHER SWORD"
+    battle_type: "Green"
+    power: 360
+    digimon:
+      - name: "Kokatorimon"
+        card_id: "BO-56"
+      - name: "Kokatorimon"
+        card_id: "CP-28"
+  - id: 5165
+    name: "TIDAL WAVE"
+    battle_type: "Green"
+    power: 360
+    digimon:
+      - name: "Whamon"
+        card_id: "BO-58"
+      - name: "Whamon"
+        card_id: "CP-30"
+  - id: 5183
+    name: "SCRATCH"
+    battle_type: "Green"
+    power: 360
+    digimon:
+      - name: "Tyrannomon"
+        card_id: "BO-66"
+  - id: 6189
+    name: "WOODY SMASHER"
+    battle_type: "Yellow"
+    power: 360
+    digimon:
+      - name: "Woodmon"
+        card_id: "BO-86"
+  - id: 7167
+    name: "DEFEND"
+    battle_type: "Yellow"
+    power: 360
+    digimon:
+      - name: "The Miracle 4"
+        card_id: "DM-02"
+      - name: "Apokarimon"
+        card_id: "BO-138"
+  - id: 8202
+    name: "PURPLE FOG"
+    battle_type: "Yellow"
+    power: 360
+    digimon:
+      - name: "Tsukaimon"
+        card_id: "ST-90"
+      - name: "Tsukaimon"
+        card_id: "MP-90"
+  - id: 8205
+    name: "METAL BOMBER"
+    battle_type: "Yellow"
+    power: 360
+    digimon:
+      - name: "PlatinumSukamon"
+        card_id: "ST-92"
+      - name: "PlatinumSukamon"
+        card_id: "MP-92"
+  - id: 8243
+    name: "ICE PACK FREEZE"
+    battle_type: "Green"
+    power: 360
+    digimon:
+      - name: "IceDevimon"
+        card_id: "MP-86"
+  - id: 8255
+    name: "INSECTOID DISCHARGE"
+    battle_type: "Green"
+    power: 360
+    digimon:
+      - name: "Yanmamon"
+        card_id: "MP-101"
+  - id: 8277
+    name: "SNOW CLUB"
+    battle_type: "Yellow"
+    power: 360
+    digimon:
+      - name: "SnowGoburimon"
+        card_id: "BO-113"
+  - id: 8297
+    name: "SHELL-ATTACK"
+    battle_type: "Yellow"
+    power: 360
+    digimon:
+      - name: "ShellNumemon"
+        card_id: "BO-123"
+  - id: 8337
+    name: "POISON THREAD"
+    battle_type: "Yellow"
+    power: 360
+    digimon:
+      - name: "Dokugumon"
+        card_id: "ST-19S"
+  - id: 8338
+    name: "SHOGUN SWORD"
+    battle_type: "Yellow"
+    power: 360
+    digimon:
+      - name: "Musyamon"
+        card_id: "ST-20S"
+  - id: 24
+    name: "BLUE BLASTER"
+    battle_type: "Red"
+    power: 350
+    digimon:
+      - name: "Gabumon"
+        card_id: "ST-05"
+  - id: 1014
+    name: "MEGA CLAW"
+    battle_type: "Yellow"
+    power: 350
+    digimon:
+      - name: "MetalGreymon"
+        card_id: "BO-01"
+      - name: "MetalGreymon"
+        card_id: "CP-01"
+  - id: 1021
+    name: "SPIRAL TWISTER"
+    battle_type: "Yellow"
+    power: 350
+    digimon:
+      - name: "Biyomon"
+        card_id: "ST-03"
+  - id: 2034
+    name: "POISON IVY"
+    battle_type: "Red"
+    power: 350
+    digimon:
+      - name: "Palmon"
+        card_id: "TB-03"
+  - id: 2037
+    name: "POWER GUILLOTINE"
+    battle_type: "Yellow"
+    power: 350
+    digimon:
+      - name: "Kuwagamon"
+        card_id: "TB-04"
+  - id: 4035
+    name: "SUPER SHOCKER"
+    battle_type: "Yellow"
+    power: 350
+    digimon:
+      - name: "Tentomon"
+        card_id: "ST-07"
+  - id: 4041
+    name: "MARCHING FISHES"
+    battle_type: "Yellow"
+    power: 350
+    digimon:
+      - name: "Gomamon"
+        card_id: "ST-11"
+  - id: 4057
+    name: "POISON COBWEB"
+    battle_type: "Green"
+    power: 350
+    digimon:
+      - name: "Dokugumon"
+        card_id: "ST-19"
+      - name: "Dokugumon"
+        card_id: "ST-19S"
+  - id: 4058
+    name: "POISON THREAD"
+    battle_type: "Yellow"
+    power: 350
+    digimon:
+      - name: "Dokugumon"
+        card_id: "ST-19"
+  - id: 4060
+    name: "NINJA BLADE"
+    battle_type: "Green"
+    power: 350
+    digimon:
+      - name: "Musyamon"
+        card_id: "ST-20"
+      - name: "Musyamon"
+        card_id: "ST-20S"
+  - id: 4061
+    name: "SHOGUN SWORD"
+    battle_type: "Yellow"
+    power: 350
+    digimon:
+      - name: "Musyamon"
+        card_id: "ST-20"
+  - id: 4077
+    name: "HYPNOTISM"
+    battle_type: "Green"
+    power: 350
+    digimon:
+      - name: "Starmon"
+        card_id: "ST-26"
+      - name: "Starmon"
+        card_id: "ST-26S"
+  - id: 4100
+    name: "ANCIENT BITE"
+    battle_type: "Green"
+    power: 350
+    digimon:
+      - name: "Coelamon"
+        card_id: "ST-36"
+      - name: "Coelamon"
+        card_id: "ST-36S"
+  - id: 4128
+    name: "ROARING FLAME"
+    battle_type: "Green"
+    power: 350
+    digimon:
+      - name: "Meramon"
+        card_id: "BO-05"
+      - name: "Meramon"
+        card_id: "CP-05"
+  - id: 4136
+    name: "SLAMMING ATTACK"
+    battle_type: "Green"
+    power: 350
+    digimon:
+      - name: "Shellmon"
+        card_id: "BO-09"
+      - name: "Snimon"
+        card_id: "BO-25"
+      - name: "Snimon"
+        card_id: "CP-19"
+  - id: 4146
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 350
+    digimon:
+      - name: "Magnadramon"
+        card_id: "BO-17"
+      - name: "Magnadramon"
+        card_id: "CP-11"
+      - name: "Phoenixmon"
+        card_id: "BO-94"
+      - name: "WarGreymon"
+        card_id: "ST-84"
+      - name: "WarGreymon"
+        card_id: "MP-84"
+  - id: 4186
+    name: "WAKING DREAM"
+    battle_type: "Yellow"
+    power: 350
+    digimon:
+      - name: "Tapirmon"
+        card_id: "BO-36"
+  - id: 4189
+    name: "NIGHTMARE CLAW"
+    battle_type: "Green"
+    power: 350
+    digimon:
+      - name: "Myotismon"
+        card_id: "BO-38"
+  - id: 5177
+    name: "BOMBER"
+    battle_type: "Yellow"
+    power: 350
+    digimon:
+      - name: "Numemon"
+        card_id: "BO-63"
+      - name: "Numemon"
+        card_id: "CP-35"
+  - id: 6173
+    name: "IRON TAIL"
+    battle_type: "Green"
+    power: 350
+    digimon:
+      - name: "DarkTyrannomon"
+        card_id: "BO-79"
+  - id: 6182
+    name: "HAMMER PUNCH"
+    battle_type: "Green"
+    power: 350
+    digimon:
+      - name: "Veedramon"
+        card_id: "BO-83"
+  - id: 6187
+    name: "HIGH JUMPING KICK"
+    battle_type: "Green"
+    power: 350
+    digimon:
+      - name: "Kiwimon"
+        card_id: "BO-85"
+  - id: 6190
+    name: "POISON IVY"
+    battle_type: "Green"
+    power: 350
+    digimon:
+      - name: "RedVegiemon"
+        card_id: "BO-87"
+  - id: 8167
+    name: "MINI SCISSOR CLAWS"
+    battle_type: "Red"
+    power: 350
+    digimon:
+      - name: "Kokuwamon"
+        card_id: "ST-64"
+      - name: "Kokuwamon"
+        card_id: "MP-64"
+  - id: 8173
+    name: "TROPICAL BEAK"
+    battle_type: "Red"
+    power: 350
+    digimon:
+      - name: "Muchomon"
+        card_id: "ST-68"
+      - name: "Muchomon"
+        card_id: "MP-68"
+  - id: 8185
+    name: "WILD THUNDER"
+    battle_type: "Green"
+    power: 350
+    digimon:
+      - name: "ShimaUnimon"
+        card_id: "ST-76"
+      - name: "ShimaUnimon"
+        card_id: "MP-76"
+  - id: 8246
+    name: "ELECTRO SHOCKER"
+    battle_type: "Yellow"
+    power: 350
+    digimon:
+      - name: "Betamon"
+        card_id: "MP-87"
+  - id: 8275
+    name: "AGUFLAME"
+    battle_type: "Yellow"
+    power: 350
+    digimon:
+      - name: "ClearAgumon"
+        card_id: "BO-112"
+  - id: 8283
+    name: "PREHISTO-CLUB"
+    battle_type: "Yellow"
+    power: 350
+    digimon:
+      - name: "Fugamon"
+        card_id: "BO-116"
+  - id: 8288
+    name: "DARK TALON"
+    battle_type: "Green"
+    power: 350
+    digimon:
+      - name: "Saberdramon"
+        card_id: "BO-119"
+  - id: 8291
+    name: "ICICLE ATTACK"
+    battle_type: "Green"
+    power: 350
+    digimon:
+      - name: "Icemon"
+        card_id: "BO-120"
+  - id: 8298
+    name: "FATAL BITE"
+    battle_type: "Green"
+    power: 350
+    digimon:
+      - name: "Darkrizamon"
+        card_id: "BO-124"
+  - id: 22
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 340
+    digimon:
+      - name: "Pukumon"
+        card_id: "ST-40"
+      - name: "Pukumon"
+        card_id: "ST-40S"
+      - name: "MetalEtemon"
+        card_id: "BO-27"
+      - name: "Piedmon"
+        card_id: "BO-42"
+      - name: "MetalEtemon"
+        card_id: "CP-21"
+      - name: "Piedmon"
+        card_id: "CP-37"
+      - name: "Machinedramon"
+        card_id: "BO-55"
+      - name: "Machinedramon"
+        card_id: "CP-27"
+      - name: "Puppetmon"
+        card_id: "BO-96"
+      - name: "Infermon"
+        card_id: "MO-11"
+      - name: "Kerpymon"
+        card_id: "MO-08"
+      - name: "SkullSatanmon"
+        card_id: "BO-134"
+      - name: "VenomMyotismon"
+        card_id: "BO-136"
+      - name: "Millenniummon"
+        card_id: "BO-141"
+      - name: "Creepymon"
+        card_id: "BO-142"
+  - id: 1018
+    name: "GREAT HORNS ATTACK"
+    battle_type: "Green"
+    power: 340
+    digimon:
+      - name: "Greymon"
+        card_id: "ST-02"
+  - id: 4036
+    name: "BEETLE HORN ATTACK"
+    battle_type: "Green"
+    power: 340
+    digimon:
+      - name: "Kabuterimon"
+        card_id: "ST-08"
+  - id: 4081
+    name: "ELECTRO SHOCKER"
+    battle_type: "Green"
+    power: 340
+    digimon:
+      - name: "MegaKabuterimon"
+        card_id: "ST-28"
+      - name: "MegaKabuterimon"
+        card_id: "ST-28S"
+  - id: 4143
+    name: "POWER GUILLOTINE"
+    battle_type: "Yellow"
+    power: 340
+    digimon:
+      - name: "Kuwagamon"
+        card_id: "BO-13"
+      - name: "Kuwagamon"
+        card_id: "CP-07"
+  - id: 4150
+    name: "LOBSTER STEP"
+    battle_type: "Green"
+    power: 340
+    digimon:
+      - name: "Ebidramon"
+        card_id: "BO-18"
+      - name: "Ebidramon"
+        card_id: "CP-12"
+  - id: 4152
+    name: "ENERGY CANNON"
+    battle_type: "Green"
+    power: 340
+    digimon:
+      - name: "Gorillamon"
+        card_id: "BO-19"
+      - name: "Gorillamon"
+        card_id: "CP-13"
+  - id: 4168
+    name: "SCISSOR MAGIC"
+    battle_type: "Red"
+    power: 340
+    digimon:
+      - name: "Crabmon"
+        card_id: "BO-28"
+      - name: "Crabmon"
+        card_id: "CP-22"
+  - id: 5171
+    name: "SPARKLING THUNDER"
+    battle_type: "Red"
+    power: 340
+    digimon:
+      - name: "Elecmon"
+        card_id: "BO-61"
+      - name: "Elecmon"
+        card_id: "CP-33"
+  - id: 5185
+    name: "DATA CRUSHER"
+    battle_type: "Yellow"
+    power: 340
+    digimon:
+      - name: "Datamon"
+        card_id: "BO-67"
+  - id: 5194
+    name: "SPIRAL SAW"
+    battle_type: "Yellow"
+    power: 340
+    digimon:
+      - name: "Gizamon"
+        card_id: "BO-71"
+  - id: 6164
+    name: "SERPENT BITE"
+    battle_type: "Yellow"
+    power: 340
+    digimon:
+      - name: "Deltamon"
+        card_id: "BO-74"
+  - id: 8198
+    name: "COLORED SPARKLE"
+    battle_type: "Red"
+    power: 340
+    digimon:
+      - name: "Psychemon"
+        card_id: "ST-89"
+      - name: "Psychemon"
+        card_id: "MP-89"
+  - id: 8207
+    name: "SLAMMING ATTACK"
+    battle_type: "Green"
+    power: 340
+    digimon:
+      - name: "MoriShellmon"
+        card_id: "ST-93"
+      - name: "MoriShellmon"
+        card_id: "MP-93"
+  - id: 8214
+    name: "CRIMSON CLAW"
+    battle_type: "Green"
+    power: 340
+    digimon:
+      - name: "Devidramon"
+        card_id: "ST-97"
+      - name: "Devidramon"
+        card_id: "MP-97"
+  - id: 8230
+    name: "FLOOD OF FIRE"
+    battle_type: "Green"
+    power: 340
+    digimon:
+      - name: "Tankmon"
+        card_id: "MP-69"
+  - id: 8257
+    name: "SPINNING ATTACK"
+    battle_type: "Green"
+    power: 340
+    digimon:
+      - name: "SandYanmamon"
+        card_id: "MP-102"
+  - id: 8272
+    name: "POISON NEMESIS"
+    battle_type: "Red"
+    power: 340
+    digimon:
+      - name: "Aruraumon"
+        card_id: "BO-111"
+  - id: 8286
+    name: "LYCO-BITE"
+    battle_type: "Green"
+    power: 340
+    digimon:
+      - name: "Gururumon"
+        card_id: "BO-118"
+  - id: 8341
+    name: "ROCK FIST"
+    battle_type: "Red"
+    power: 340
+    digimon:
+      - name: "Gotsumon"
+        card_id: "ST-23S"
+  - id: 18
+    name: "BONE CUDGEL"
+    battle_type: "Yellow"
+    power: 330
+    digimon:
+      - name: "Ogremon"
+        card_id: "BO-04"
+      - name: "Ogremon"
+        card_id: "CP-04"
+  - id: 1026
+    name: "SLAMMING ATTACK"
+    battle_type: "Green"
+    power: 330
+    digimon:
+      - name: "Garurumon"
+        card_id: "ST-06"
+  - id: 4068
+    name: "ROCK FIST"
+    battle_type: "Red"
+    power: 330
+    digimon:
+      - name: "Gotsumon"
+        card_id: "ST-23"
+  - id: 4091
+    name: "DOUBLE DARK SHOT"
+    battle_type: "Yellow"
+    power: 330
+    digimon:
+      - name: "SkullGreymon"
+        card_id: "ST-32"
+      - name: "SkullGreymon"
+        card_id: "ST-32S"
+  - id: 4130
+    name: "ICE WINDER"
+    battle_type: "Green"
+    power: 330
+    digimon:
+      - name: "Seadramon"
+        card_id: "BO-06"
+      - name: "Seadramon"
+        card_id: "CP-06"
+  - id: 4153
+    name: "SCRATCH"
+    battle_type: "Green"
+    power: 330
+    digimon:
+      - name: "Vilemon"
+        card_id: "BO-20"
+      - name: "Vilemon"
+        card_id: "CP-14"
+  - id: 4172
+    name: "ELASTIC ARMS"
+    battle_type: "Yellow"
+    power: 330
+    digimon:
+      - name: "Gesomon"
+        card_id: "BO-30"
+      - name: "Gesomon"
+        card_id: "CP-24"
+  - id: 4184
+    name: "DEFEND"
+    battle_type: "Yellow"
+    power: 330
+    digimon:
+      - name: "MetalSeadramon"
+        card_id: "BO-35"
+      - name: "MetalSeadramon"
+        card_id: "CP-26"
+      - name: "Preciomon"
+        card_id: "BO-135"
+  - id: 6177
+    name: "RAIN OF POLLEN"
+    battle_type: "Red"
+    power: 330
+    digimon:
+      - name: "Floramon"
+        card_id: "BO-81"
+  - id: 7162
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 330
+    digimon:
+      - name: "MetalGreymon"
+        card_id: "DW-01"
+      - name: "Kerpymon"
+        card_id: "MO-07"
+      - name: "Gigadramon"
+        card_id: "MP-107"
+  - id: 8172
+    name: "GOBURI BOMB"
+    battle_type: "Yellow"
+    power: 330
+    digimon:
+      - name: "Goburimon"
+        card_id: "ST-67"
+      - name: "Goburimon"
+        card_id: "MP-67"
+  - id: 8184
+    name: "THUNDER BOMBER"
+    battle_type: "Green"
+    power: 330
+    digimon:
+      - name: "Thunderballmon"
+        card_id: "ST-75"
+      - name: "Thunderballmon"
+        card_id: "MP-75"
+  - id: 8218
+    name: "COMPOST BOMBER"
+    battle_type: "Yellow"
+    power: 330
+    digimon:
+      - name: "Vegiemon"
+        card_id: "ST-98"
+      - name: "Vegiemon"
+        card_id: "MP-98"
+  - id: 8253
+    name: "TOXIC SAP"
+    battle_type: "Yellow"
+    power: 330
+    digimon:
+      - name: "Zassomon"
+        card_id: "MP-100"
+  - id: 8295
+    name: "SUPER FLAIR"
+    battle_type: "Yellow"
+    power: 330
+    digimon:
+      - name: "Geremon"
+        card_id: "BO-122"
+  - id: 8300
+    name: "PROGRAM LOGOUT"
+    battle_type: "Green"
+    power: 330
+    digimon:
+      - name: "Kurisarimon"
+        card_id: "BO-125"
+  - id: 8357
+    name: "FLAME BOMBER"
+    battle_type: "Red"
+    power: 330
+    digimon:
+      - name: "Candlemon"
+        card_id: "ST-41S"
+  - id: 2028
+    name: "ROCK FIST"
+    battle_type: "Red"
+    power: 320
+    digimon:
+      - name: "Gotsumon"
+        card_id: "TB-01"
+  - id: 4051
+    name: "HORN BLASTER"
+    battle_type: "Green"
+    power: 320
+    digimon:
+      - name: "Unimon"
+        card_id: "ST-16"
+  - id: 4089
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 320
+    digimon:
+      - name: "SkullGreymon"
+        card_id: "ST-32"
+      - name: "SkullGreymon"
+        card_id: "ST-32S"
+      - name: "MetalTyrannomon"
+        card_id: "ST-103"
+      - name: "MetalTyrannomon"
+        card_id: "MP-103"
+      - name: "WaruMonzaemon"
+        card_id: "MP-80"
+  - id: 4110
+    name: "FLAME BOMBER"
+    battle_type: "Red"
+    power: 320
+    digimon:
+      - name: "Candlemon"
+        card_id: "ST-41"
+  - id: 5170
+    name: "ELECTRIC STUN BLAST"
+    battle_type: "Yellow"
+    power: 320
+    digimon:
+      - name: "Gazimon"
+        card_id: "BO-60"
+      - name: "Gazimon"
+        card_id: "CP-32"
+  - id: 7191
+    name: "DEFEND"
+    battle_type: "Yellow"
+    power: 320
+    digimon:
+      - name: "Magnadramon"
+        card_id: "MO-10"
+  - id: 8175
+    name: "4-DISK BRAKE"
+    battle_type: "Green"
+    power: 320
+    digimon:
+      - name: "Mekanorimon"
+        card_id: "ST-71"
+      - name: "Mekanorimon"
+        card_id: "MP-71"
+  - id: 8179
+    name: "WARNING LASER"
+    battle_type: "Green"
+    power: 320
+    digimon:
+      - name: "Guardromon"
+        card_id: "ST-73"
+      - name: "Guardromon"
+        card_id: "MP-73"
+  - id: 8208
+    name: "NINJA HOPPING"
+    battle_type: "Green"
+    power: 320
+    digimon:
+      - name: "Ninjamon"
+        card_id: "ST-94"
+      - name: "Ninjamon"
+        card_id: "MP-94"
+  - id: 8247
+    name: "HYDRO-SHEAR"
+    battle_type: "Red"
+    power: 320
+    digimon:
+      - name: "ModokiBetamon"
+        card_id: "MP-91"
+  - id: 8281
+    name: "SHARMA HAMMER"
+    battle_type: "Yellow"
+    power: 320
+    digimon:
+      - name: "Sharmamon"
+        card_id: "BO-115"
+  - id: 8285
+    name: "JUNGLE KICK"
+    battle_type: "Green"
+    power: 320
+    digimon:
+      - name: "J-Mojyamon"
+        card_id: "BO-117"
+  - id: 1012
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 310
+    digimon:
+      - name: "Okuwamon"
+        card_id: "TB-09"
+      - name: "MetalGreymon"
+        card_id: "BO-01"
+      - name: "MetalGreymon"
+        card_id: "CP-01"
+      - name: "MarineAngemon"
+        card_id: "BO-34"
+      - name: "Myotismon"
+        card_id: "BO-76"
+  - id: 2033
+    name: "ELECTRO THREAD"
+    battle_type: "Yellow"
+    power: 310
+    digimon:
+      - name: "Kunemon"
+        card_id: "TB-02"
+  - id: 2050
+    name: "DEFEND"
+    battle_type: "Yellow"
+    power: 310
+    digimon:
+      - name: "SaberLeomon"
+        card_id: "ST-34"
+      - name: "SaberLeomon"
+        card_id: "TB-10"
+  - id: 6181
+    name: "FUNGUS CRUNCHER"
+    battle_type: "Yellow"
+    power: 310
+    digimon:
+      - name: "Mushroomon"
+        card_id: "BO-82"
+  - id: 8197
+    name: "WORM VENOM"
+    battle_type: "Yellow"
+    power: 310
+    digimon:
+      - name: "Dokunemon"
+        card_id: "ST-88"
+      - name: "Dokunemon"
+        card_id: "MP-88"
+  - id: 8226
+    name: "DOOM GEAR"
+    battle_type: "Yellow"
+    power: 310
+    digimon:
+      - name: "Hagurumon"
+        card_id: "MP-63"
+  - id: 8231
+    name: "FAR-WEST ATTACK"
+    battle_type: "Green"
+    power: 310
+    digimon:
+      - name: "Deputymon"
+        card_id: "MP-70"
+  - id: 8279
+    name: "DEMONIC CHUCKLE"
+    battle_type: "Yellow"
+    power: 310
+    digimon:
+      - name: "Keramon"
+        card_id: "BO-114"
+  - id: 8342
+    name: "STUN BUBBLE"
+    battle_type: "Yellow"
+    power: 310
+    digimon:
+      - name: "Otamamon"
+        card_id: "ST-24S"
+  - id: 8358
+    name: "DEMI DART"
+    battle_type: "Yellow"
+    power: 310
+    digimon:
+      - name: "DemiDevimon"
+        card_id: "ST-42S"
+  - id: 13
+    name: "LIGHT SPEED JABBING"
+    battle_type: "Green"
+    power: 300
+    digimon:
+      - name: "Togemon"
+        card_id: "ST-10"
+  - id: 21
+    name: "BLACK PEARL BLAST"
+    battle_type: "Yellow"
+    power: 300
+    digimon:
+      - name: "Syakomon"
+        card_id: "BO-29"
+      - name: "Syakomon"
+        card_id: "CP-23"
+  - id: 2053
+    name: "DEFEND"
+    battle_type: "Yellow"
+    power: 300
+    digimon:
+      - name: "Boltmon"
+        card_id: "TB-11"
+      - name: "Gryphonmon"
+        card_id: "BO-95"
+  - id: 4049
+    name: "POWER DRIVE"
+    battle_type: "Yellow"
+    power: 300
+    digimon:
+      - name: "Nanimon"
+        card_id: "ST-15"
+  - id: 4055
+    name: "ELECTRO THREAD"
+    battle_type: "Yellow"
+    power: 300
+    digimon:
+      - name: "Kunemon"
+        card_id: "ST-18"
+  - id: 4066
+    name: "ROCK BALL"
+    battle_type: "Green"
+    power: 300
+    digimon:
+      - name: "Rockmon"
+        card_id: "ST-22"
+      - name: "Rockmon"
+        card_id: "ST-22S"
+  - id: 4073
+    name: "STUN BUBBLE"
+    battle_type: "Yellow"
+    power: 300
+    digimon:
+      - name: "Otamamon"
+        card_id: "ST-24"
+  - id: 4092
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 300
+    digimon:
+      - name: "HerculesKabuterimon"
+        card_id: "ST-33"
+      - name: "LadyDevimon"
+        card_id: "BO-22"
+      - name: "Dragomon"
+        card_id: "BO-33"
+      - name: "Phantomon"
+        card_id: "BO-39"
+      - name: "LadyDevimon"
+        card_id: "CP-16"
+      - name: "Cyclonemon"
+        card_id: "BO-78"
+      - name: "Etemon"
+        card_id: "BO-57"
+      - name: "Etemon"
+        card_id: "CP-29"
+      - name: "Megadramon"
+        card_id: "BO-69"
+      - name: "Cherrymon"
+        card_id: "BO-92"
+      - name: "Vademon"
+        card_id: "MP-105"
+      - name: "Kurisarimon"
+        card_id: "BO-125"
+      - name: "WaruSeadramon"
+        card_id: "BO-132"
+      - name: "Jijimon"
+        card_id: "BO-137"
+      - name: "Flamedramon"
+        card_id: "FX-08"
+  - id: 4113
+    name: "DEMI DART"
+    battle_type: "Yellow"
+    power: 300
+    digimon:
+      - name: "DemiDevimon"
+        card_id: "ST-42"
+  - id: 4159
+    name: "FLYING ATTACK"
+    battle_type: "Green"
+    power: 300
+    digimon:
+      - name: "Roachmon"
+        card_id: "BO-23"
+      - name: "Roachmon"
+        card_id: "CP-17"
+  - id: 5168
+    name: "BOMBER"
+    battle_type: "Yellow"
+    power: 300
+    digimon:
+      - name: "Sukamon"
+        card_id: "BO-59"
+      - name: "Sukamon"
+        card_id: "CP-31"
+  - id: 6185
+    name: "LIGHTSPEED JABBING"
+    battle_type: "Green"
+    power: 300
+    digimon:
+      - name: "Togemon"
+        card_id: "BO-84"
+  - id: 8266
+    name: "POISONOUS POLLEN"
+    battle_type: "Green"
+    power: 300
+    digimon:
+      - name: "Flymon"
+        card_id: "MP-110"
+  - id: 4059
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 290
+    digimon:
+      - name: "Musyamon"
+        card_id: "ST-20"
+      - name: "Musyamon"
+        card_id: "ST-20S"
+      - name: "Okuwamon"
+        card_id: "ST-31"
+      - name: "MarineDevimon"
+        card_id: "ST-39"
+      - name: "Okuwamon"
+        card_id: "ST-31S"
+      - name: "MarineDevimon"
+        card_id: "ST-39S"
+      - name: "MetalGreymon"
+        card_id: "BO-80"
+      - name: "ShogunGekomon"
+        card_id: "BO-08"
+      - name: "Wendigomon"
+        card_id: "MO-04"
+      - name: "Cyberdramon"
+        card_id: "ST-83"
+      - name: "Cyberdramon"
+        card_id: "MP-83"
+      - name: "IceDevimon"
+        card_id: "MP-86"
+      - name: "Tekkamon"
+        card_id: "MP-108"
+  - id: 5192
+    name: "DEFEND"
+    battle_type: "Yellow"
+    power: 290
+    digimon:
+      - name: "Digitamamon"
+        card_id: "BO-70"
+  - id: 2040
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 280
+    digimon:
+      - name: "Minotarumon"
+        card_id: "BO-21"
+      - name: "Myotismon"
+        card_id: "BO-38"
+      - name: "Devimon"
+        card_id: "TB-06"
+      - name: "Minotarumon"
+        card_id: "CP-15"
+      - name: "Datamon"
+        card_id: "BO-67"
+      - name: "AeroVeedramon"
+        card_id: "BO-88"
+      - name: "Garbagemon"
+        card_id: "BO-93"
+      - name: "Mekanorimon"
+        card_id: "ST-71"
+      - name: "Mekanorimon"
+        card_id: "MP-71"
+      - name: "Babamon"
+        card_id: "MP-109"
+      - name: "MasterTyrannomon"
+        card_id: "BO-133"
+  - id: 4196
+    name: "DEFEND"
+    battle_type: "Yellow"
+    power: 280
+    digimon:
+      - name: "Boltmon"
+        card_id: "BO-41"
+      - name: "MetalGarurumon"
+        card_id: "ST-85"
+      - name: "MetalGarurumon"
+        card_id: "MP-85"
+      - name: "BigMamemon"
+        card_id: "MP-81"
+      - name: "Rosemon"
+        card_id: "BO-140"
+  - id: 5195
+    name: "STINKING GAS"
+    battle_type: "Green"
+    power: 280
+    digimon:
+      - name: "Raremon"
+        card_id: "BO-72"
+  - id: 7171
+    name: "TINY TWISTER"
+    battle_type: "Red"
+    power: 280
+    digimon:
+      - name: "Terriermon"
+        card_id: "MO-01"
+  - id: 8296
+    name: "SLOPPY ATTACK"
+    battle_type: "Green"
+    power: 280
+    digimon:
+      - name: "ShellNumemon"
+        card_id: "BO-123"
+  - id: 4078
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 270
+    digimon:
+      - name: "Gekomon"
+        card_id: "ST-27"
+      - name: "Octomon"
+        card_id: "ST-37"
+      - name: "Zudomon"
+        card_id: "ST-38"
+      - name: "Gekomon"
+        card_id: "ST-27S"
+      - name: "Octomon"
+        card_id: "ST-37S"
+      - name: "Zudomon"
+        card_id: "ST-38S"
+      - name: "Andromon"
+        card_id: "TB-08"
+      - name: "DarkTyrannomon"
+        card_id: "BO-79"
+      - name: "Devidramon"
+        card_id: "ST-97"
+      - name: "Devidramon"
+        card_id: "MP-97"
+  - id: 8174
+    name: "ARDENT FLARE"
+    battle_type: "Green"
+    power: 270
+    digimon:
+      - name: "Muchomon"
+        card_id: "ST-68"
+      - name: "Muchomon"
+        card_id: "MP-68"
+  - id: 8
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 260
+    digimon:
+      - name: "Andromon"
+        card_id: "BO-11"
+      - name: "Angewomon"
+        card_id: "BO-16"
+      - name: "Asuramon"
+        card_id: "BO-24"
+      - name: "Devimon"
+        card_id: "BO-02"
+      - name: "Devimon"
+        card_id: "CP-02"
+      - name: "Angewomon"
+        card_id: "CP-10"
+      - name: "Asuramon"
+        card_id: "CP-18"
+      - name: "RedVegiemon"
+        card_id: "BO-87"
+      - name: "Garudamon"
+        card_id: "BO-89"
+      - name: "Magnamon"
+        card_id: "MO-09"
+      - name: "Soulmon"
+        card_id: "ST-77"
+      - name: "Soulmon"
+        card_id: "MP-77"
+      - name: "Darkrizamon"
+        card_id: "BO-124"
+      - name: "Panjyamon"
+        card_id: "BO-127"
+  - id: 2029
+    name: "CRAZY CRUSHER"
+    battle_type: "Green"
+    power: 260
+    digimon:
+      - name: "Gotsumon"
+        card_id: "TB-01"
+  - id: 5172
+    name: "BODY ATTACK"
+    battle_type: "Green"
+    power: 260
+    digimon:
+      - name: "Elecmon"
+        card_id: "BO-61"
+      - name: "Elecmon"
+        card_id: "CP-33"
+  - id: 6178
+    name: "STAMEN ROPE"
+    battle_type: "Green"
+    power: 260
+    digimon:
+      - name: "Floramon"
+        card_id: "BO-81"
+  - id: 8168
+    name: "MINI ELECTRO SHOCKER"
+    battle_type: "Green"
+    power: 260
+    digimon:
+      - name: "Kokuwamon"
+        card_id: "ST-64"
+      - name: "Kokuwamon"
+        card_id: "MP-64"
+  - id: 8171
+    name: "GOBURI STRIKE"
+    battle_type: "Green"
+    power: 260
+    digimon:
+      - name: "Goburimon"
+        card_id: "ST-67"
+      - name: "Goburimon"
+        card_id: "MP-67"
+  - id: 8312
+    name: "DEFEND"
+    battle_type: "Yellow"
+    power: 260
+    digimon:
+      - name: "Meteormon"
+        card_id: "BO-130"
+  - id: 16
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 250
+    digimon:
+      - name: "Ogremon"
+        card_id: "BO-04"
+      - name: "Ogremon"
+        card_id: "CP-04"
+      - name: "Kuwagamon"
+        card_id: "TB-04"
+      - name: "Monzaemon"
+        card_id: "BO-62"
+      - name: "Monzaemon"
+        card_id: "CP-34"
+      - name: "Rapidmon"
+        card_id: "MO-05"
+      - name: "Hyogamon"
+        card_id: "MP-78"
+      - name: "Fugamon"
+        card_id: "BO-116"
+      - name: "MagnaAngemon"
+        card_id: "BO-131"
+      - name: "Halsemon"
+        card_id: "FX-09"
+  - id: 20
+    name: "WATER PRESSURE"
+    battle_type: "Green"
+    power: 250
+    digimon:
+      - name: "Syakomon"
+        card_id: "BO-29"
+      - name: "Syakomon"
+        card_id: "CP-23"
+  - id: 2035
+    name: "STINKING ATTACK"
+    battle_type: "Green"
+    power: 250
+    digimon:
+      - name: "Palmon"
+        card_id: "ST-09"
+      - name: "Palmon"
+        card_id: "TB-03"
+  - id: 4034
+    name: "TALON ATTACK"
+    battle_type: "Green"
+    power: 250
+    digimon:
+      - name: "Tentomon"
+        card_id: "ST-07"
+  - id: 4040
+    name: "CLAW ATTACK"
+    battle_type: "Green"
+    power: 250
+    digimon:
+      - name: "Gomamon"
+        card_id: "ST-11"
+  - id: 4045
+    name: "SLAMMING ATTACK"
+    battle_type: "Green"
+    power: 250
+    digimon:
+      - name: "Patamon"
+        card_id: "ST-13"
+  - id: 4069
+    name: "CRAZY CRUSHER"
+    battle_type: "Green"
+    power: 250
+    digimon:
+      - name: "Gotsumon"
+        card_id: "ST-23"
+      - name: "Gotsumon"
+        card_id: "ST-23S"
+  - id: 4085
+    name: "DEFEND"
+    battle_type: "Yellow"
+    power: 250
+    digimon:
+      - name: "Triceramon"
+        card_id: "ST-29"
+      - name: "Triceramon"
+        card_id: "ST-29S"
+      - name: "Pumpkinmon"
+        card_id: "BO-37"
+      - name: "MetalMamemon"
+        card_id: "BO-65"
+      - name: "Knightmon"
+        card_id: "ST-82"
+      - name: "Knightmon"
+        card_id: "MP-82"
+      - name: "Vermilimon"
+        card_id: "ST-104"
+      - name: "Vermilimon"
+        card_id: "MP-104"
+      - name: "Divermon"
+        card_id: "BO-126"
+      - name: "BlueMeramon"
+        card_id: "BO-128"
+      - name: "Lillymon"
+        card_id: "BO-129"
+      - name: "Digmon"
+        card_id: "FX-10"
+  - id: 4111
+    name: "MELTED WAX"
+    battle_type: "Green"
+    power: 250
+    digimon:
+      - name: "Candlemon"
+        card_id: "ST-41"
+      - name: "Candlemon"
+        card_id: "ST-41S"
+  - id: 4112
+    name: "EVIL WHISPER"
+    battle_type: "Green"
+    power: 250
+    digimon:
+      - name: "DemiDevimon"
+        card_id: "ST-42"
+      - name: "DemiDevimon"
+        card_id: "ST-42S"
+  - id: 4169
+    name: "CRAB MEAT BOMBER"
+    battle_type: "Green"
+    power: 250
+    digimon:
+      - name: "Crabmon"
+        card_id: "BO-28"
+      - name: "Crabmon"
+        card_id: "CP-22"
+  - id: 5169
+    name: "PITFALL"
+    battle_type: "Green"
+    power: 250
+    digimon:
+      - name: "Gazimon"
+        card_id: "BO-60"
+      - name: "Gazimon"
+        card_id: "CP-32"
+  - id: 5193
+    name: "4-LEG KICK"
+    battle_type: "Green"
+    power: 250
+    digimon:
+      - name: "Gizamon"
+        card_id: "BO-71"
+  - id: 6180
+    name: "LAUGHING SMASHER"
+    battle_type: "Green"
+    power: 250
+    digimon:
+      - name: "Mushroomon"
+        card_id: "BO-82"
+  - id: 8199
+    name: "STRIPED HORN ATTACK"
+    battle_type: "Green"
+    power: 250
+    digimon:
+      - name: "Psychemon"
+        card_id: "ST-89"
+      - name: "Psychemon"
+        card_id: "MP-89"
+  - id: 8273
+    name: "DARK DUST"
+    battle_type: "Green"
+    power: 250
+    digimon:
+      - name: "Aruraumon"
+        card_id: "BO-111"
+  - id: 8280
+    name: "CRAZY DANCE"
+    battle_type: "Green"
+    power: 250
+    digimon:
+      - name: "Sharmamon"
+        card_id: "BO-115"
+  - id: 25
+    name: "HORN ATTACK"
+    battle_type: "Green"
+    power: 240
+    digimon:
+      - name: "Gabumon"
+        card_id: "ST-05"
+  - id: 1020
+    name: "PECKING ATTACK"
+    battle_type: "Green"
+    power: 240
+    digimon:
+      - name: "Biyomon"
+        card_id: "ST-03"
+  - id: 2032
+    name: "POISON WINDER"
+    battle_type: "Green"
+    power: 240
+    digimon:
+      - name: "Kunemon"
+        card_id: "ST-18"
+      - name: "Kunemon"
+        card_id: "TB-02"
+  - id: 4056
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 240
+    digimon:
+      - name: "Dokugumon"
+        card_id: "ST-19"
+      - name: "Bakemon"
+        card_id: "ST-45"
+      - name: "Dokugumon"
+        card_id: "ST-19S"
+      - name: "Bakemon"
+        card_id: "ST-45S"
+      - name: "Jagamon"
+        card_id: "BO-26"
+      - name: "Kuwagamon"
+        card_id: "BO-13"
+      - name: "Gesomon"
+        card_id: "BO-30"
+      - name: "Kuwagamon"
+        card_id: "CP-07"
+      - name: "Jagamon"
+        card_id: "CP-20"
+      - name: "Gesomon"
+        card_id: "CP-24"
+      - name: "Tuskmon"
+        card_id: "BO-75"
+      - name: "Woodmon"
+        card_id: "BO-86"
+      - name: "ExTyrannomon"
+        card_id: "BO-73"
+      - name: "Guardromon"
+        card_id: "ST-73"
+      - name: "Guardromon"
+        card_id: "MP-73"
+  - id: 4072
+    name: "SLAMMING ATTACK"
+    battle_type: "Green"
+    power: 240
+    digimon:
+      - name: "Otamamon"
+        card_id: "ST-24"
+      - name: "Otamamon"
+        card_id: "ST-24S"
+      - name: "Tsukaimon"
+        card_id: "ST-90"
+      - name: "Tsukaimon"
+        card_id: "MP-90"
+  - id: 6200
+    name: "DEFEND"
+    battle_type: "Yellow"
+    power: 240
+    digimon:
+      - name: "Deramon"
+        card_id: "BO-91"
+      - name: "Tankmon"
+        card_id: "MP-69"
+  - id: 7172
+    name: "BLAZING FIRE"
+    battle_type: "Green"
+    power: 240
+    digimon:
+      - name: "Terriermon"
+        card_id: "MO-01"
+  - id: 8169
+    name: "PETTY PUNCH"
+    battle_type: "Green"
+    power: 240
+    digimon:
+      - name: "Salamon"
+        card_id: "ST-66"
+      - name: "Salamon"
+        card_id: "MP-66"
+  - id: 8196
+    name: "POISON RIDE"
+    battle_type: "Green"
+    power: 240
+    digimon:
+      - name: "Dokunemon"
+        card_id: "ST-88"
+      - name: "Dokunemon"
+        card_id: "MP-88"
+  - id: 8225
+    name: "GYRO-ATTACK"
+    battle_type: "Green"
+    power: 240
+    digimon:
+      - name: "Hagurumon"
+        card_id: "MP-63"
+  - id: 8227
+    name: "BRICK-BREAKER ATTACK"
+    battle_type: "Green"
+    power: 240
+    digimon:
+      - name: "ToyAgumon"
+        card_id: "MP-65"
+  - id: 8245
+    name: "BETA-STRIKE"
+    battle_type: "Green"
+    power: 240
+    digimon:
+      - name: "Betamon"
+        card_id: "MP-87"
+  - id: 8268
+    name: "SLIDE ATTACK"
+    battle_type: "Green"
+    power: 240
+    digimon:
+      - name: "Penguinmon"
+        card_id: "BO-109"
+  - id: 8274
+    name: "NIGHTMARE MISSILE"
+    battle_type: "Green"
+    power: 240
+    digimon:
+      - name: "ClearAgumon"
+        card_id: "BO-112"
+  - id: 8276
+    name: "YETI CHARGE"
+    battle_type: "Green"
+    power: 240
+    digimon:
+      - name: "SnowGoburimon"
+        card_id: "BO-113"
+  - id: 1015
+    name: "CLAW ATTACK"
+    battle_type: "Green"
+    power: 230
+    digimon:
+      - name: "Agumon"
+        card_id: "ST-01"
+  - id: 2045
+    name: "DEFEND"
+    battle_type: "Yellow"
+    power: 230
+    digimon:
+      - name: "SkullMeramon"
+        card_id: "ST-48"
+      - name: "SkullMeramon"
+        card_id: "TB-07"
+      - name: "SkullMeramon"
+        card_id: "ST-48S"
+      - name: "Blossomon"
+        card_id: "BO-90"
+      - name: "Antylamon"
+        card_id: "MO-06"
+      - name: "Brachiomon"
+        card_id: "ST-106"
+      - name: "Brachiomon"
+        card_id: "MP-106"
+  - id: 4065
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 230
+    digimon:
+      - name: "Rockmon"
+        card_id: "ST-22"
+      - name: "MegaKabuterimon"
+        card_id: "ST-28"
+      - name: "Mammothmon"
+        card_id: "ST-46"
+      - name: "WereGarurumon"
+        card_id: "ST-47"
+      - name: "Rockmon"
+        card_id: "ST-22S"
+      - name: "MegaKabuterimon"
+        card_id: "ST-28S"
+      - name: "Mammothmon"
+        card_id: "ST-46S"
+      - name: "WereGarurumon"
+        card_id: "ST-47S"
+      - name: "Vilemon"
+        card_id: "BO-20"
+      - name: "Vilemon"
+        card_id: "CP-14"
+      - name: "Deltamon"
+        card_id: "BO-74"
+      - name: "Giromon"
+        card_id: "BO-68"
+      - name: "Ninjamon"
+        card_id: "ST-94"
+      - name: "Ninjamon"
+        card_id: "MP-94"
+      - name: "Flymon"
+        card_id: "MP-110"
+  - id: 8248
+    name: "RAZOR FINS"
+    battle_type: "Green"
+    power: 230
+    digimon:
+      - name: "ModokiBetamon"
+        card_id: "MP-91"
+  - id: 1017
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 220
+    digimon:
+      - name: "Greymon"
+        card_id: "ST-02"
+      - name: "Frigimon"
+        card_id: "BO-07"
+      - name: "Roachmon"
+        card_id: "BO-23"
+      - name: "Gatomon"
+        card_id: "BO-77"
+      - name: "Roachmon"
+        card_id: "CP-17"
+      - name: "Gargomon"
+        card_id: "MO-03"
+      - name: "Airdramon"
+        card_id: "ST-96"
+      - name: "Airdramon"
+        card_id: "MP-96"
+  - id: 4048
+    name: "PUNCHER"
+    battle_type: "Green"
+    power: 220
+    digimon:
+      - name: "Nanimon"
+        card_id: "ST-15"
+  - id: 4064
+    name: "DEFEND"
+    battle_type: "Yellow"
+    power: 220
+    digimon:
+      - name: "Kimeramon"
+        card_id: "ST-21"
+      - name: "Kimeramon"
+        card_id: "ST-21S"
+      - name: "Piximon"
+        card_id: "ST-30"
+      - name: "Piximon"
+        card_id: "ST-30S"
+      - name: "Scorpiomon"
+        card_id: "BO-32"
+      - name: "Seadramon"
+        card_id: "BO-06"
+      - name: "Seadramon"
+        card_id: "CP-06"
+      - name: "Mamemon"
+        card_id: "BO-64"
+      - name: "Mamemon"
+        card_id: "CP-36"
+      - name: "MoriShellmon"
+        card_id: "ST-93"
+      - name: "MoriShellmon"
+        card_id: "MP-93"
+  - id: 4185
+    name: "DELETING VIRUS"
+    battle_type: "Green"
+    power: 220
+    digimon:
+      - name: "Tapirmon"
+        card_id: "BO-36"
+  - id: 7173
+    name: "BLAZING FIRE"
+    battle_type: "Green"
+    power: 220
+    digimon:
+      - name: "Lopmon"
+        card_id: "MO-02"
+  - id: 8270
+    name: "ARCTIC CLAW"
+    battle_type: "Green"
+    power: 220
+    digimon:
+      - name: "SnowAgumon"
+        card_id: "BO-110"
+  - id: 1
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 210
+    digimon:
+      - name: "Ikkakumon"
+        card_id: "ST-12"
+      - name: "Tortomon"
+        card_id: "ST-25"
+      - name: "Tortomon"
+        card_id: "ST-25S"
+      - name: "Gatomon"
+        card_id: "BO-15"
+      - name: "Gatomon"
+        card_id: "CP-09"
+      - name: "ShimaUnimon"
+        card_id: "ST-76"
+      - name: "ShimaUnimon"
+        card_id: "MP-76"
+      - name: "Keramon"
+        card_id: "BO-114"
+  - id: 4175
+    name: "DEFEND"
+    battle_type: "Yellow"
+    power: 210
+    digimon:
+      - name: "MegaSeadramon"
+        card_id: "BO-31"
+      - name: "MegaSeadramon"
+        card_id: "CP-25"
+      - name: "Icemon"
+        card_id: "BO-120"
+  - id: 8278
+    name: "NETWORK PANIC"
+    battle_type: "Green"
+    power: 210
+    digimon:
+      - name: "Keramon"
+        card_id: "BO-114"
+  - id: 12
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 200
+    digimon:
+      - name: "Kabuterimon"
+        card_id: "ST-08"
+      - name: "Togemon"
+        card_id: "ST-10"
+      - name: "Angemon"
+        card_id: "ST-14"
+      - name: "Leomon"
+        card_id: "BO-03"
+      - name: "Snimon"
+        card_id: "BO-25"
+      - name: "Leomon"
+        card_id: "CP-03"
+      - name: "Snimon"
+        card_id: "CP-19"
+      - name: "Veedramon"
+        card_id: "BO-83"
+      - name: "Saberdramon"
+        card_id: "BO-119"
+      - name: "ShellNumemon"
+        card_id: "BO-123"
+  - id: 1024
+    name: "DEFEND"
+    battle_type: "Yellow"
+    power: 200
+    digimon:
+      - name: "Birdramon"
+        card_id: "ST-04"
+      - name: "Starmon"
+        card_id: "ST-26"
+      - name: "Wizardmon"
+        card_id: "ST-44"
+      - name: "Centarumon"
+        card_id: "TB-05"
+      - name: "Starmon"
+        card_id: "ST-26S"
+      - name: "Wizardmon"
+        card_id: "ST-44S"
+      - name: "Thunderballmon"
+        card_id: "ST-75"
+      - name: "Thunderballmon"
+        card_id: "MP-75"
+      - name: "Akatorimon"
+        card_id: "BO-121"
+  - id: 4101
+    name: "DEFEND"
+    battle_type: "Yellow"
+    power: 190
+    digimon:
+      - name: "Coelamon"
+        card_id: "ST-36"
+      - name: "Coelamon"
+        card_id: "ST-36S"
+      - name: "Monochromon"
+        card_id: "BO-12"
+      - name: "Ebidramon"
+        card_id: "BO-18"
+      - name: "Ebidramon"
+        card_id: "CP-12"
+      - name: "Kokatorimon"
+        card_id: "BO-56"
+      - name: "Kokatorimon"
+        card_id: "CP-28"
+      - name: "Tyrannomon"
+        card_id: "BO-66"
+      - name: "Flarerizamon"
+        card_id: "ST-74"
+      - name: "Flarerizamon"
+        card_id: "MP-74"
+      - name: "MudFrigimon"
+        card_id: "MP-99"
+      - name: "J-Mojyamon"
+        card_id: "BO-117"
+  - id: 8204
+    name: "SMASH"
+    battle_type: "Green"
+    power: 190
+    digimon:
+      - name: "PlatinumSukamon"
+        card_id: "ST-92"
+      - name: "PlatinumSukamon"
+        card_id: "MP-92"
+  - id: 8236
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 190
+    digimon:
+      - name: "Piddomon"
+        card_id: "MP-79"
+      - name: "Gururumon"
+        card_id: "BO-118"
+  - id: 8294
+    name: "BOMBER"
+    battle_type: "Green"
+    power: 190
+    digimon:
+      - name: "Geremon"
+        card_id: "BO-122"
+  - id: 1027
+    name: "DEFEND"
+    battle_type: "Yellow"
+    power: 180
+    digimon:
+      - name: "Garurumon"
+        card_id: "ST-06"
+      - name: "Centarumon"
+        card_id: "ST-17"
+      - name: "Togemon"
+        card_id: "BO-84"
+      - name: "Meramon"
+        card_id: "BO-05"
+      - name: "Shellmon"
+        card_id: "BO-09"
+      - name: "Gorillamon"
+        card_id: "BO-19"
+      - name: "Meramon"
+        card_id: "CP-05"
+      - name: "Gorillamon"
+        card_id: "CP-13"
+      - name: "Clockmon"
+        card_id: "ST-72"
+      - name: "Clockmon"
+        card_id: "MP-72"
+      - name: "ModokiBetamon"
+        card_id: "MP-91"
+  - id: 4050
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 180
+    digimon:
+      - name: "Unimon"
+        card_id: "ST-16"
+      - name: "Dolphmon"
+        card_id: "ST-35"
+      - name: "Apemon"
+        card_id: "ST-43"
+      - name: "Dolphmon"
+        card_id: "ST-35S"
+      - name: "Apemon"
+        card_id: "ST-43S"
+      - name: "Mojyamon"
+        card_id: "BO-14"
+      - name: "Mojyamon"
+        card_id: "CP-08"
+      - name: "Whamon"
+        card_id: "BO-58"
+      - name: "Whamon"
+        card_id: "CP-30"
+      - name: "Gazimon"
+        card_id: "BO-60"
+      - name: "Gazimon"
+        card_id: "CP-32"
+      - name: "Hagurumon"
+        card_id: "MP-63"
+      - name: "Deputymon"
+        card_id: "MP-70"
+      - name: "Sharmamon"
+        card_id: "BO-115"
+  - id: 5176
+    name: "SMASH"
+    battle_type: "Green"
+    power: 180
+    digimon:
+      - name: "Numemon"
+        card_id: "BO-63"
+      - name: "Numemon"
+        card_id: "CP-35"
+  - id: 6179
+    name: "DEFEND"
+    battle_type: "Yellow"
+    power: 170
+    digimon:
+      - name: "Floramon"
+        card_id: "BO-81"
+      - name: "Terriermon"
+        card_id: "MO-01"
+  - id: 8201
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 170
+    digimon:
+      - name: "Tsukaimon"
+        card_id: "ST-90"
+      - name: "Tsukaimon"
+        card_id: "MP-90"
+  - id: 8252
+    name: "BAD GRASS"
+    battle_type: "Green"
+    power: 170
+    digimon:
+      - name: "Zassomon"
+        card_id: "MP-100"
+  - id: 4054
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 160
+    digimon:
+      - name: "Kunemon"
+        card_id: "ST-18"
+      - name: "Gizamon"
+        card_id: "BO-71"
+      - name: "Mushroomon"
+        card_id: "BO-82"
+      - name: "Dokunemon"
+        card_id: "ST-88"
+      - name: "Dokunemon"
+        card_id: "MP-88"
+      - name: "SnowGoburimon"
+        card_id: "BO-113"
+  - id: 5167
+    name: "SMASH"
+    battle_type: "Green"
+    power: 160
+    digimon:
+      - name: "Sukamon"
+        card_id: "BO-59"
+      - name: "Sukamon"
+        card_id: "CP-31"
+  - id: 8200
+    name: "DEFEND"
+    battle_type: "Yellow"
+    power: 160
+    digimon:
+      - name: "Psychemon"
+        card_id: "ST-89"
+      - name: "NiseDrimogemon"
+        card_id: "ST-95"
+      - name: "Psychemon"
+        card_id: "MP-89"
+      - name: "NiseDrimogemon"
+        card_id: "MP-95"
+      - name: "SandYanmamon"
+        card_id: "MP-102"
+  - id: 8217
+    name: "STINK JET"
+    battle_type: "Green"
+    power: 160
+    digimon:
+      - name: "Vegiemon"
+        card_id: "ST-98"
+      - name: "Vegiemon"
+        card_id: "MP-98"
+  - id: 26
+    name: "DEFEND"
+    battle_type: "Yellow"
+    power: 150
+    digimon:
+      - name: "Gabumon"
+        card_id: "ST-05"
+      - name: "Patamon"
+        card_id: "ST-13"
+      - name: "Palmon"
+        card_id: "TB-03"
+      - name: "Drimogemon"
+        card_id: "BO-10"
+      - name: "Kiwimon"
+        card_id: "BO-85"
+      - name: "Kokuwamon"
+        card_id: "ST-64"
+      - name: "Kokuwamon"
+        card_id: "MP-64"
+      - name: "Yanmamon"
+        card_id: "MP-101"
+  - id: 2031
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 150
+    digimon:
+      - name: "Kunemon"
+        card_id: "TB-02"
+      - name: "Betamon"
+        card_id: "MP-87"
+      - name: "ClearAgumon"
+        card_id: "BO-112"
+  - id: 19
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 140
+    digimon:
+      - name: "Agumon"
+        card_id: "ST-01"
+      - name: "Biyomon"
+        card_id: "ST-03"
+      - name: "Gomamon"
+        card_id: "ST-11"
+      - name: "Syakomon"
+        card_id: "BO-29"
+      - name: "Tapirmon"
+        card_id: "BO-36"
+      - name: "Syakomon"
+        card_id: "CP-23"
+      - name: "Raremon"
+        card_id: "BO-72"
+      - name: "Lopmon"
+        card_id: "MO-02"
+      - name: "Salamon"
+        card_id: "ST-66"
+      - name: "Goburimon"
+        card_id: "ST-67"
+      - name: "Salamon"
+        card_id: "MP-66"
+      - name: "Goburimon"
+        card_id: "MP-67"
+      - name: "ToyAgumon"
+        card_id: "MP-65"
+      - name: "Penguinmon"
+        card_id: "BO-109"
+  - id: 5173
+    name: "DEFEND"
+    battle_type: "Yellow"
+    power: 140
+    digimon:
+      - name: "Elecmon"
+        card_id: "BO-61"
+      - name: "Elecmon"
+        card_id: "CP-33"
+      - name: "Muchomon"
+        card_id: "ST-68"
+      - name: "Muchomon"
+        card_id: "MP-68"
+      - name: "Aruraumon"
+        card_id: "BO-111"
+  - id: 4038
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 130
+    digimon:
+      - name: "Palmon"
+        card_id: "ST-09"
+      - name: "DemiDevimon"
+        card_id: "ST-42"
+      - name: "DemiDevimon"
+        card_id: "ST-42S"
+      - name: "SnowAgumon"
+        card_id: "BO-110"
+  - id: 2030
+    name: "DEFEND"
+    battle_type: "Yellow"
+    power: 120
+    digimon:
+      - name: "Candlemon"
+        card_id: "ST-41"
+      - name: "Gotsumon"
+        card_id: "TB-01"
+      - name: "Candlemon"
+        card_id: "ST-41S"
+  - id: 4071
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 120
+    digimon:
+      - name: "Otamamon"
+        card_id: "ST-24"
+      - name: "Otamamon"
+        card_id: "ST-24S"
+  - id: 4170
+    name: "DEFEND"
+    battle_type: "Yellow"
+    power: 110
+    digimon:
+      - name: "Crabmon"
+        card_id: "BO-28"
+      - name: "Crabmon"
+        card_id: "CP-22"
+  - id: 4033
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 100
+    digimon:
+      - name: "Tentomon"
+        card_id: "ST-07"
+      - name: "Nanimon"
+        card_id: "ST-15"
+      - name: "Sukamon"
+        card_id: "BO-59"
+      - name: "Numemon"
+        card_id: "BO-63"
+      - name: "Sukamon"
+        card_id: "CP-31"
+      - name: "Numemon"
+        card_id: "CP-35"
+  - id: 4070
+    name: "DEFEND"
+    battle_type: "Yellow"
+    power: 100
+    digimon:
+      - name: "Gotsumon"
+        card_id: "ST-23"
+      - name: "Gotsumon"
+        card_id: "ST-23S"
+  - id: 8203
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 90
+    digimon:
+      - name: "PlatinumSukamon"
+        card_id: "ST-92"
+      - name: "PlatinumSukamon"
+        card_id: "MP-92"
+  - id: 8216
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 80
+    digimon:
+      - name: "Vegiemon"
+        card_id: "ST-98"
+      - name: "Vegiemon"
+        card_id: "MP-98"
+  - id: 8251
+    name: "DEFEND"
+    battle_type: "Red"
+    power: 70
+    digimon:
+      - name: "Zassomon"
+        card_id: "MP-100"
+      - name: "Geremon"
+        card_id: "BO-122"

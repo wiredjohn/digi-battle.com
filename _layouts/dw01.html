@@ -1,0 +1,112 @@
+---
+layout: default
+---
+
+<nav class="breadcrumbs">
+    <a href="/dw01" class="breadcrumbs__link">DW-01 Archive</a>
+    <a href="/dw01/list" class="breadcrumbs__link">Card List</a>
+    <span>{{ page.number }}</span>
+</nav>
+
+<section class="dw01-card">
+    <h1 class="dw01-card__number">
+        {{ page.number }} / 100000
+    </h1>
+
+    <img src="/assets/img/dw01/{{page.number}}.jpg" alt="Digimon World Promo Card DW-01, serialized number {{ page.number }}" class="dw01-card__image" />
+
+    <dl>
+        <dt>Owner:</dt>
+        <dd>
+            {% if page.owner_name %}
+            {% if page.owner_website %}
+            <a href="{{page.owner_website}}" target="_blank">{{ page.owner_name }}</a>
+            {% else %}
+            {{ page.owner_name }}
+            {% endif %}
+            {% else %}
+            Unknown
+            {% endif %}
+        </dd>
+
+        <dt>Source:</dt>
+        <dd>
+            {% if page.submitted_by_owner == true %}
+            Submitted by owner
+            {% elsif page.found_on_ebay == true %}
+            Found on ebay
+            {% else %}
+            Found online
+            {% endif %}
+        </dd>
+
+        {% if page.reference %}
+        <dt>Reference:</dt>
+        <dd>
+            {{ page.reference }}
+        </dd>
+        {% endif %}
+
+        <dt>PSA Graded:</dt>
+        <dd>
+            {% if page.psa_graded %}
+            Yes
+            {% else %}
+            No
+            {% endif %}
+        </dd>
+
+        {% if page.psa_graded %}
+
+        <dt>PSA Grade:</dt>
+        <dd>{{ page.psa_grade }}</dd>
+
+        <dt>PSA Certificate:</dt>
+        <dd>
+            <a href="https://www.psacard.com/cert/{{ page.psa_certificate }}" target="_blank">
+                {{ page.psa_certificate }}
+            </a>
+        </dd>
+
+        {% endif %}
+
+        {% if page.note %}
+        <dt>Notes:</dt>
+        <dd>
+            {{ page.note }}
+        </dd>
+        {% endif %}
+    </dl>
+
+    <div class="dw01-card__quick-links">
+        <h3 class="dw01-card__quick-links-heading">Quick links:</h3>
+        <ul>
+            <li>
+                <a href="{{ site.data.external_links.gh_dw01_submit }}">Submit your card</a>
+            </li>
+            <li>
+                <a href="/articles/dw01">Learn about the Digimon World MetalGreymon promo card</a>
+            </li>
+            <li>
+                <a href="/dw01">Archive home</a>
+            </li>
+        </ul>
+    </div>
+
+</section>
+
+<div class="dw01-footer-nav">
+    <div class="text-left">
+        {% if page.previous %}
+        Previous Card: <br />
+        <a href="{{ page.previous.url }}">{{ page.previous.title }}</a>
+        {% endif %}
+    </div>
+
+    <div class="text-right">
+        {% if page.next %}
+        Next Card: <br />
+        <a href="{{ page.next.url }}">{{ page.next.title }}</a>
+        {% endif %}
+    </div>
+</div>

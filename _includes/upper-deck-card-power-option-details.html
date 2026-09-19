@@ -1,0 +1,48 @@
+<h1 class="ud-card__name">
+    {{ page.name }}
+</h1>
+
+<div class="ud-card__generic">
+    <div class="ud-card__generic--left">
+        <dl>
+            <dt>Set: </dt>
+            <dd><a href="/upper-deck/sets/{{ page.set | slugify}}">{{ page.set }}</a></dd>
+            <dt>Rarity:</dt>
+            <dd class="mb-0">{{ page.rarity }}</dd>
+        </dl>
+    </div>
+    <div class="ud-card__generic--right">
+        <dl>
+            <dt>Serial Code:</dt>
+            <dd>{{ page.serial_code }}</dd>
+            <dt>Finish:</dt>
+            <dd class="mb-0">{{ page.finish }}</dd>
+        </dl>
+    </div>
+</div>
+
+<div class="ud-card__digimon-info">
+    <dl>
+        <dt>Power Option Type:</dt>
+        <dd>{{ page.power_option_type }}</dd>
+
+        <dt>Special Effect:</dt>
+        <dd>{{ page.special_effect }}</dd>
+
+        <dt>Restrictions:</dt>
+        <dd>
+            <ul>
+                {% for item in page.power_option_restrictions %}
+                    <li>
+                        {{ item }}
+                    </li>
+                {% endfor %}
+            </ul>
+        </dd>
+
+        <dt>Editions &amp; Languages:</dt>
+        <dd>
+            {% include upper-deck-card-editions-table.html card=page %}
+        </dd>
+    </dl>
+</div>

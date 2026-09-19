@@ -1,0 +1,58 @@
+@use "variables" as *;
+
+.footer {
+    width: 100%;
+    max-width: $width-max;
+    border-top: 1px solid $color-accent;
+    margin: 0 auto;
+    margin-top: $spacing-lg;
+    padding: $spacing;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: $spacing;
+}
+
+@media(min-width: $break-md) {
+    .footer {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+@media(min-width: $break-lg) {
+    .footer {
+        grid-template-columns: repeat(6, 1fr);
+    }
+}
+
+@media(min-width: $break-xl) {
+    .footer {
+        padding: $spacing 0;
+    }
+}
+
+.footer__column {
+}
+
+.footer__header {
+    color: $font-color-primary;
+    border-bottom: 1px solid $color-accent;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+}
+
+.footer__links {
+}
+
+.footer__links-list {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-link {
+    color: $font-color-link;
+    text-decoration: none;
+}
+
+.footer-link[href="#"] {
+    color: red;
+}

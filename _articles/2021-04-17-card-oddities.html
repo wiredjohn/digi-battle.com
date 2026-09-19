@@ -1,0 +1,30 @@
+---
+title: "Card Oddities"
+cover_image: "/assets/img/upper-deck-cards/bo-63.png"
+redirect_from: "/Article/CardOddities"
+---
+
+<p>
+    The following are cards that have typos, printing issues or broken mechanics. This is simply a collection of weird things I've noticed about certain cards while building this site. A lot of these are super nit-picky and pedantic complaints that can easily be ignored. Any issues that would negatively impact the usage of the card (like a misspelt digivolution requirement) has been corrected on this site.
+</p>
+
+{% assign groups = site.upper_deck_oddities | group_by: "oddity_type" %}
+
+{% for group in groups %}
+<h2>{{ group.name }}</h2>
+
+<ul>
+    {% for oddity in group.items %}
+    <li>
+        {% if oddity.card_specific %}
+        {% for affected_card in oddity.affected_cards %}
+        {% assign card_data = site.upper_deck_cards | where: "card_id", affected_card | first %}
+        <a href="{{ card_data.url | relative_url }}">{{ card_data.name }} ({{ card_data.serial_code }})</a>{% unless forloop.last %} &amp; {% endunless %}
+        {% endfor %}
+        {% endif %}
+
+        {{ oddity.content }}
+    </li>
+    {% endfor %}
+</ul>
+{% endfor %} 

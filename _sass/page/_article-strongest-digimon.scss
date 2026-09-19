@@ -1,0 +1,31 @@
+@use "variables" as *;
+
+.strongest-digimon__level-filters {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: $spacing;
+    margin: $spacing-sm;
+}
+
+.strongest-digimon__level-filters button {
+    background-color: transparent;
+    border: 1px solid $font-color-link;
+    color: $font-color-link;    
+}
+
+.strongest-digimon__level-filters button.active {
+    background-color: $font-color-link;
+    color: $background-primary;
+}
+
+    .strongest-digimon__table {
+        width: 100%;
+        text-align: center;
+        min-width: 570px;
+        border-collapse: collapse;
+        border-spacing: 0;
+    }
+
+    .strongest-digimon__table tr{
+        border-bottom: 1px solid #272626;
+    }

@@ -1,0 +1,68 @@
+<header class="header">
+    <div class="header__inner">
+
+        <a href="/">
+            <img src="/assets/img/logo-small.webp" alt="Digi-Battle Logo" class="header__logo" />
+        </a>
+
+        <nav id="Navbar" class="header__nav">
+            <ul class="header__nav-list">
+                <li class="header__nav-item">
+                    <a class="header__nav-link" href="/">Home</a>
+                </li>
+                <li class="header__nav-item">
+                    <a class="header__nav-link" href="/upper-deck/cards/">Cards</a>
+                </li>
+                <li class="header__nav-item">
+                    <a class="header__nav-link" href="/upper-deck/sets/">Sets</a>
+                </li>
+                <li class="header__nav-item">
+                    <a class="header__nav-link" href="/upper-deck/battle-decks/">Decks</a>
+                </li>
+                <li class="header__nav-item">
+                    <a class="header__nav-link" href="/articles">Articles</a>
+                </li>
+                <li class="header__nav-item">
+                    <a class="header__nav-link" href="/dw01/">DW-01</a>
+                </li>
+                <li class="header__nav-item">
+                    <a class="header__nav-link" href="/random" title="Show me a random card">
+                        <img src="/assets/img/icons/random.svg" class="icon" alt="Random card icon" />
+                    </a>
+                </li>
+                <li>
+                    <button type="button"
+                            class="header__hamburger header__hamburger-close"
+                            aria-label="Close menu"
+                            alt="Menu close icon"
+                            onclick="ToggleHamburger()">
+                        <img src="/assets/img/icons/close.svg" class="icon" alt="Close icon" />
+                    </button>
+                </li>
+            </ul>
+        </nav>
+
+        <button type="button"
+                class="header__hamburger"
+                aria-label="Open menu"
+                alt="Hamburger menu icon"
+                onclick="ToggleHamburger()">
+            <img src="/assets/img/icons/hamburger.svg" class="icon" alt="Hamburger icon" />
+        </button>
+
+    </div>
+</header>
+
+<script>
+    function ToggleHamburger() {
+        document.getElementById("Navbar").classList.toggle("header__nav--expanded");
+    }
+
+    window.addEventListener("resize", () => {
+        if (window.innerWidth >= 768) {
+            document
+                .getElementById("Navbar")
+                ?.classList.remove("header__nav--expanded");
+        }
+    });
+</script>

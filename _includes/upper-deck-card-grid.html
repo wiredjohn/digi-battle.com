@@ -1,0 +1,313 @@
+<section class="card-search">
+    <div class="card-search__fields">
+        <span class="card-search__search-icon">
+            <img src="/assets/img/icons/search.svg" class="icon" alt="Search icon" />
+        </span>
+        <input class="card-search__input"
+               type="text"
+               id="card-search"
+               placeholder="Search cards..."
+               autocomplete="off">
+    </div>
+
+    <button class="card-search__filters btn btn-secondary"
+            type="button"
+            id="advanced-search"
+            aria-label="Advanced search"
+            aria-expanded="false"
+            aria-controls="advanced-filters">
+        Advanced
+    </button>
+
+    <button class="card-search__clear"
+            type="button"
+            id="clear-search"
+            aria-label="Clear search">
+        Clear Filters
+    </button>    
+</section>
+
+<div class="card-search__advanced" id="advanced-filters">
+
+    <fieldset class="card-search__advanced-field">
+        <legend>Battle Type</legend>
+
+        <label>
+            <input type="checkbox" name="battle" value="red">
+            Red
+        </label>
+
+        <label>
+            <input type="checkbox" name="battle" value="green">
+            Green
+        </label>
+
+        <label>
+            <input type="checkbox" name="battle" value="yellow">
+            Yellow
+        </label>
+    </fieldset>
+
+    <fieldset class="card-search__advanced-field">
+        <legend>Card Type</legend>
+
+        <label>
+            <input type="checkbox" name="cardType" value="digimon">
+            Digimon
+        </label>
+
+        <label>
+            <input type="checkbox" name="cardType" value="power option">
+            Power Option
+        </label>
+    </fieldset>
+
+    <fieldset class="card-search__advanced-field">
+        <legend>Digimon Level</legend>
+
+        <label>
+            <input type="checkbox" name="level" value="rookie">
+            Rookie
+        </label>
+
+        <label>
+            <input type="checkbox" name="level" value="champion">
+            Champion
+        </label>
+
+        <label>
+            <input type="checkbox" name="level" value="ultimate">
+            Ultimate
+        </label>
+
+        <label>
+            <input type="checkbox" name="level" value="mega">
+            Mega
+        </label>
+    </fieldset>
+
+    <fieldset class="card-search__advanced-field">
+        <legend>Digimon Type</legend>
+
+        <label>
+            <input type="checkbox" name="digimonType" value="vaccine">
+            Vaccine
+        </label>
+
+        <label>
+            <input type="checkbox" name="digimonType" value="virus">
+            Virus
+        </label>
+
+        <label>
+            <input type="checkbox" name="digimonType" value="data">
+            Data
+        </label>
+    </fieldset>
+
+</div>
+
+<p class="card-search__card-count">
+    Cards found: <span id="card-count"></span>
+</p>
+
+<section class="card-grid">
+    {% assign set_cards = include.cards %}
+     
+    {% for card in set_cards %}
+    <a href="{{ card.url }}"
+       class="card-grid-item"
+       data-name="{{ card.name | downcase }}"
+       data-effect="{{ card.special_effect | strip_html | replace: '"', '' | downcase }}"
+       data-battle-type="{{ card.battle_type | downcase }}"
+       data-card-type="{{ card.card_type | downcase }}"
+       data-level="{{ card.level | downcase }}"
+       data-digimon-type="{{ card.digimon_type | downcase }}">
+
+        {% if forloop.index <= 12 %}
+        {% assign loading = "eager" %}
+        {% else %}
+        {% assign loading = "lazy" %}
+        {% endif %}
+
+        {% include upper-deck-card-image.html
+        filename=card.card_id
+        alt=card.name
+        loading=loading
+        width=330 %}
+    </a>
+    {% endfor %}
+</section>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+
+        const searchInput = document.getElementById('card-search');
+        const clearButton = document.getElementById('clear-search');
+        const advancedButton = document.getElementById('advanced-search');
+        const filters = document.querySelector('.card-search__advanced');
+        const cards = document.querySelectorAll('.card-grid-item');
+        const cardCount = document.getElementById('card-count');
+
+        function showAdvancedFilters(show) {
+            filters.classList.toggle('is-open', show);
+            advancedButton.setAttribute('aria-expanded', show);
+        }
+
+        // Toggle advanced filters
+        advancedButton.addEventListener('click', () => {
+            showAdvancedFilters(!filters.classList.contains('is-open'));
+        });
+
+        function checkedValues(name) {
+            return [...filters.querySelectorAll(`input[name="${name}"]:checked`)]
+                .map(cb => cb.value);
+        }
+
+        function setParam(url, name, value) {
+            if (Array.isArray(value)) {
+                if (value.length) {
+                    url.searchParams.set(name, value.join(','));
+                } else {
+                    url.searchParams.delete(name);
+                }
+            } else {
+                if (value) {
+                    url.searchParams.set(name, value);
+                } else {
+                    url.searchParams.delete(name);
+                }
+            }
+        }
+
+        function filterCards() {
+
+            const query = searchInput.value.trim().toLowerCase();
+
+            const battle = checkedValues('battle');
+            const cardType = checkedValues('cardType');
+            const level = checkedValues('level');
+            const digimonType = checkedValues('digimonType');
+
+            // Update URL
+            const url = new URL(window.location);
+
+            setParam(url, 'search', query);
+            setParam(url, 'battleType', battle);
+            setParam(url, 'cardType', cardType);
+            setParam(url, 'level', level);
+            setParam(url, 'digimonType', digimonType);
+
+            window.history.replaceState({}, '', url);
+
+            let visibleCards = 0;
+
+            cards.forEach(card => {
+
+                const name = card.dataset.name || '';
+                const effect = card.dataset.effect || '';
+
+                const matchesSearch =
+                    query === '' ||
+                    name.includes(query) ||
+                    effect.includes(query);
+
+                const matchesBattle =
+                    battle.length === 0 ||
+                    battle.includes(card.dataset.battleType);
+
+                const matchesCardType =
+                    cardType.length === 0 ||
+                    cardType.includes(card.dataset.cardType);
+
+                const matchesLevel =
+                    level.length === 0 ||
+                    level.includes(card.dataset.level);
+
+                const matchesDigimonType =
+                    digimonType.length === 0 ||
+                    digimonType.includes(card.dataset.digimonType);
+
+                const matches =
+                    matchesSearch &&
+                    matchesBattle &&
+                    matchesCardType &&
+                    matchesLevel &&
+                    matchesDigimonType;
+
+                card.style.display = matches ? '' : 'none';
+
+                if (matches) {
+                    visibleCards++;
+                }
+            });
+
+            cardCount.innerText = visibleCards;
+
+            //clearButton.hidden =
+            //    query === '' &&
+            //    battle.length === 0 &&
+            //    cardType.length === 0 &&
+            //    level.length === 0 &&
+            //    digimonType.length === 0;
+        }
+
+        searchInput.addEventListener('input', filterCards);
+
+        filters.querySelectorAll('input[type="checkbox"]').forEach(input => {
+            input.addEventListener('change', filterCards);
+        });
+
+        clearButton.addEventListener('click', () => {
+
+            searchInput.value = '';
+
+            filters.querySelectorAll('input[type="checkbox"]').forEach(input => {
+                input.checked = false;
+            });
+
+            filterCards();
+            searchInput.focus();
+        });
+
+        // Restore filters from URL
+        const params = new URLSearchParams(window.location.search);
+
+        searchInput.value = params.get('search') || '';
+
+        function restoreChecks(name, param) {
+
+            const values = (params.get(param) || '')
+                .split(',')
+                .filter(Boolean);
+
+            values.forEach(value => {
+
+                const input = filters.querySelector(
+                    `input[name="${name}"][value="${value}"]`
+                );
+
+                if (input) {
+                    input.checked = true;
+                }
+            });
+        }
+
+        restoreChecks('battle', 'battleType');
+        restoreChecks('cardType', 'cardType');
+        restoreChecks('level', 'level');
+        restoreChecks('digimonType', 'digimonType');
+
+        // Automatically open advanced filters if any are active
+        const hasAdvancedFilters =
+            params.has('battleType') ||
+            params.has('cardType') ||
+            params.has('level') ||
+            params.has('digimonType');
+
+        showAdvancedFilters(hasAdvancedFilters);
+
+        filterCards();
+
+    });
+</script>

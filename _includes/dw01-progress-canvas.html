@@ -1,0 +1,49 @@
+<canvas id="canvas" width="317" height="317" class="dw01-scatter"></canvas>
+<p>
+    Every pixel on this image, from top-left to bottom-right, represents a serialized card. Every <strong>orange</strong> pixel indicates a number that's been identified.
+</p>
+
+<script>
+    const numbers = [
+        {% for card in site.dw01 %}
+    "{{ card.number }}"{% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+];
+
+const numberSet = new Set(numbers);
+
+const canvas = document.getElementById('canvas');
+const ctx = canvas.getContext('2d');
+
+const width = canvas.width;
+const height = canvas.height;
+
+const imageData = ctx.createImageData(width, height);
+const data = imageData.data;
+
+// Default every pixel to black
+for (let i = 0; i < width * height; i++) {
+    const p = i * 4;
+    data[p] = 19;     // R
+    data[p + 1] = 19; // G
+    data[p + 2] = 19; // B
+    data[p + 3] = 255; // A
+}
+
+// Numbers 1-100000
+for (let n = 1; n <= 100000; n++) {
+    const key = String(n).padStart(6, '0');
+
+    if (numberSet.has(key)) {
+        const pixel = n - 1;
+        const p = pixel * 4;
+
+        data[p] = 208;     // orange
+        data[p + 1] = 54;
+        data[p + 2] = 0;
+        data[p + 3] = 255;
+    }
+}
+
+ctx.putImageData(imageData, 0, 0);
+</script>

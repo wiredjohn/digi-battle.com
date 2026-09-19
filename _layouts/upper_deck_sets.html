@@ -1,0 +1,64 @@
+---
+layout: default
+---
+{% assign set_cards = site.upper_deck_cards | where: "set", page.name | sort: "set_sort_order" %}
+{% assign card_count = set_cards | size %}
+{% assign digimon_count = set_cards | where: "card_type", "Digimon" | size %}
+{% assign power_option_count = set_cards | where: "card_type", "Power Option" | size %}
+
+{% assign holo_count = set_cards | where: "finish", "HOLO" | size %}
+{% assign foil_count = set_cards | where: "finish", "FOIL TEXT" | size %}
+
+{% assign rookie_count = set_cards | where: "level", "Rookie" | size %}
+{% assign champion_count = set_cards | where: "level", "Champion" | size %}
+{% assign ultimate_count = set_cards | where: "level", "Ultimate" | size %}
+{% assign mega_count = set_cards | where: "level", "Mega" | size %}
+
+
+<nav class="breadcrumbs">
+    <a href="/" class="breadcrumbs__link">Home</a>
+    <a href="/upper-deck/sets/" class="breadcrumbs__link">Sets</a>
+    <span>{{ page.name }}</span>
+</nav>
+
+<h1>{{ page.name }}</h1>
+
+<section class="card-grid">
+    {% for card in set_cards %}
+    <a href="{{card.url}}" class="card-grid-item">
+        {% if forloop.index <= 12 %}
+        {% include upper-deck-card-image.html filename=card.card_id alt=card.name width=350 loading="eager" %}
+        {% else %}
+        {% include upper-deck-card-image.html filename=card.card_id alt=card.name width=350 %}
+        {% endif %}
+    </a>
+    {% endfor %}
+</section>
+
+
+<h2>Set Overview</h2>
+<p>
+    This set features:
+</p>
+<ul>
+    <li>{{ card_count }} Total cards</li>
+    <li>{{ digimon_count }} Digimon cards</li>
+    <li>{{ power_option_count }} Power Option cards</li>
+    <li>{{ holo_count }} Holographic cards</li>
+    <li>{{ foil_count }} Foil Text cards</li>
+</ul>
+
+<p>
+    Of the Digimon Cards in the set, there are:
+</p>
+<ul>
+    <li>{{ rookie_count }} Rookie Level Digimon</li>
+    <li>{{ champion_count }} Champion Level Digimon</li>
+    <li>{{ ultimate_count }} Ultimate Level Digimon</li>
+    <li>{{ mega_count }} Mega Level Digimon</li>
+</ul>
+
+<h3>Content</h3>
+<div class="markdown-content">
+    {{ page.content | markdownify }}
+</div>

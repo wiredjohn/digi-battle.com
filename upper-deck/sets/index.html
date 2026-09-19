@@ -1,0 +1,60 @@
+---
+layout: default
+title: Sets
+seo_description: "Gallery of all Digimon card sets and card scans from the Digimon Digi-Battle card game."
+---
+
+<nav class="breadcrumbs">
+    <a href="/" class="breadcrumbs__link">Home</a>
+    <span>{{ page.title }}</span>
+</nav>
+
+<h1>
+    Digi-Battle Card Sets
+</h1>
+
+{% for set in site.upper_deck_sets %}
+
+{% if forloop.index <= 2 %}
+    {% assign loading = "eager" %}
+{% else %}
+    {% assign loading = "lazy" %}
+{% endif %}
+
+<div class="set-preview">
+    <a href="{{ set.url }}" class="set-preview__title-link">
+        <h2 class="set-preview__title">
+            {{ set.name }}
+            <img src="/assets/img/icons/chevron-right.svg" class="icon" />
+        </h2>
+    </a>
+
+    <p class="set-preview__description">
+        {{ set.set_description }}
+    </p>
+
+    <div class="set-preview__cards">
+        {% assign cards = site.upper_deck_cards | where: "set", set.name | sort: "set_sort_order" %}
+        {% for card in cards limit: 8 %}
+
+        <a href="{{ card.url }}" class="set-preview__card-link">
+            {% include upper-deck-card-image.html filename=card.card_id alt=card.name loading=loading width="175" %}
+        </a>
+
+        {% endfor %}
+
+        {% if cards.size > 8 %}
+        <a href="{{ set.url }}" class="set-preview__card-link">
+            View full set
+        </a>
+        {% endif %}
+    </div>
+
+    <p class="text-right">
+        <a href="{{ set.url }}" class="set-preview__link">
+            See all {{ set.name }} cards
+        </a>
+    </p>
+</div>
+
+{% endfor %}

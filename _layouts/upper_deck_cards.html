@@ -1,0 +1,199 @@
+---
+layout: default
+---
+
+{% assign ebay_card_name = page.original_language_name | default: page.name %}
+{% assign ebay_search_param = ebay_card_name | append: " " | append: page.serial_code | uri_escape %}
+
+<nav class="breadcrumbs">
+    <a href="/" class="breadcrumbs__link">Home</a>
+    <a href="/upper-deck/cards/" class="breadcrumbs__link">Cards</a>
+    <a href="/upper-deck/sets/{{ page.set | slugify}}" class="breadcrumbs__link">{{ page.set }}</a>
+    <span>{{ page.name }}</span>
+</nav>
+
+<div class="ud-card">
+
+    <section class="ud-card__details">
+        <div class="ud-card__image-wrapper">
+            <div class="ud-card__image">
+                <div class="ud-card__card-scan">
+                    {% include upper-deck-card-image.html filename=page.card_id alt=page.name loading="eager" width="350" fetchpriority="high" %}
+                </div>
+                <p>
+                    As an eBay affiliate, we earn from qualifying purchases.
+                </p>
+                <a href="https://www.ebay.com/sch/i.html?_nkw={{ ebay_search_param }}{{ site.data.ebay_campaigns.card_img }}&mkrid={{ site.data.ebay_campaigns.mkrid_us }}"
+                   class="btn btn-ebay"
+                   target="_blank">
+                    Shop on eBay &#129094;
+                </a>
+            </div>
+        </div>
+        <div class="ud-card__text">
+            {% if page.card_type == "Digimon" %}
+            {% include upper-deck-card-digimon-details.html %}
+            {% else if page.card_type == "Power Option" %}
+            {% include upper-deck-card-power-option-details.html %}
+            {% endif %}
+        </div>
+    </section>
+
+    {% if page.card_type == "Digimon" %}
+    <section>
+        <h3 class="ud-card__section-title">
+            {{page.name}} Digivolution Line
+
+            <button class="btn btn-secondary ud-card__digivolution-tree-toggle-btn" type="button" onclick="ToggleTreeTextView()">
+                Toggle View
+            </button>
+        </h3>
+
+        <div class="ud-card__digivolutions">
+            <div class="ud-card__digivolution-tree">
+                <div class="ud-card__digivolution-stage left">
+                    {% for prev in page.previous_digivolutions %}
+                    {% assign prev_card = site.upper_deck_cards | where: "card_id", prev | first %}
+                    <a href="{{ prev_card.url }}" class="up-card__digivolution up-card__digivolution--text-view d-none">
+                        {{prev_card.name}} <br />
+                        ({{prev_card.serial_code}})
+                    </a>
+                    <a href="{{ prev_card.url }}" class="up-card__digivolution">
+                        {% include upper-deck-card-image.html filename=prev_card.card_id alt=prev_card.name width=175 %}
+                    </a>
+                    {% endfor %}
+                    {% if page.previous_digivolutions.size == 0 %}
+                    <p>Start of the line.</p>
+                    {% endif %}
+                </div>
+
+                <div class="up-card__digivolution up-card__digivolution-current">
+                    {% include upper-deck-card-image.html filename=page.card_id alt=page.name width=175 %}
+                </div>
+
+                <div class="ud-card__digivolution-stage right">
+                    {% for next in page.next_digivolutions %}
+                    {% assign next_card = site.upper_deck_cards | where: "card_id", next | first %}
+                    <a href="{{ next_card.url }}" class="up-card__digivolution up-card__digivolution--text-view d-none">
+                        {{next_card.name}} <br />
+                        ({{next_card.serial_code}})
+                    </a>
+                    <a href="{{ next_card.url }}" class="up-card__digivolution">
+                        {% include upper-deck-card-image.html filename=next_card.card_id alt=next_card.name width=175 %}
+                    </a>
+                    {% endfor %}
+
+                    {% if page.next_digivolutions.size == 0 %}
+                    <p>End of the line.</p>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </section>
+    {% endif %}
+
+
+    {% assign card_oddities = site.upper_deck_oddities | where_exp: "oddity", "oddity.affected_cards contains page.card_id" %}
+    {% if card_oddities.size > 0 %}
+    <section>
+        <h3 class="ud-card__section-title">
+            Oddities
+        </h3>
+
+        <ul class="ud-card__content-block">
+            {% for oddity in card_oddities %}
+            <li>
+                {{ oddity.oddity_type }} - {{ oddity.content }}
+            </li>
+            {% endfor %}
+        </ul>
+    </section>
+    {% endif %}
+
+    {% assign notes = page.content | strip %}
+    {% if notes != "" %}
+    <section>
+        <h3 class="ud-card__section-title">
+            Notes
+        </h3>
+        <div class="ud-card__content-block">
+            {{ notes | markdownify }}
+        </div>
+    </section>
+    {% endif %}
+
+    <section>
+        <h3 class="ud-card__section-title">
+            Related Cards
+        </h3>
+        <div class="ud-card__related-cards">
+            {% for related_card in page.related_cards %}
+            {% assign card_data = site.upper_deck_cards | where: "card_id", related_card | first  %}
+            <a href="{{ card_data.url }}" class="ud-card__related-card">
+                {% include upper-deck-card-image.html filename=card_data.card_id alt=card_data.name width=150 %}
+                {{card_data.name}} <br />
+                {{card_data.serial_code}}
+            </a>
+            {% endfor %}
+        </div>
+    </section>
+
+    <section>
+        <h3 class="ud-card__section-title">
+            Buy This Card
+        </h3>
+        <div class="ud-card__content-block">
+            <p>
+                We may earn a commission when you shop for Digimon cards through our eBay affiliate links. This helps support the site!
+            </p>
+            <div class="ud-card__shop-links">
+                <a href="https://www.ebay.com/sch/i.html?_nkw={{ ebay_search_param }}{{ site.data.ebay_campaigns.card_footer }}&mkrid={{ site.data.ebay_campaigns.mkrid_us }}"
+                   target="_blank"
+                   class="btn btn-primary">
+                    eBay.com
+                </a>
+                <a href="https://www.ebay.co.uk/sch/i.html?_nkw={{ ebay_search_param }}{{ site.data.ebay_campaigns.card_footer }}&mkrid={{ site.data.ebay_campaigns.mkrid_uk }}"
+                   target="_blank"
+                   class="btn btn-secondary">
+                    eBay.co.uk
+                </a>
+                <a href="https://www.ebay.ca/sch/i.html?_nkw={{ ebay_search_param }}{{ site.data.ebay_campaigns.card_footer }}&mkrid={{ site.data.ebay_campaigns.mkrid_ca }}"
+                   target="_blank"
+                   class="btn btn-secondary">
+                    eBay.ca
+                </a>
+                <a href="https://www.ebay.it/sch/i.html?_nkw={{ ebay_search_param }}{{ site.data.ebay_campaigns.card_footer }}&mkrid={{ site.data.ebay_campaigns.mkrid_it }}"
+                   target="_blank"
+                   class="btn btn-secondary">
+                    eBay.it
+                </a>
+                <a href="https://www.ebay.es/sch/i.html?_nkw={{ ebay_search_param }}{{ site.data.ebay_campaigns.card_footer }}&mkrid={{ site.data.ebay_campaigns.mkrid_es }}"
+                   target="_blank"
+                   class="btn btn-secondary">
+                    eBay.es
+                </a>
+                <a href="https://www.ebay.fr/sch/i.html?_nkw={{ ebay_search_param }}{{ site.data.ebay_campaigns.card_footer }}&mkrid={{ site.data.ebay_campaigns.mkrid_fr }}"
+                   target="_blank"
+                   class="btn btn-secondary">
+                    eBay.fr
+                </a>
+            </div>
+        </div>
+    </section>
+</div>
+
+<script>
+    function ToggleTreeTextView() {
+        document
+            .querySelectorAll(
+                ".up-card__digivolution:not(.up-card__digivolution--text-view):not(.up-card__digivolution-current)"
+            )
+            .forEach(card => card.classList.toggle("d-none"));
+
+        document
+            .querySelectorAll(
+                ".up-card__digivolution--text-view:not(.up-card__digivolution-current)"
+            )
+            .forEach(card => card.classList.toggle("d-none"));
+    }
+</script>

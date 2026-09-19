@@ -1,0 +1,33 @@
+{% assign set = site.upper_deck_sets | where: "name", include.card.set | first %}
+{% assign languages = include.card.languages | default: set.languages %}
+
+<table class="ud-card__languages">
+    <tr>
+        <th></th>
+        <th scope="col">
+            1<sup>st</sup> Edition
+        </th>
+        <th scope="col">
+            Unlimited
+        </th>
+    </tr>    
+    {% for language in languages %}
+    <tr>
+        <th scope="row">{{ language.name }}</th>        
+        <td>
+            {% if language.editions.first %}
+            <span class="" aria-label="Available">&#9989;</span>
+            {% else %}
+            <span class="" aria-label="Not Available">&#10060;</span>
+            {% endif %}
+        </td>
+        <td>
+            {% if language.editions.unlimited %}
+            <span class="" aria-label="Available">&#9989;</span>
+            {% else %}
+            <span class="" aria-label="Not Available">&#10060;</span>
+            {% endif %}
+        </td>
+    </tr>
+    {% endfor %}
+</table>

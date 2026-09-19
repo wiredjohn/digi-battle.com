@@ -1,0 +1,31 @@
+@use 'variables' as *;
+
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: $spacing;
+    margin: $spacing 0;
+}
+
+@media(min-width: $break-sm) {
+    .card-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media(min-width: $break-md) {
+    .card-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+@media(min-width: $break-lg) {
+    .card-grid {
+        grid-template-columns: repeat(6, 1fr);
+    }
+}
+
+.card-grid-item {
+    display: block;
+    margin: 0 auto;
+}

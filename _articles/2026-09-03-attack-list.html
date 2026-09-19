@@ -1,0 +1,58 @@
+---
+title: "Attack List"
+cover_image: ""
+date_data_generated: "2026-09-17"
+redirect_from:
+  - "/Attack"
+---
+
+<p>
+    On this page you can see every Attack used by every Digimon card in the Digi-Battle card game.
+</p>
+
+<p>
+    The list of Attacks is sorted by power level, showing the most powerful moves first along with a list of which Digimon use that attack.
+</p>
+
+<p>
+    In hindsight, I probably should've called "Attacks" "Moves" instead, given that options like "DEFEND" aren't really attacks, but here we are!
+</p>
+
+<p>
+    <strong>WARNING</strong>: This content has been statically generated on {{ page.date_data_generated | date: "%d/%m/%Y" }} - any updates to card attack text / power / type on any Card's main page will not be reflected here.
+</p>
+
+
+<table class="attack-list__table">
+    <thead>
+        <tr>
+            <th class="text-left">Attack Name</th>
+            <th>Battle Type</th>
+            <th>Power</th>
+            <th class="text-left">Digimon</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for attack in site.data.upper-deck-digimon-attacks.attacks %}
+        <tr>
+            <td class="text-left">
+                {{ attack.name }}
+            </td>
+            <td>
+                <span class="icon-battle-type-small {{ attack.battle_type }}" title="{{ attack.battle_type }}" aria-label="Battle Type {{ attack.battle_type }}"></span>
+            </td>
+            <td>{{ attack.power }}</td>
+            <td class="text-left">
+                <ol>
+                    {% for digimon in attack.digimon %}
+                    <li>
+                        <a href="/upper-deck/cards/{{ digimon.name }}-{{ digimon.card_id }}">{{ digimon.name }}</a> ({{ digimon.card_id }})
+                    </li>
+                    {% endfor %}
+                </ol>
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+

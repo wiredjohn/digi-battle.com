@@ -1,0 +1,46 @@
+---
+layout: default
+title: Battle Decks
+seo_description: "A collection of Digi-Battle card decks for playing the Digi-Battle card game and deck building. Digimon deck builder."
+---
+
+<nav class="breadcrumbs">
+    <a href="/" class="breadcrumbs__link">Home</a>
+    <span>{{ page.title }}</span>
+</nav>
+
+<h1>
+    Digi-Battle Decks
+</h1>
+
+<section class="battle-deck-list">
+    {% assign decks = site.upper_deck_decks | sort: 'created_on' | reverse %}
+    {% for deck in decks %}
+    <div class="battle-deck-card">
+        <div class="battle-deck-card__cover"
+             style="background-image: url('/assets/img/upper-deck-cards/{{ deck.cover_card }}-350.webp');"></div>
+        <div class="battle-deck-card__content">
+            <div class="battle-deck-card__header">
+                <h2 class="battle-deck-card__title">
+                    {{ deck.name }}
+                </h2>
+                <div class="battle-deck-card__battle-type-container">
+                    <img src="/assets/img/icons/battle-type-{{deck.primary_color}}.png" class="battle-deck-card__battle-type" />
+
+                    {% if deck.secondary_color %}
+                    <img src="/assets/img/icons/battle-type-{{deck.secondary_color}}.png" class="battle-deck-card__battle-type" />
+                    {% endif %}
+                </div>
+            </div>
+            <div class="battle-deck-card__body">
+                {{ deck.deck_description }}
+            </div>
+            <div class="battle-deck-card__footer">
+                <a href="{{ deck.url }}" class="btn btn-primary d-block">
+                    See Deck Details
+                </a>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</section>

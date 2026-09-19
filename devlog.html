@@ -1,0 +1,29 @@
+---
+title: DevLog
+seo_description: "Digi-Battle.com development log"
+layout: default
+redirect_from: "/Home/DevLog"
+permalink: "/devlog"
+---
+
+<h1>
+    DevLog
+</h1>
+
+<p>
+    This is a (sort of) active log of the development changes to this website.
+</p>
+
+<section class="devlog">
+    {% assign logs = site.devlog | sort: "date" | reverse %}
+    {% for log in logs %}
+    <article class="devlog__item">
+        <time class="devlog__title"
+              datetime="{{ log.date | date_to_xmlschema }}">
+            {{ log.date | date: "%-d %B %Y" }}
+        </time>
+
+        {{ log.content }}
+    </article>
+    {% endfor %}
+</section>

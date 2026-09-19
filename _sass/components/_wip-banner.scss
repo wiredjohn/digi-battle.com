@@ -1,0 +1,18 @@
+@use "variables" as *;
+
+.wip-banner {
+    background: repeating-linear-gradient( 45deg, yellow 0 20px, black 20px 40px );
+    margin: $spacing 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wip-banner__text {
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    background-color: yellow;
+    margin: $spacing-sm;
+    padding: 0 $spacing-sm;
+}

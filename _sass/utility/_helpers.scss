@@ -1,0 +1,77 @@
+.mb-0 {
+    margin-bottom: 0 !important;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.text-white {
+    color: #fff !important;
+}
+
+.text-left {
+    text-align: left !important;
+}
+
+.text-right {
+    text-align: right !important;
+}
+
+.p-sticky {
+    position: sticky;
+    top: 0;
+}
+
+.d-block {
+    display: block !important;
+}
+
+.d-none {
+    display: none !important;
+}
+
+.icon {
+    width: 25px;
+    height: 25px;
+    background-position: center;
+    background-size: cover;
+    display: inline-block;
+}
+
+.icon-true {
+    background-image: url('/assets/img/icons/tick.png');
+}
+
+.icon-false {
+    background-image: url('/assets/img/icons/cross.png');
+}
+
+.icon-battle-type-small {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    padding: 3px;
+    border-radius: 2px;
+    margin-left: 5px;
+    margin-top: 2px;
+}
+
+.icon-battle-type-small.Red {
+    background-image: url("/assets/img/icons/battle-type-icons-small.png");
+    background-position: 0px 0px;
+}
+
+.icon-battle-type-small.Green {
+    background-image: url("/assets/img/icons/battle-type-icons-small.png");
+    background-position: -20px 0px;
+}
+
+.icon-battle-type-small.Yellow {
+    background-image: url("/assets/img/icons/battle-type-icons-small.png");
+    background-position: -40px 0px;
+}
+
+.nowrap {
+    white-space: nowrap;
+}

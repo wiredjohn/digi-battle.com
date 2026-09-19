@@ -1,0 +1,25 @@
+@use "variables" as *;
+
+.devlog {
+    display: flex;
+    flex-direction: column;
+    gap: $spacing;
+    margin: $spacing 0;
+}
+
+.devlog__item {
+    border: 1px solid $color-accent;
+    padding: $spacing-sm;
+}
+
+.devlog__item p, .devlog__item ul {
+    padding-bottom: $spacing-sm;
+}
+
+.devlog__title {
+    display: block;
+    border-bottom: 1px solid $color-accent;
+    padding-bottom: $spacing-sm;
+    margin-bottom: $spacing-sm;
+    font-weight: bold;
+}

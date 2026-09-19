@@ -1,0 +1,117 @@
+@charset 'utf-8';
+
+@use "variables" as *;
+
+
+html, body {
+    background-color: $background-primary;
+    color: $font-color-primary;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: $font-size;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: $font-color-heading;
+    line-height: 1.1;
+    text-box-trim: trim-both;
+    text-box-edge: cap alphabetic;
+    padding-block: 1rem;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 2rem;
+}
+
+h4 {
+    font-size: 1.5rem;
+}
+
+h5 {
+    font-size: 1.25rem;
+}
+
+a {
+    color: $font-color-link;
+    /*white-space: nowrap;*/
+}
+
+dl dt {
+    font-weight: bold;
+    color: $font-color-heading;
+}
+
+dl dd {
+    font-weight: normal;
+    margin-left: $spacing-sm;
+    margin-bottom: $spacing;
+    word-wrap: break-word;
+}
+
+ul, ol {
+    padding-left: 2ch;
+}
+
+.main-body {
+    width: 100%;
+    max-width: $width-max;
+    display: block;
+    margin: 0 auto;
+    padding: 0 $spacing-sm;
+    flex-grow: 1;
+}
+
+@media(min-width: $break-xl) {
+    .main-body {
+        padding: 0;
+    }
+}
+
+.rookie {
+    background-color: $color-rookie;
+    color: $white;
+}
+
+.champion {
+    background-color: $color-champion;
+    color: $white;
+}
+
+.ultimate {
+    background-color: $color-ultimate;
+    color: $white;
+}
+
+.mega {
+    background-color: $color-mega;
+    color: $white;
+}
+
+.icon {
+    width: 1.5rem;
+}
+
+.markdown-content p,
+.markdown-content ul,
+.markdown-content table {
+    margin-bottom: $spacing;
+}
+.markdown-content table {
+    width: 100%;
+}

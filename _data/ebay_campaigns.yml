@@ -1,0 +1,14 @@
+#https://partnerhelp.ebay.com/helpcenter/s/article/What-are-the-parameters-of-an-EPN-link?language=en_US
+mkrid_us: "711-53200-19255-0"
+mkrid_uk: "710-53481-19255-0" 
+mkrid_ca: "706-53473-19255-0"
+mkrid_it: "724-53478-19255-0"
+mkrid_es: "1185-53479-19255-0"
+mkrid_fr: "709-53476-19255-0"
+
+
+card_img: "&campid=TEST&mkevt=1&mkcid=1&toolid=10001"
+card_footer: "&campid=TEST&mkevt=1&mkcid=1&toolid=10001"
+
+# card_img: "&campid=5339188356&mkevt=1&mkcid=1&toolid=10001"
+# card_footer: "&campid=5339188361&mkevt=1&mkcid=1&toolid=10001"

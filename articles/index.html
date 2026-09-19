@@ -1,0 +1,24 @@
+---
+layout: default
+title: "Articles"
+seo_title: "Articles"
+seo_description: "Catalog of articles and information about some of the coolest cards and mysteries in the Digimon Digi-Battle card game."
+---
+
+<nav class="breadcrumbs">
+    <a href="/" class="breadcrumbs__link">Home</a>
+    <span>{{ page.title }}</span>
+</nav>
+
+<h1>
+    Digi-Battle Articles
+</h1>
+
+<div class="article-card-container">
+
+    {% assign articles = site.articles | sort: "date" | reverse %}
+    {% for article in articles %}
+        {% include article-card.html article=article %}
+    {% endfor %}
+
+</div>
