@@ -59,3 +59,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - .vs
+
+sass:
+  style: compressed

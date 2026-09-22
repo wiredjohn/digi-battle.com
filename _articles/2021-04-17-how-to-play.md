@@ -1,6 +1,6 @@
 ---
 title: "Digi-Battle Game Rules"
-cover_image: "/assets/img/articles/how-to-play/playmat.jpg"
+cover_image: "/assets/img/articles/how-to-play/playmat-thumb.png"
 featured: true
 redirect_from: "/Game/Rules"
 ---

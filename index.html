@@ -26,7 +26,7 @@ featured_cards:
             DIGI-BATTLE.COM
         </h1>
         <h2 class="home-splash__subheading">
-            The Complete Digimon <span class="nowrap">Digi-Battle</span> Card Database
+            The Digimon <span class="nowrap">Digi-Battle</span> Card Database
         </h2>
         <p class="home-splash__cta">
             <a href="/upper-deck/cards" class="btn btn-cta">See All Cards</a>
@@ -40,9 +40,18 @@ featured_cards:
 <section class="card-carousel__wrapper">
     <div class="card-carousel" style="--card-count: {{ page.featured_cards | size }}">
         {% for card in page.featured_cards %}
+
+        {% if forloop.index <= 4 %}
+        {% assign loading = "eager" %}
+        {% assign fetchpriority = "high" %}
+        {% else %}
+        {% assign loading = "lazy" %}
+        {% assign fetchpriority = "d" %}
+        {% endif %}
+
         {% assign card_data = site.upper_deck_cards | where: "card_id", card | first  %}
         <a href="{{card_data.url}}">
-            {% include upper-deck-card-image.html filename=card_data.card_id alt=card_data.name width="350" %}
+            {% include upper-deck-card-image.html filename=card_data.card_id alt=card_data.name width="350" loading=loading fetchpriority=fetchpriority %}
         </a>
         {% endfor %}
         <!--AGAIN-->

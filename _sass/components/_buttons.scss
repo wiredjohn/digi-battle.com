@@ -15,8 +15,8 @@
 }
 
 .btn-primary {
-    border-color: $blue;
-    background-color: $blue;
+    border-color: $dark-blue;
+    background-color: $dark-blue;
     color: $white;
 }
 
@@ -33,7 +33,8 @@
 }
 
 .btn-secondary:hover {
-    background-color: $blue;
+    border-color: $dark-blue;
+    background-color: $dark-blue;
     color: $white;
 }
 

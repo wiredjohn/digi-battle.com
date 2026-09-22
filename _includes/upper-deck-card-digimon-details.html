@@ -3,7 +3,7 @@
 </h1>
 
 <div class="ud-card__level">
-    <img src="/assets/img/icons/battle-type-{{page.battle_type | downcase}}.png" class="ud-card__battle-type-icon" alt="Digimon Battle Type {{ page.battle_type }}" />
+    <img src="/assets/img/icons/battle-type-{{page.battle_type | downcase}}.png" class="ud-card__battle-type-icon" alt="Digimon Battle Type {{ page.battle_type }}" width="30" height="30" />
     <p class="ud-card__level-text {{page.level | downcase }}">
         {{page.level}} Level
     </p>
@@ -13,7 +13,7 @@
     <div class="ud-card__generic--left">
         <dl>
             <dt>Set: </dt>
-            <dd><a href="/upper-deck/sets/{{ page.set | slugify}}">{{ page.set }}</a></dd>
+            <dd><h2 class="text-normal"><a href="/upper-deck/sets/{{ page.set | slugify}}">{{ page.set }}</a></h2></dd>
             <dt>Rarity:</dt>
             <dd class="mb-0">{{ page.rarity }}</dd>
         </dl>
@@ -21,7 +21,7 @@
     <div class="ud-card__generic--right">
         <dl>
             <dt>Serial Code:</dt>
-            <dd>{{ page.serial_code }}</dd>
+            <dd><h3 class="text-normal">{{ page.serial_code }}</h3></dd>
             <dt>Finish:</dt>
             <dd class="mb-0">{{ page.finish }}</dd>
         </dl>
@@ -32,7 +32,9 @@
     <li class="ud-card__attack">
         <img src="/assets/img/icons/battle-type-red.png"
              class="ud-card__attack-battle-type-icon"
-             alt="Red attack type">
+             alt="Red attack type"
+             width="50"
+             height="50">
 
         <div class="ud-card__attack-info">
             <span class="ud-card__attack-power">
@@ -47,7 +49,9 @@
     <li class="ud-card__attack">
         <img src="/assets/img/icons/battle-type-green.png"
              class="ud-card__attack-battle-type-icon"
-             alt="Green attack type">
+             alt="Green attack type"
+             width="50"
+             height="50">
 
         <div class="ud-card__attack-info">
             <span class="ud-card__attack-power">
@@ -62,7 +66,9 @@
     <li class="ud-card__attack">
         <img src="/assets/img/icons/battle-type-yellow.png"
              class="ud-card__attack-battle-type-icon"
-             alt="Yellow attack type">
+             alt="Yellow attack type"
+             width="50"
+             height="50">
 
         <div class="ud-card__attack-info">
             <span class="ud-card__attack-power">

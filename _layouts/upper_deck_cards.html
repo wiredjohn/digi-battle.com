@@ -18,7 +18,8 @@ layout: default
         <div class="ud-card__image-wrapper">
             <div class="ud-card__image">
                 <div class="ud-card__card-scan">
-                    {% include upper-deck-card-image.html filename=page.card_id alt=page.name loading="eager" width="350" fetchpriority="high" %}
+                    {% assign card_id_upper = page.card_id | upcase %}
+                    {% include upper-deck-card-image.html filename=card_id_upper alt=page.name loading="eager" width="350" fetchpriority="high" %}
                 </div>
                 <p>
                     As an eBay affiliate, we earn from qualifying purchases.
@@ -26,7 +27,7 @@ layout: default
                 <a href="https://www.ebay.com/sch/i.html?_nkw={{ ebay_search_param }}{{ site.data.ebay_campaigns.card_img }}&mkrid={{ site.data.ebay_campaigns.mkrid_us }}"
                    class="btn btn-ebay"
                    target="_blank">
-                    Shop on eBay &#129094;
+                    Shop on eBay
                 </a>
             </div>
         </div>

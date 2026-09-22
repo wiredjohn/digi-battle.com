@@ -1,6 +1,6 @@
 ---
 title: "The Most Popular Digimon Digi-Battle Cards"
-cover_image: "/assets/img/upper-deck-cards/tb-12.png"
+cover_image: "/assets/img/upper-deck-cards/TB-12-175.webp"
 redirect_from: "/most-popular-digimon-cards"
 ---
 

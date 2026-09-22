@@ -18,10 +18,10 @@ layout: default
 
     <div class="battle-deck__body">
         <div class="battle-deck__battle-types">
-            <img src="/assets/img/icons/battle-type-{{page.primary_color}}.png" class="battle-deck__battle-type" />
+            <img src="/assets/img/icons/battle-type-{{page.primary_color | downcase}}.png" class="battle-deck__battle-type" />
 
             {% if page.secondary_color %}
-            <img src="/assets/img/icons/battle-type-{{page.secondary_color}}.png" class="battle-deck__battle-type" />
+            <img src="/assets/img/icons/battle-type-{{page.secondary_color | downcase}}.png" class="battle-deck__battle-type" />
             {% endif %}
         </div>
 

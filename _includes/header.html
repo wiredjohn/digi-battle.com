@@ -2,7 +2,7 @@
     <div class="header__inner">
 
         <a href="/">
-            <img src="/assets/img/logo-small.webp" alt="Digi-Battle Logo" class="header__logo" />
+            <img src="/assets/img/logo-small.webp" alt="Digi-Battle Logo" class="header__logo" width="72" height="50" />
         </a>
 
         <nav id="Navbar" class="header__nav">
@@ -56,6 +56,7 @@
 <script>
     function ToggleHamburger() {
         document.getElementById("Navbar").classList.toggle("header__nav--expanded");
+        document.getElementsByTagName("body")[0].classList.toggle("overflow-hidden");
     }
 
     window.addEventListener("resize", () => {
