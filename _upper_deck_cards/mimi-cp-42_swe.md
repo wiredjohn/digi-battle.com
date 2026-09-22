@@ -35,7 +35,7 @@ power_option_restrictions:
   - "Send this card Offline at end of Duel."
 
 # META FIELDS
-card_id: "CP-42_Swe"
+card_id: "CP-42_SWE"
 set_sort_order: 33
 slug: "mimi-cp-42_swe"
 original_language_name: ~
@@ -43,8 +43,8 @@ redirect_from: "/Card/Details/CP-42_Swe"
 related_cards:
   - "CP-42"
   - "FX-05"
-  - "CP-38_Swe"
-  - "CP-39_Swe"
-  - "CP-40_Swe"
+  - "CP-38_SWE"
+  - "CP-39_SWE"
+  - "CP-40_SWE"
 ---
 

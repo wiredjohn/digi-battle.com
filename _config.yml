@@ -6,7 +6,7 @@ url: "https://digi-battle.com"
 excerpt_separator: ""
 
 plugins:
-  - jekyll-sitemap  
+  - jekyll-sitemap
   - jekyll-redirect-from
 
 collections:
@@ -63,3 +63,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - .vs
+
+sass:
+  style: compressed

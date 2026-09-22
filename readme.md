@@ -1,10 +1,21 @@
-### Dependencies
-//todo...
+# Digi-Battle.com
 
-### Building 
+**WORK IN PROGRESS!** - This documentation is still being created in-line with the current development of the site.
 
-Optimized local development build (disables sitemap and redirect generation):
 
+## Contributing
+todo...
+
+
+## Dependencies
+todo...
+
+
+## Building 
+
+The project offers a production build config and an optimized local development build config. The difference being `jekyll-sitemap` and `jekyll-redirect-from` are removed from the optimized build as they significantly increase build times.
+
+Optimized local development build:
 ```bash
 bundle config set --local without production
 
@@ -13,10 +24,9 @@ bundle install
 bundle exec jekyll clean
 
 bundle exec jekyll serve --incremental --config _config_dev.yml
-
+```
 
 Production build:
-
 ```bash
 bundle config unset --local without
 
@@ -25,9 +35,10 @@ bundle install
 bundle exec jekyll clean
 
 bundle exec jekyll serve --incremental --config _config.yml
+```
 
 
-### SEO
+## SEO
 
 Binned jekyll-seo-tag because it was really clunky to define custom values from a collection's layout page. 
 

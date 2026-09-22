@@ -65,7 +65,7 @@
 }
 
 .ud-card__name {
-    font-size: 3rem;
+    font-size: clamp(1rem, 8vw, 3rem);
     font-weight: normal;
     line-height: 1.1;
 }
@@ -174,7 +174,7 @@
 .ud-card__digivolutions {
     border: 1px solid $color-accent;
     padding: $spacing-sm;
-    max-height: 90vh;
+    max-height: 50vh;
     overflow: auto;
     background-image: url('/assets/img/tree-bg.png');
     background-size: unset;

@@ -1,7 +1,8 @@
 {% assign article = include.article %}
+{% assign cover_image = article.cover_image | default: "/assets/img/articles/default-thumbnail.png" %}
 
 <div class="article-card">
-    <div class="article-card__cover" style="background-image: url('{{ article.cover_image }}');"></div>
+    <div class="article-card__cover" style="background-image: url('{{ cover_image }}');"></div>
     <div class="article-card__content">
         <h1 class="article-card__title">
             {{ article.short_title | default: article.title }}

@@ -13,7 +13,7 @@ $max-width-splash: 1300px;
     max-width: 1140px;
     display: flex;
     flex-direction: column;
-    gap: 4rem;
+    gap: 2rem;
     padding: 0 0.5rem;
     margin: 0 auto;
     flex-grow: 1;
@@ -22,6 +22,7 @@ $max-width-splash: 1300px;
 @media(min-width: $break-md) {
     .home-content {
         margin-bottom: $spacing-lg;
+        gap: 4rem;
     }
 }
 

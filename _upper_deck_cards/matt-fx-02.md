@@ -42,7 +42,7 @@ original_language_name: ~
 redirect_from: "/Card/Details/FX-02"
 related_cards:
   - "CP-39"
-  - "CP-39_Swe"
+  - "CP-39_SWE"
   - "FX-01"
   - "FX-03"
   - "FX-04"

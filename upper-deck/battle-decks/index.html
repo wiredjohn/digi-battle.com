@@ -25,10 +25,10 @@ seo_description: "A collection of Digi-Battle card decks for playing the Digi-Ba
                     {{ deck.name }}
                 </h2>
                 <div class="battle-deck-card__battle-type-container">
-                    <img src="/assets/img/icons/battle-type-{{deck.primary_color}}.png" class="battle-deck-card__battle-type" />
+                    <img src="/assets/img/icons/battle-type-{{deck.primary_color | downcase}}.png" class="battle-deck-card__battle-type" alt="Battle Type {{deck.primary_color}}" />
 
                     {% if deck.secondary_color %}
-                    <img src="/assets/img/icons/battle-type-{{deck.secondary_color}}.png" class="battle-deck-card__battle-type" />
+                    <img src="/assets/img/icons/battle-type-{{deck.secondary_color | downcase}}.png" class="battle-deck-card__battle-type" alt="Battle Type {{deck.secondary_color}}" />
                     {% endif %}
                 </div>
             </div>

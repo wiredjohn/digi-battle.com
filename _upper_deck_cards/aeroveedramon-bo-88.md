@@ -58,4 +58,3 @@ related_cards:
   - "BO-65"
   - "BO-67"
 ---
-

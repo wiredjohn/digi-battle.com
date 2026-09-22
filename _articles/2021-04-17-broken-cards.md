@@ -1,6 +1,6 @@
 ---
 title: "Broken Cards"
-cover_image: "/assets/img/upper-deck-cards/fx-08.png"
+cover_image: "/assets/img/upper-deck-cards/FX-08-175.webp"
 redirect_from: "/Game/BrokenCards"
 ---
 
