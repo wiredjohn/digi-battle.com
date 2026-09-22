@@ -1,5 +1,6 @@
 .bundle
 .jekyll-cache
+.jekyll-metadata
 .vs
 _site
 *.bak
