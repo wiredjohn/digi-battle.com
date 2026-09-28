@@ -21,7 +21,6 @@ body:
     attributes:
       label: Article title
       description: The title of your article.
-      placeholder: ""
     validations:
       required: true
 
@@ -30,7 +29,6 @@ body:
     attributes:
       label: Author name
       description: The name/username you would like displayed as the author.
-      placeholder: ""
     validations:
       required: false
 
@@ -39,7 +37,6 @@ body:
     attributes:
       label: Author website
       description: Optional website or social profile for the author.
-      placeholder: ""
 
   - type: textarea
     id: cover_image

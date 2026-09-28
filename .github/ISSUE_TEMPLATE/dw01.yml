@@ -30,7 +30,6 @@ body:
     attributes:
       label: Owner name
       description: Leave your name/username here to display it on the card page
-      placeholder: ""
     validations:
       required: false
 
