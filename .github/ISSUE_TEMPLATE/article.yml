@@ -1,0 +1,91 @@
+name: Article Submission
+description: Submit an article to post on the site
+title: "[Article] "
+labels:
+  - article
+  - submission
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Article Submission
+
+        Thanks for contributing an article!
+
+        Please provide the article details below. The content
+        supports Markdown formatting.
+
+  - type: input
+    id: title
+    attributes:
+      label: Article title
+      description: The title of your article.
+      placeholder: ""
+    validations:
+      required: true
+
+  - type: input
+    id: author_name
+    attributes:
+      label: Author name
+      description: The name/username you would like displayed as the author.
+      placeholder: ""
+    validations:
+      required: false
+
+  - type: input
+    id: author_website
+    attributes:
+      label: Author website
+      description: Optional website or social profile for the author.
+      placeholder: ""
+
+  - type: textarea
+    id: cover_image
+    attributes:
+      label: Cover image
+      description: |
+        Optional. You can either:
+
+        - Drag and drop an image here to upload it.
+        - Paste a link to an existing card scan or image.
+        - Leave this field blank.
+
+        If linking to an existing image on the website, please provide
+        the image URL or identify the existing card/image clearly.
+      placeholder: |
+        Drag an image here, paste an image URL,
+        or leave blank.
+
+  - type: textarea
+    id: content
+    attributes:
+      label: Article content
+      description: |
+        Write your article here using Markdown.
+
+        You can use headings, paragraphs, bold and italic text,
+        links, lists, blockquotes and other Markdown formatting.
+      placeholder: |
+        # Your article heading
+
+        Start writing your article here...
+
+        You can use Markdown to format your content.
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Before submitting
+
+        Please check that:
+
+        - The title and author information are correct.
+        - Any external sources are appropriately credited.
+        - Any images you upload or link to may be used by the project.
+        - Card information and other factual claims are as accurate as possible.
+
+        Thank you for contributing!

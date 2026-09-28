@@ -1,0 +1,96 @@
+name: DW-01 Card Submission
+description: Submit a DW-01 card for inclusion in the archive
+title: "[DW-01] Card "
+labels:
+  - dw01
+  - card-submission
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## DW-01 Card Submission
+
+        Thanks for helping grow the DW-01 archive.
+
+        Please provide the information below as accurately as possible.
+        **A clear image of the card is required.**
+
+  - type: input
+    id: number
+    attributes:
+      label: Card number
+      description: Enter the six-digit DW-01 card number.
+      placeholder: "000123"
+    validations:
+      required: true
+
+  - type: input
+    id: owner_name
+    attributes:
+      label: Owner name
+      description: Leave your name/username here to display it on the card page
+      placeholder: ""
+    validations:
+      required: false
+
+  - type: input
+    id: owner_website
+    attributes:
+      label: Owner website
+      description: Optional link attached to your name/username if provided.
+      placeholder: "https://instagram.com"
+
+  - type: textarea
+    id: note
+    attributes:
+      label: Note
+      description: Any additional information about this card.
+      placeholder: "Optional notes about how you got it, condition, etc."
+
+  - type: checkboxes
+    id: psa_graded
+    attributes:
+      label: PSA grading
+      description: Is this card PSA graded?
+      options:
+        - label: This card is PSA graded
+          required: false
+
+  - type: input
+    id: psa_grade
+    attributes:
+      label: PSA grade
+      description: If PSA graded, enter the grade.
+      placeholder: "10"
+
+  - type: input
+    id: psa_certificate
+    attributes:
+      label: PSA certificate
+      description: If PSA graded, enter the PSA certificate number.
+      placeholder: "12345678"
+
+  - type: textarea
+    id: card_image
+    attributes:
+      label: Card image
+      description: |
+        Required. Drag and drop a clear image of the card into this field,
+        or paste an image here.
+
+        Please provide an image that allows the card to be identified
+        and verified.
+      placeholder: Drag and drop the card image here...
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Submission checklist
+
+        Before submitting, please check:
+
+        - The card number is correct.
+        - The image clearly shows the card.
