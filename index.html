@@ -22,12 +22,12 @@ featured_cards:
 
 <section class="home-splash">
     <div class="home-splash__content">
-        <h1 class="home-splash__title">
+        <p class="home-splash__title">
             DIGI-BATTLE.COM
-        </h1>
-        <h2 class="home-splash__subheading">
+        </p>
+        <h1 class="home-splash__subheading">
             The Digimon <span class="nowrap">Digi-Battle</span> Card Database
-        </h2>
+        </h1>
         <p class="home-splash__cta">
             <a href="/upper-deck/cards" class="btn btn-cta">See All Cards</a>
         </p>
@@ -66,9 +66,9 @@ featured_cards:
 
 <div class="home-content">
     <section class="home-content__left">
-        <h3>
+        <h2>
             Discover Vintage Digimon Card Collecting
-        </h3>
+        </h2>
 
         <p>
             Digi-Battle is the original Digimon Trading Card Game (TCG) released in the West. This website is an open-source, community project to archive and document this card game from 1999.
@@ -84,9 +84,9 @@ featured_cards:
     </section>
 
     <section class="home-content__right">
-        <h3>
+        <h2>
             A Community Project
-        </h3>
+        </h2>
 
         <p>
             This site is <a href="{{ site.data.external_links.gh_home }}">open-source</a> and supported by user contributions. If you want to make the site better by writing an article, updating card info or implementing new features then check out the <a href="{{ site.data.external_links.gh_home }}">GitHub</a>!
@@ -136,7 +136,7 @@ featured_cards:
 
 <script>
 
-    document.getElementById("YearsOnline").innerText = yearsSince("2021-03-06");
+    document.getElementById("YearsOnline").innerText = yearsSince("{{ site.launch_date }}");
 
     function yearsSince(date) {
         const d = new Date(date);

@@ -11,6 +11,13 @@ html, body {
     font-weight: 300;
     font-style: normal;
     font-size: $font-size;
+    scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    html {
+        scroll-behavior: auto;
+    }
 }
 
 body {

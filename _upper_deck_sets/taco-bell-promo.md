@@ -1,6 +1,6 @@
 ---
 name: "Taco Bell Promo"
-set_description: "The Taco Bell Promo set was released as part of a promotional event starting on the 13th of July 2000 and ended on the 9th of September 2000."
+set_description: "The Taco Bell Promo set was released as part of a promotional event in 2000 and came with other metal Digimon cards and a toy."
 slug: "taco-bell-promo"
 redirect_from: "/Sets/TacoBellPromo"
 languages:

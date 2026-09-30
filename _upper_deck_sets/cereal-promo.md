@@ -1,6 +1,6 @@
 ---
 name: "Cereal Promo"
-set_description: "The Cereal Promo set was released around 2000 in 3 card packs inside cereal boxes in the UK. Specifically Honey Nut Cheerios and Frosted Shreddies."
+set_description: "A promotional set released in 3 card packs inside cereal boxes in the UK. Specifically Honey Nut Cheerios and Frosted Shreddies."
 slug: "cereal-promo"
 redirect_from: "/Sets/CerealPromo"
 languages:

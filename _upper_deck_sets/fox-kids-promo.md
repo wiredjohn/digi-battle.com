@@ -1,6 +1,6 @@
 ---
 name: "Fox Kids Promo"
-set_description: "The Fox Kids promo set is a small set of cards with serial code prefix FX-. Distribution is split between a magazine and a special competition prize."
+set_description: "The Fox Kids promo set is a small set of cards with serial code prefix 'FX-', distributed between a magazine and a special competition prize."
 slug: "fox-kids-promo"
 redirect_from: "/Sets/FoxKidsPromo"
 languages:

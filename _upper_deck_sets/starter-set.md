@@ -1,6 +1,6 @@
 ---
 name: "Starter Set"
-set_description: "The Digimon Starter Set was released in February 2000 with release of the Digi-Battle card game. The Starter Deck included enough cards for 2 players"
+set_description: "Released in February 2000 with the launch of the Digi-Battle, this set has enough cards for 2 players to learn and play the game."
 slug: "starter-set"
 redirect_from: "/Sets/StarterSet"
 languages:

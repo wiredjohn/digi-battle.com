@@ -1,6 +1,6 @@
 ---
 name: "Other Promo"
-set_description: "This isn't an official Digi-Battle set, it's just a collection of the other miscellaneous promotional cards from 1-off releases."
+set_description: "This isn't an official Digi-Battle set, it's a collection of the other miscellaneous promotional cards from 1-off releases."
 slug: "other-promo"
 redirect_from: "/Sets/OtherPromo"
 languages:

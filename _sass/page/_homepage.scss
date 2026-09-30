@@ -71,8 +71,14 @@ $max-width-splash: 1300px;
 .home-splash__title {
     white-space: nowrap;
     font-size: clamp(24px, 9vw, 100vw);
+    font-weight: bold;
+    color: $font-color-heading;
     text-align: center;
     padding: 0;
+    line-height: 1.1;
+    text-box-trim: trim-both;
+    text-box-edge: cap alphabetic;
+    padding-block: 0;
 }
 
 .home-splash__subheading {
@@ -114,6 +120,12 @@ $max-width-splash: 1300px;
     flex-direction: row;
     margin: $spacing;
     animation: card-carousel 50s infinite linear;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .card-carousel {
+        animation: none;
+    }
 }
 
 .card-carousel:hover {
