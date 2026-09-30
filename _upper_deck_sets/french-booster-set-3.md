@@ -1,6 +1,6 @@
 ---
 name: "French Booster Set 3"
-set_description: "Booster Set 3 was released exclusively in France. The entire set is only available in French with the exclusion of Goldramon (UN-01)."
+set_description: "Booster Set 3 was released exclusively in France with a low print run, making the cards especially rare."
 slug: "french-booster-set-3"
 redirect_from: "/Sets/FrenchBoosterSet3"
 languages:

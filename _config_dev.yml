@@ -3,6 +3,8 @@ title: "Digimon Digi-Battle Card Database"
 description: "The Complete Digimon Digi-Battle Card List. From starter set and booster box scans to the game rules, you can find it all here online."
 url: "https://digi-battle.com"
 
+launch_date: "2021-03-06"
+
 excerpt_separator: ""
 
 collections:
@@ -59,6 +61,12 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - .vs
+  - .github
+  - README.md
+  - CONTRIBUTING.md
+  - SECURITY.md
+  - wrangler.jsonc
+  - .gitignore
 
 sass:
   style: compressed

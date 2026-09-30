@@ -13,6 +13,20 @@ layout: default
         {{ page.title }}
     </h1>
 
+    {% if page.author_name %}
+    <p>
+        Writen by:
+
+        {% if page.author_website %}
+        <a href="{{ page.author_website }}">
+            {{ page.author_name }}
+        </a>
+        {% else %}
+            {{ page.author_name }}
+        {% endif %}
+    </p>
+    {% endif %}
+
     {{ content }}
 </section>
 

@@ -32,7 +32,6 @@ digivolution_requirements: ~
 power_option_type: "POWER BLAST"
 power_option_restrictions:
   - "Do not use this card with a Rookie on Duel Zone."
-  - "Do not use this card with a Rookie on Duel Zone."
   - "Send this card Offline at end of Duel."
 
 # META FIELDS
