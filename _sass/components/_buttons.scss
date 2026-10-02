@@ -38,16 +38,56 @@
     color: $white;
 }
 
-.btn-ebay {
-    color: $white;
+.btn-ebay__wrapper {
+    display: flex;
+    padding: 3px;
     width: 100%;
     max-width: 350px;
-    border: 3px solid;
-    border-image: $ebay-gradient 1;
+    position: relative;
+    overflow: hidden;
+    transition: all .2s ease-in-out;
 }
 
-.btn-ebay:hover {
-    color: $font-color-link;
+.btn-ebay__wrapper:hover {
+    border-radius: 1.5rem;
+
+    .btn-ebay__inner {
+        border-radius: 1.5rem;
+    }
+}
+
+.btn-ebay__wrapper::before {
+    content: "";
+    position: absolute;
+    inset: 0%;
+    background: $ebay-gradient-conic;
+    z-index: -1;
+    width: 100%;
+    height: 350px;
+    top: -155px;
+    left: 0;
+}
+
+.btn-ebay__wrapper:hover::before {
+    background: $ebay-gradient-conic;
+    animation: rotate-gradient 4s linear infinite;   
+}
+
+@keyframes rotate-gradient {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.btn-ebay__inner {
+    flex-grow: 1;
+    background-color: $background-primary;
+    color: $white;
+    text-align: center;
+    padding: $spacing-sm;
+    font-size: 1rem;
+    text-decoration: none;
+    transition: all .2s ease-in-out;
 }
 
 .btn-cta {
@@ -58,5 +98,5 @@
 
 .btn-cta:hover {
     color: $color-champion;
-    background-color: transparent;    
+    background-color: transparent;
 }

@@ -6,9 +6,5 @@ mkrid_it: "724-53478-19255-0"
 mkrid_es: "1185-53479-19255-0"
 mkrid_fr: "709-53476-19255-0"
 
-
-card_img: "&campid=TEST&mkevt=1&mkcid=1&toolid=10001"
-card_footer: "&campid=TEST&mkevt=1&mkcid=1&toolid=10001"
-
-# card_img: "&campid=5339188356&mkevt=1&mkcid=1&toolid=10001"
-# card_footer: "&campid=5339188361&mkevt=1&mkcid=1&toolid=10001"
+card_img: "&campid=5339188356&mkevt=1&mkcid=1&toolid=10001"
+card_footer: "&campid=5339188361&mkevt=1&mkcid=1&toolid=10001"

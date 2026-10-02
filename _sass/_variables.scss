@@ -38,8 +38,8 @@ $break-xl: 1200px;
 $break-xxl: 1400px;
 
 
-$ebay-gradient: linear-gradient( 90deg, #E53238 0 25%, #0064D2 25% 50%, #F5AF02 50% 75%, #86B817 75% 100% );
-
+$ebay-gradient-linear: linear-gradient( 90deg, #E53238 0 25%, #0064D2 25% 50%, #F5AF02 50% 75%, #86B817 75% 100% );
+$ebay-gradient-conic: conic-gradient( from 270deg, #E53238 0 25%, #0064D2 25% 50%, #F5AF02 50% 75%, #86B817 75% 100% );
 
 $dv-tree-width: 75px;
 $dv-tree-height: 105px;
