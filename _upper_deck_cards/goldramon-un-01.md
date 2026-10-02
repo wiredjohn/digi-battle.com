@@ -42,7 +42,7 @@ card_id: "UN-01"
 set_sort_order: 4
 slug: "goldramon-un-01"
 original_language_name: ~
-redirect_from: "/Card/Details/UN-01"
+redirect_from: "/card/details/un-01"
 related_cards:
   - "BO-139"
   - "DM-02"

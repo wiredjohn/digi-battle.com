@@ -57,7 +57,7 @@ card_id: "CP-27"
 set_sort_order: 27
 slug: "machinedramon-cp-27"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-27"
+redirect_from: "/card/details/cp-27"
 related_cards:
   - "BO-55"
   - "CP-11"

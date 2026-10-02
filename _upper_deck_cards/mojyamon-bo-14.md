@@ -43,7 +43,7 @@ card_id: "BO-14"
 set_sort_order: 14
 slug: "mojyamon-bo-14"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-14"
+redirect_from: "/card/details/bo-14"
 related_cards:
   - "CP-08"
   - "BO-02"

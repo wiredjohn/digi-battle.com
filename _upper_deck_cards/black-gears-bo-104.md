@@ -39,7 +39,7 @@ card_id: "BO-104"
 set_sort_order: 50
 slug: "black-gears-bo-104"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-104"
+redirect_from: "/card/details/bo-104"
 related_cards:
   - "BO-97"
   - "BO-98"

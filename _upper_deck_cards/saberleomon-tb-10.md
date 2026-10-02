@@ -48,7 +48,7 @@ card_id: "TB-10"
 set_sort_order: 10
 slug: "saberleomon-tb-10"
 original_language_name: ~
-redirect_from: "/Card/Details/TB-10"
+redirect_from: "/card/details/tb-10"
 related_cards:
   - "ST-34"
   - "TB-11"

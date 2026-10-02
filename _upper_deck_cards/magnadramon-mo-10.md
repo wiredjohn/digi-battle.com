@@ -48,7 +48,7 @@ card_id: "MO-10"
 set_sort_order: 10
 slug: "magnadramon-mo-10"
 original_language_name: ~
-redirect_from: "/Card/Details/MO-10"
+redirect_from: "/card/details/mo-10"
 related_cards:
   - "BO-17"
   - "CP-11"

@@ -58,7 +58,7 @@ card_id: "TB-04"
 set_sort_order: 4
 slug: "kuwagamon-tb-04"
 original_language_name: ~
-redirect_from: "/Card/Details/TB-04"
+redirect_from: "/card/details/tb-04"
 related_cards:
   - "BO-13"
   - "CP-07"

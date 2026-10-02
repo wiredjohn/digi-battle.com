@@ -55,7 +55,7 @@ card_id: "BO-86"
 set_sort_order: 32
 slug: "woodmon-bo-86"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-86"
+redirect_from: "/card/details/bo-86"
 related_cards:
   - "BO-56"
   - "BO-58"

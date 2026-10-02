@@ -38,7 +38,7 @@ card_id: "BO-143"
 set_sort_order: 35
 slug: "crest-of-knowledge-bo-143"
 original_language_name: "Symbole de la Connaissance"
-redirect_from: "/Card/Details/BO-143"
+redirect_from: "/card/details/bo-143"
 related_cards:
   - "BO-144"
   - "BO-145"

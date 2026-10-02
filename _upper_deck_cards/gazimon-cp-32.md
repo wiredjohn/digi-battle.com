@@ -45,7 +45,7 @@ card_id: "CP-32"
 set_sort_order: 32
 slug: "gazimon-cp-32"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-32"
+redirect_from: "/card/details/cp-32"
 related_cards:
   - "BO-60"
   - "CP-22"

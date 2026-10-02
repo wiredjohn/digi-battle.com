@@ -45,7 +45,7 @@ card_id: "CP-23"
 set_sort_order: 23
 slug: "syakomon-cp-23"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-23"
+redirect_from: "/card/details/cp-23"
 related_cards:
   - "BO-29"
   - "CP-22"

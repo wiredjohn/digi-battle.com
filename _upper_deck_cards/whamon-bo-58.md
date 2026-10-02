@@ -49,7 +49,7 @@ card_id: "BO-58"
 set_sort_order: 4
 slug: "whamon-bo-58"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-58"
+redirect_from: "/card/details/bo-58"
 related_cards:
   - "CP-30"
   - "BO-56"

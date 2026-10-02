@@ -56,7 +56,7 @@ card_id: "CP-06"
 set_sort_order: 6
 slug: "seadramon-cp-06"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-06"
+redirect_from: "/card/details/cp-06"
 related_cards:
   - "BO-06"
   - "CP-02"

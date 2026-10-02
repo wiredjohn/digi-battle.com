@@ -48,7 +48,7 @@ card_id: "BO-96"
 set_sort_order: 42
 slug: "puppetmon-bo-96"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-96"
+redirect_from: "/card/details/bo-96"
 related_cards:
   - "BO-55"
   - "BO-94"

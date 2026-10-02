@@ -49,7 +49,7 @@ card_id: "MP-94"
 set_sort_order: 32
 slug: "ninjamon-mp-94"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-94"
+redirect_from: "/card/details/mp-94"
 related_cards:
   - "ST-94"
   - "MP-69"

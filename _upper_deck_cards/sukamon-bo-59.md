@@ -50,7 +50,7 @@ card_id: "BO-59"
 set_sort_order: 5
 slug: "sukamon-bo-59"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-59"
+redirect_from: "/card/details/bo-59"
 related_cards:
   - "CP-31"
   - "BO-56"

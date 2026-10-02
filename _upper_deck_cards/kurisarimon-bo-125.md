@@ -43,7 +43,7 @@ card_id: "BO-125"
 set_sort_order: 17
 slug: "kurisarimon-bo-125"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-125"
+redirect_from: "/card/details/bo-125"
 related_cards:
   - "BO-116"
   - "BO-117"

@@ -61,7 +61,7 @@ card_id: "BO-134"
 set_sort_order: 26
 slug: "skullsatanmon-bo-134"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-134"
+redirect_from: "/card/details/bo-134"
 related_cards:
   - "BO-126"
   - "BO-127"

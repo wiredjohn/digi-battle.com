@@ -58,7 +58,7 @@ card_id: "ST-83"
 set_sort_order: 13
 slug: "cyberdramon-st-83"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-83"
+redirect_from: "/card/details/st-83"
 related_cards:
   - "MP-83"
   - "ST-82"

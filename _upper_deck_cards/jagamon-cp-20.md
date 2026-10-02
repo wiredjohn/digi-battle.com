@@ -51,7 +51,7 @@ card_id: "CP-20"
 set_sort_order: 20
 slug: "jagamon-cp-20"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-20"
+redirect_from: "/card/details/cp-20"
 related_cards:
   - "BO-26"
   - "CP-01"

@@ -53,7 +53,7 @@ card_id: "BO-118"
 set_sort_order: 10
 slug: "gururumon-bo-118"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-118"
+redirect_from: "/card/details/bo-118"
 related_cards:
   - "BO-116"
   - "BO-117"

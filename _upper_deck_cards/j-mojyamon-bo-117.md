@@ -56,7 +56,7 @@ card_id: "BO-117"
 set_sort_order: 9
 slug: "j-mojyamon-bo-117"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-117"
+redirect_from: "/card/details/bo-117"
 related_cards:
   - "BO-116"
   - "BO-118"

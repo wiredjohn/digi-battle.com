@@ -43,7 +43,7 @@ card_id: "CP-19"
 set_sort_order: 19
 slug: "snimon-cp-19"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-19"
+redirect_from: "/card/details/cp-19"
 related_cards:
   - "BO-25"
   - "CP-02"

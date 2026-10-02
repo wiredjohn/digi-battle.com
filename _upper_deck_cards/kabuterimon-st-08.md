@@ -55,7 +55,7 @@ card_id: "ST-08"
 set_sort_order: 8
 slug: "kabuterimon-st-08"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-08"
+redirect_from: "/card/details/st-08"
 related_cards:
   - "ST-02"
   - "ST-04"

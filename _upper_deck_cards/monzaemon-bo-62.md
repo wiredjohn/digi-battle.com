@@ -44,7 +44,7 @@ card_id: "BO-62"
 set_sort_order: 8
 slug: "monzaemon-bo-62"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-62"
+redirect_from: "/card/details/bo-62"
 related_cards:
   - "CP-34"
   - "BO-57"

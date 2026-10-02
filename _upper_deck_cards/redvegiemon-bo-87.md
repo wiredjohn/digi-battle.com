@@ -50,7 +50,7 @@ card_id: "BO-87"
 set_sort_order: 33
 slug: "redvegiemon-bo-87"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-87"
+redirect_from: "/card/details/bo-87"
 related_cards:
   - "BO-56"
   - "BO-58"

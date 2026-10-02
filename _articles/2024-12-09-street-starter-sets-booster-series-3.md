@@ -1,6 +1,6 @@
 ---
 title: "Street Starter Sets & Booster Series 3 through 6"
-redirect_from: "/article/Street-Starter-Sets-Booster-Series-3"
+redirect_from: "/article/street-starter-sets-booster-series-3"
 cover_image: "/assets/img/articles/bandai-digi-battle/bandai-digi-battle-thumbnail.png"
 featured: true
 ---

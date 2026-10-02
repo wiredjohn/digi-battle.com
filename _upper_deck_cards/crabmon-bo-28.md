@@ -47,7 +47,7 @@ card_id: "BO-28"
 set_sort_order: 28
 slug: "crabmon-bo-28"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-28"
+redirect_from: "/card/details/bo-28"
 related_cards:
   - "CP-22"
   - "BO-29"

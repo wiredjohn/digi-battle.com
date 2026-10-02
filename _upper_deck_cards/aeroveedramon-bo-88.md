@@ -50,7 +50,7 @@ card_id: "BO-88"
 set_sort_order: 34
 slug: "aeroveedramon-bo-88"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-88"
+redirect_from: "/card/details/bo-88"
 related_cards:
   - "BO-57"
   - "BO-62"

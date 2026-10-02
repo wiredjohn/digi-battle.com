@@ -60,7 +60,7 @@ card_id: "ST-44"
 set_sort_order: 44
 slug: "wizardmon-st-44"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-44"
+redirect_from: "/card/details/st-44"
 related_cards:
   - "ST-44S"
   - "ST-02"

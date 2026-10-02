@@ -39,7 +39,7 @@ card_id: "MP-118"
 set_sort_order: 56
 slug: "secret-love-mp-118"
 original_language_name: "Amour Secret"
-redirect_from: "/Card/Details/MP-118"
+redirect_from: "/card/details/mp-118"
 related_cards:
   - "MP-111"
   - "MP-112"

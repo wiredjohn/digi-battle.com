@@ -38,7 +38,7 @@ card_id: "BO-50"
 set_sort_order: 50
 slug: "power-freeze-bo-50"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-50"
+redirect_from: "/card/details/bo-50"
 related_cards:
   - "BO-43"
   - "BO-44"

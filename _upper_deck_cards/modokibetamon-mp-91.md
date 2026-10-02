@@ -43,7 +43,7 @@ card_id: "MP-91"
 set_sort_order: 29
 slug: "modokibetamon-mp-91"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-91"
+redirect_from: "/card/details/mp-91"
 related_cards:
   - "MP-63"
   - "MP-64"

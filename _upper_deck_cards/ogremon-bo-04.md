@@ -53,7 +53,7 @@ card_id: "BO-04"
 set_sort_order: 4
 slug: "ogremon-bo-04"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-04"
+redirect_from: "/card/details/bo-04"
 related_cards:
   - "CP-04"
   - "BO-02"

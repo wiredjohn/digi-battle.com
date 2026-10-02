@@ -44,7 +44,7 @@ card_id: "MP-63"
 set_sort_order: 1
 slug: "hagurumon-mp-63"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-63"
+redirect_from: "/card/details/mp-63"
 related_cards:
   - "MP-64"
   - "MP-65"

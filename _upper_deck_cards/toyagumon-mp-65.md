@@ -47,7 +47,7 @@ card_id: "MP-65"
 set_sort_order: 3
 slug: "toyagumon-mp-65"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-65"
+redirect_from: "/card/details/mp-65"
 related_cards:
   - "MP-63"
   - "MP-64"

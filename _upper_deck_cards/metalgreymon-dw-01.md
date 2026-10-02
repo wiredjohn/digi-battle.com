@@ -59,7 +59,7 @@ card_id: "DW-01"
 set_sort_order: 1
 slug: "metalgreymon-dw-01"
 original_language_name: ~
-redirect_from: "/Card/Details/DW-01"
+redirect_from: "/card/details/dw-01"
 related_cards:
   - "BO-01"
   - "BO-80"

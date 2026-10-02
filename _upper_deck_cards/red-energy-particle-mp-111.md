@@ -38,7 +38,7 @@ card_id: "MP-111"
 set_sort_order: 49
 slug: "red-energy-particle-mp-111"
 original_language_name: "Particule Énergie Rouge"
-redirect_from: "/Card/Details/MP-111"
+redirect_from: "/card/details/mp-111"
 related_cards:
   - "MP-112"
   - "MP-113"

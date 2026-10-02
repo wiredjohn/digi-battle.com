@@ -55,7 +55,7 @@ card_id: "ST-22"
 set_sort_order: 22
 slug: "rockmon-st-22"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-22"
+redirect_from: "/card/details/st-22"
 related_cards:
   - "ST-22S"
   - "ST-02"

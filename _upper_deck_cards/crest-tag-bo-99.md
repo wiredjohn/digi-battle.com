@@ -39,7 +39,7 @@ card_id: "BO-99"
 set_sort_order: 45
 slug: "crest-tag-bo-99"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-99"
+redirect_from: "/card/details/bo-99"
 related_cards:
   - "BO-97"
   - "BO-98"

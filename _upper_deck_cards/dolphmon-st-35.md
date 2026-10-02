@@ -52,7 +52,7 @@ card_id: "ST-35"
 set_sort_order: 35
 slug: "dolphmon-st-35"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-35"
+redirect_from: "/card/details/st-35"
 related_cards:
   - "ST-35S"
   - "ST-02"

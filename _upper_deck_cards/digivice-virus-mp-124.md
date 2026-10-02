@@ -38,7 +38,7 @@ card_id: "MP-124"
 set_sort_order: 62
 slug: "digivice-virus-mp-124"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-124"
+redirect_from: "/card/details/mp-124"
 related_cards:
   - "MP-111"
   - "MP-112"

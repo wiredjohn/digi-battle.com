@@ -58,7 +58,7 @@ card_id: "BO-15"
 set_sort_order: 15
 slug: "gatomon-bo-15"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-15"
+redirect_from: "/card/details/bo-15"
 related_cards:
   - "BO-77"
   - "CP-09"

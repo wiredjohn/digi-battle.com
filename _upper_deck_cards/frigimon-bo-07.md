@@ -43,7 +43,7 @@ card_id: "BO-07"
 set_sort_order: 7
 slug: "frigimon-bo-07"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-07"
+redirect_from: "/card/details/bo-07"
 related_cards:
   - "BO-02"
   - "BO-03"

@@ -39,7 +39,7 @@ card_id: "BO-155"
 set_sort_order: 47
 slug: "super-power-bo-155"
 original_language_name: "Super Puissance"
-redirect_from: "/Card/Details/BO-155"
+redirect_from: "/card/details/bo-155"
 related_cards:
   - "BO-143"
   - "BO-144"

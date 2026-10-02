@@ -51,7 +51,7 @@ card_id: "ST-15"
 set_sort_order: 15
 slug: "nanimon-st-15"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-15"
+redirect_from: "/card/details/st-15"
 related_cards:
   - "ST-02"
   - "ST-04"

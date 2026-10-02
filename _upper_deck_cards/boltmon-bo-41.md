@@ -45,7 +45,7 @@ card_id: "BO-41"
 set_sort_order: 41
 slug: "boltmon-bo-41"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-41"
+redirect_from: "/card/details/bo-41"
 related_cards:
   - "TB-11"
   - "BO-17"

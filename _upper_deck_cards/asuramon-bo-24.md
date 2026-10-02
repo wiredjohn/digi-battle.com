@@ -53,7 +53,7 @@ card_id: "BO-24"
 set_sort_order: 24
 slug: "asuramon-bo-24"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-24"
+redirect_from: "/card/details/bo-24"
 related_cards:
   - "CP-18"
   - "BO-01"

@@ -46,7 +46,7 @@ card_id: "DM-01"
 set_sort_order: 3
 slug: "omnimon-dm-01"
 original_language_name: "オムニモン"
-redirect_from: "/Card/Details/DM-01"
+redirect_from: "/card/details/dm-01"
 related_cards:
   - "DM-02"
   - "UN-01"

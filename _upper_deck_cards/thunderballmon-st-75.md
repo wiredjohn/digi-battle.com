@@ -49,7 +49,7 @@ card_id: "ST-75"
 set_sort_order: 9
 slug: "thunderballmon-st-75"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-75"
+redirect_from: "/card/details/st-75"
 related_cards:
   - "MP-75"
   - "ST-71"

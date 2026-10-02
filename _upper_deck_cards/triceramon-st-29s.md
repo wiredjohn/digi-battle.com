@@ -54,7 +54,7 @@ card_id: "ST-29S"
 set_sort_order: 11
 slug: "triceramon-st-29s"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-29S"
+redirect_from: "/card/details/st-29s"
 related_cards:
   - "ST-29"
   - "ST-21S"

@@ -53,7 +53,7 @@ card_id: "BO-11"
 set_sort_order: 11
 slug: "andromon-bo-11"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-11"
+redirect_from: "/card/details/bo-11"
 related_cards:
   - "TB-08"
   - "BO-01"

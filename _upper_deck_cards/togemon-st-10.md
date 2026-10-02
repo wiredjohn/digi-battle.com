@@ -52,7 +52,7 @@ card_id: "ST-10"
 set_sort_order: 10
 slug: "togemon-st-10"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-10"
+redirect_from: "/card/details/st-10"
 related_cards:
   - "BO-84"
   - "ST-02"

@@ -38,7 +38,7 @@ card_id: "MP-113"
 set_sort_order: 51
 slug: "green-energy-particle-mp-113"
 original_language_name: "Particule Énergie Verte"
-redirect_from: "/Card/Details/MP-113"
+redirect_from: "/card/details/mp-113"
 related_cards:
   - "MP-111"
   - "MP-112"

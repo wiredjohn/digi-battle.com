@@ -54,7 +54,7 @@ card_id: "MP-104"
 set_sort_order: 42
 slug: "vermilimon-mp-104"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-104"
+redirect_from: "/card/details/mp-104"
 related_cards:
   - "ST-104"
   - "MP-80"

@@ -51,7 +51,7 @@ card_id: "BO-26"
 set_sort_order: 26
 slug: "jagamon-bo-26"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-26"
+redirect_from: "/card/details/bo-26"
 related_cards:
   - "CP-20"
   - "BO-01"

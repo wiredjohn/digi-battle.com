@@ -39,5 +39,5 @@ cards:
   - "BO-99"
   - "BO-104"
 slug: "the-digi-dudes-nightmare-soldier-deck"
-redirect_from: "/Decks/Details/The-Digi-Dudes-Nightmare-Soldier-Deck"
+redirect_from: "/decks/details/the-digi-dudes-nightmare-soldier-deck"
 ---

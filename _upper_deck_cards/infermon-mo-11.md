@@ -43,7 +43,7 @@ card_id: "MO-11"
 set_sort_order: 11
 slug: "infermon-mo-11"
 original_language_name: ~
-redirect_from: "/Card/Details/MO-11"
+redirect_from: "/card/details/mo-11"
 related_cards:
   - "MO-06"
 ---

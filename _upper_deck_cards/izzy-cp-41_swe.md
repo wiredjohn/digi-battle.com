@@ -39,7 +39,7 @@ card_id: "CP-41_SWE"
 set_sort_order: 32
 slug: "izzy-cp-41_swe"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-41_Swe"
+redirect_from: "/card/details/cp-41_swe"
 related_cards:
   - "CP-41"
   - "FX-04"

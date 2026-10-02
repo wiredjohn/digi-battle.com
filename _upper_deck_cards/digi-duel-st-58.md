@@ -41,7 +41,7 @@ card_id: "ST-58"
 set_sort_order: 58
 slug: "digi-duel-st-58"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-58"
+redirect_from: "/card/details/st-58"
 related_cards:
   - "ST-49"
   - "ST-50"

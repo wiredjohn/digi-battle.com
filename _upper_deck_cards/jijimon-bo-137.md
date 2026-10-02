@@ -50,7 +50,7 @@ card_id: "BO-137"
 set_sort_order: 29
 slug: "jijimon-bo-137"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-137"
+redirect_from: "/card/details/bo-137"
 related_cards:
   - "BO-135"
   - "BO-136"

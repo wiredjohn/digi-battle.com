@@ -38,7 +38,7 @@ card_id: "BO-45"
 set_sort_order: 45
 slug: "aquatic-attack-bo-45"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-45"
+redirect_from: "/card/details/bo-45"
 related_cards:
   - "BO-43"
   - "BO-44"

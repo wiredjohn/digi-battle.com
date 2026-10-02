@@ -50,7 +50,7 @@ card_id: "BO-22"
 set_sort_order: 22
 slug: "ladydevimon-bo-22"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-22"
+redirect_from: "/card/details/bo-22"
 related_cards:
   - "CP-16"
   - "BO-01"

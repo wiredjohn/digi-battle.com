@@ -49,7 +49,7 @@ card_id: "CP-37"
 set_sort_order: 37
 slug: "piedmon-cp-37"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-37"
+redirect_from: "/card/details/cp-37"
 related_cards:
   - "BO-42"
   - "CP-11"

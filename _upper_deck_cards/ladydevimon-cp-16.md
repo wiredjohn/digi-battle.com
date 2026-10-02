@@ -50,7 +50,7 @@ card_id: "CP-16"
 set_sort_order: 16
 slug: "ladydevimon-cp-16"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-16"
+redirect_from: "/card/details/cp-16"
 related_cards:
   - "BO-22"
   - "CP-01"

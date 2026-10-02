@@ -48,7 +48,7 @@ card_id: "BO-133"
 set_sort_order: 25
 slug: "mastertyrannomon-bo-133"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-133"
+redirect_from: "/card/details/bo-133"
 related_cards:
   - "BO-126"
   - "BO-127"

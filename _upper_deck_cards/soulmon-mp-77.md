@@ -56,7 +56,7 @@ card_id: "MP-77"
 set_sort_order: 15
 slug: "soulmon-mp-77"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-77"
+redirect_from: "/card/details/mp-77"
 related_cards:
   - "ST-77"
   - "MP-69"

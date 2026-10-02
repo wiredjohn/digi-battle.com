@@ -50,7 +50,7 @@ card_id: "BO-122"
 set_sort_order: 14
 slug: "geremon-bo-122"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-122"
+redirect_from: "/card/details/bo-122"
 related_cards:
   - "BO-116"
   - "BO-117"

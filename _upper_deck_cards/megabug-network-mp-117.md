@@ -39,7 +39,7 @@ card_id: "MP-117"
 set_sort_order: 55
 slug: "megabug-network-mp-117"
 original_language_name: "Réseau Megabug"
-redirect_from: "/Card/Details/MP-117"
+redirect_from: "/card/details/mp-117"
 related_cards:
   - "MP-111"
   - "MP-112"

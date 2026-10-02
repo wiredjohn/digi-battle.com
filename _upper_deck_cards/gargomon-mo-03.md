@@ -42,7 +42,7 @@ card_id: "MO-03"
 set_sort_order: 3
 slug: "gargomon-mo-03"
 original_language_name: ~
-redirect_from: "/Card/Details/MO-03"
+redirect_from: "/card/details/mo-03"
 related_cards:
   - "MO-04"
   - "MO-05"

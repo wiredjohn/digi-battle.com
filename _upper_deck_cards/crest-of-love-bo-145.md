@@ -38,7 +38,7 @@ card_id: "BO-145"
 set_sort_order: 37
 slug: "crest-of-love-bo-145"
 original_language_name: "Symbole de l'Amour"
-redirect_from: "/Card/Details/BO-145"
+redirect_from: "/card/details/bo-145"
 related_cards:
   - "BO-143"
   - "BO-144"

@@ -39,7 +39,7 @@ card_id: "CP-44_SWE"
 set_sort_order: 35
 slug: "tk-cp-44_swe"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-44_Swe"
+redirect_from: "/card/details/cp-44_swe"
 related_cards:
   - "CP-44"
   - "FX-07"

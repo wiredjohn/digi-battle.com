@@ -38,7 +38,7 @@ card_id: "BO-46"
 set_sort_order: 46
 slug: "fly-away-bo-46"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-46"
+redirect_from: "/card/details/bo-46"
 related_cards:
   - "BO-43"
   - "BO-44"

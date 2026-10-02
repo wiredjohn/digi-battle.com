@@ -54,7 +54,7 @@ card_id: "ST-103"
 set_sort_order: 26
 slug: "metaltyrannomon-st-103"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-103"
+redirect_from: "/card/details/st-103"
 related_cards:
   - "MP-103"
   - "ST-82"

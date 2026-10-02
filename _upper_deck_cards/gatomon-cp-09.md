@@ -58,7 +58,7 @@ card_id: "CP-09"
 set_sort_order: 9
 slug: "gatomon-cp-09"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-09"
+redirect_from: "/card/details/cp-09"
 related_cards:
   - "BO-15"
   - "BO-77"

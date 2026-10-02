@@ -44,7 +44,7 @@ card_id: "CP-34"
 set_sort_order: 34
 slug: "monzaemon-cp-34"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-34"
+redirect_from: "/card/details/cp-34"
 related_cards:
   - "BO-62"
   - "CP-01"

@@ -49,7 +49,7 @@ card_id: "ST-95"
 set_sort_order: 22
 slug: "nisedrimogemon-st-95"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-95"
+redirect_from: "/card/details/st-95"
 related_cards:
   - "MP-95"
   - "ST-71"

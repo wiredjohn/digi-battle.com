@@ -44,7 +44,7 @@ card_id: "MP-105"
 set_sort_order: 43
 slug: "vademon-mp-105"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-105"
+redirect_from: "/card/details/mp-105"
 related_cards:
   - "MP-80"
   - "MP-81"

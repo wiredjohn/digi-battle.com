@@ -51,7 +51,7 @@ card_id: "BO-126"
 set_sort_order: 18
 slug: "divermon-bo-126"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-126"
+redirect_from: "/card/details/bo-126"
 related_cards:
   - "BO-127"
   - "BO-128"

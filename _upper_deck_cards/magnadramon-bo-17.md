@@ -57,7 +57,7 @@ card_id: "BO-17"
 set_sort_order: 17
 slug: "magnadramon-bo-17"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-17"
+redirect_from: "/card/details/bo-17"
 related_cards:
   - "CP-11"
   - "MO-10"

@@ -44,7 +44,7 @@ card_id: "BO-57"
 set_sort_order: 3
 slug: "etemon-bo-57"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-57"
+redirect_from: "/card/details/bo-57"
 related_cards:
   - "CP-29"
   - "BO-62"

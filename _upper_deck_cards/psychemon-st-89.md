@@ -43,7 +43,7 @@ card_id: "ST-89"
 set_sort_order: 17
 slug: "psychemon-st-89"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-89"
+redirect_from: "/card/details/st-89"
 related_cards:
   - "MP-89"
   - "ST-64"

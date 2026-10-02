@@ -53,7 +53,7 @@ card_id: "BO-116"
 set_sort_order: 8
 slug: "fugamon-bo-116"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-116"
+redirect_from: "/card/details/bo-116"
 related_cards:
   - "BO-117"
   - "BO-118"

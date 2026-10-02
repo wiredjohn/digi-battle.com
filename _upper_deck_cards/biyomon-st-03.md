@@ -60,7 +60,7 @@ card_id: "ST-03"
 set_sort_order: 3
 slug: "biyomon-st-03"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-03"
+redirect_from: "/card/details/st-03"
 related_cards:
   - "ST-01"
   - "ST-05"

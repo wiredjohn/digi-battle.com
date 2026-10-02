@@ -45,7 +45,7 @@ card_id: "BO-29"
 set_sort_order: 29
 slug: "syakomon-bo-29"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-29"
+redirect_from: "/card/details/bo-29"
 related_cards:
   - "CP-23"
   - "BO-28"

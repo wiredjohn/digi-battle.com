@@ -45,7 +45,7 @@ card_id: "ST-17"
 set_sort_order: 17
 slug: "centarumon-st-17"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-17"
+redirect_from: "/card/details/st-17"
 related_cards:
   - "TB-05"
   - "ST-02"

@@ -42,7 +42,7 @@ card_id: "BO-110"
 set_sort_order: 2
 slug: "snowagumon-bo-110"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-110"
+redirect_from: "/card/details/bo-110"
 related_cards:
   - "BO-109"
   - "BO-111"

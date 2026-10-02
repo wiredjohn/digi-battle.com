@@ -53,7 +53,7 @@ card_id: "BO-65"
 set_sort_order: 11
 slug: "metalmamemon-bo-65"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-65"
+redirect_from: "/card/details/bo-65"
 related_cards:
   - "BO-57"
   - "BO-62"

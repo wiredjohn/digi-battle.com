@@ -55,7 +55,7 @@ card_id: "MP-100"
 set_sort_order: 38
 slug: "zassomon-mp-100"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-100"
+redirect_from: "/card/details/mp-100"
 related_cards:
   - "MP-69"
   - "MP-70"

@@ -41,7 +41,7 @@ card_id: "MO-09"
 set_sort_order: 9
 slug: "magnamon-mo-09"
 original_language_name: ~
-redirect_from: "/Card/Details/MO-09"
+redirect_from: "/card/details/mo-09"
 related_cards:
   - "MO-03"
   - "MO-04"

@@ -53,7 +53,7 @@ card_id: "CP-24"
 set_sort_order: 24
 slug: "gesomon-cp-24"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-24"
+redirect_from: "/card/details/cp-24"
 related_cards:
   - "BO-30"
   - "CP-02"

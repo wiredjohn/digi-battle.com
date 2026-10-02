@@ -39,7 +39,7 @@ card_id: "MP-114"
 set_sort_order: 52
 slug: "solid-ground-mp-114"
 original_language_name: "Terre Ferme"
-redirect_from: "/Card/Details/MP-114"
+redirect_from: "/card/details/mp-114"
 related_cards:
   - "MP-111"
   - "MP-112"

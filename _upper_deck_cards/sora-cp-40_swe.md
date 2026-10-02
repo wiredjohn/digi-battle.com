@@ -39,7 +39,7 @@ card_id: "CP-40_SWE"
 set_sort_order: 31
 slug: "sora-cp-40_swe"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-40_Swe"
+redirect_from: "/card/details/cp-40_swe"
 related_cards:
   - "CP-40"
   - "FX-03"

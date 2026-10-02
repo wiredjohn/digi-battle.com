@@ -44,7 +44,7 @@ card_id: "ST-90"
 set_sort_order: 18
 slug: "tsukaimon-st-90"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-90"
+redirect_from: "/card/details/st-90"
 related_cards:
   - "MP-90"
   - "ST-64"

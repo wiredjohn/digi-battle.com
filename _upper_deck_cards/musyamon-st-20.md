@@ -49,7 +49,7 @@ card_id: "ST-20"
 set_sort_order: 20
 slug: "musyamon-st-20"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-20"
+redirect_from: "/card/details/st-20"
 related_cards:
   - "ST-20S"
   - "ST-02"

@@ -48,7 +48,7 @@ card_id: "BO-121"
 set_sort_order: 13
 slug: "akatorimon-bo-121"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-121"
+redirect_from: "/card/details/bo-121"
 related_cards:
   - "BO-116"
   - "BO-117"

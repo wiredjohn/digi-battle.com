@@ -39,7 +39,7 @@ card_id: "FX-07"
 set_sort_order: 7
 slug: "tk-fx-07"
 original_language_name: ~
-redirect_from: "/Card/Details/FX-07"
+redirect_from: "/card/details/fx-07"
 related_cards:
   - "CP-44"
   - "CP-44_SWE"

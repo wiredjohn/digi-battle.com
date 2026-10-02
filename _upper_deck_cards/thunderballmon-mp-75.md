@@ -49,7 +49,7 @@ card_id: "MP-75"
 set_sort_order: 13
 slug: "thunderballmon-mp-75"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-75"
+redirect_from: "/card/details/mp-75"
 related_cards:
   - "ST-75"
   - "MP-69"

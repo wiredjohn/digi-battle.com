@@ -51,7 +51,7 @@ card_id: "MP-92"
 set_sort_order: 30
 slug: "platinumsukamon-mp-92"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-92"
+redirect_from: "/card/details/mp-92"
 related_cards:
   - "ST-92"
   - "MP-69"

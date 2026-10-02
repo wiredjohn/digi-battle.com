@@ -39,7 +39,7 @@ card_id: "BO-154"
 set_sort_order: 46
 slug: "double-power-bo-154"
 original_language_name: "Double Puissance"
-redirect_from: "/Card/Details/BO-154"
+redirect_from: "/card/details/bo-154"
 related_cards:
   - "BO-143"
   - "BO-144"

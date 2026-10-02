@@ -55,7 +55,7 @@ card_id: "MP-69"
 set_sort_order: 7
 slug: "tankmon-mp-69"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-69"
+redirect_from: "/card/details/mp-69"
 related_cards:
   - "MP-70"
   - "MP-71"

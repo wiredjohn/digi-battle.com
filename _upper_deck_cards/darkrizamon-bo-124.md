@@ -54,7 +54,7 @@ card_id: "BO-124"
 set_sort_order: 16
 slug: "darkrizamon-bo-124"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-124"
+redirect_from: "/card/details/bo-124"
 related_cards:
   - "BO-116"
   - "BO-117"

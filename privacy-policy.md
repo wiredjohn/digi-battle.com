@@ -2,7 +2,8 @@
 layout: default
 title: Privacy Policy
 seo_description: "Digi-Battle.com privacy policy"
-redirect_from: "/Home/Privacy"
+permalink: "/privacy-policy"
+redirect_from: "/home/privacy"
 ---
 
 # {{page.title}}

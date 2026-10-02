@@ -48,7 +48,7 @@ card_id: "MP-109"
 set_sort_order: 47
 slug: "babamon-mp-109"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-109"
+redirect_from: "/card/details/mp-109"
 related_cards:
   - "MP-84"
   - "MP-85"

@@ -55,7 +55,7 @@ card_id: "MP-86"
 set_sort_order: 24
 slug: "icedevimon-mp-86"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-86"
+redirect_from: "/card/details/mp-86"
 related_cards:
   - "MP-69"
   - "MP-70"

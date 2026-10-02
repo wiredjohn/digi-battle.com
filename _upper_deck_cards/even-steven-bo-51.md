@@ -38,7 +38,7 @@ card_id: "BO-51"
 set_sort_order: 51
 slug: "even-steven-bo-51"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-51"
+redirect_from: "/card/details/bo-51"
 related_cards:
   - "BO-43"
   - "BO-44"

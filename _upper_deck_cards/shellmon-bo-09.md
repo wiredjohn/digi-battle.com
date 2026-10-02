@@ -46,7 +46,7 @@ card_id: "BO-09"
 set_sort_order: 9
 slug: "shellmon-bo-09"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-09"
+redirect_from: "/card/details/bo-09"
 related_cards:
   - "BO-02"
   - "BO-03"

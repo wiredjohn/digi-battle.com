@@ -55,7 +55,7 @@ card_id: "BO-33"
 set_sort_order: 33
 slug: "dragomon-bo-33"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-33"
+redirect_from: "/card/details/bo-33"
 related_cards:
   - "BO-01"
   - "BO-08"

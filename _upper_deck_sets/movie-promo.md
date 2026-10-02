@@ -2,7 +2,7 @@
 name: "Movie Promo"
 set_description: "The Movie Promo set was distributed at movie theaters to people attending Digimon: The Movie in the year 2000. Each pack contained 1 card."
 slug: "movie-promo"
-redirect_from: "/Sets/MoviePromo"
+redirect_from: "/sets/moviepromo"
 languages:
   - name: English
     editions:

@@ -39,5 +39,5 @@ cards:
   - "ST-103"
   - "BO-133"
 slug: "ccgreplays-gazimon-deck"
-redirect_from: "/Decks/Details/CCGReplays-Gazimon-Deck"
+redirect_from: "/decks/details/ccgreplays-gazimon-deck"
 ---

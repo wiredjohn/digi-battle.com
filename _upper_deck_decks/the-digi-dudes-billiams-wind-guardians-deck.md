@@ -39,5 +39,5 @@ cards:
   - "BO-95"
   - "BO-96"
 slug: "the-digi-dudes-billiams-wind-guardians-deck"
-redirect_from: "/Decks/Details/The-Digi-Dudes-Billiams-Wind-Guardians-Deck"
+redirect_from: "/decks/details/the-digi-dudes-billiams-wind-guardians-deck"
 ---

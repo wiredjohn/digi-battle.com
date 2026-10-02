@@ -47,7 +47,7 @@ card_id: "BO-119"
 set_sort_order: 11
 slug: "saberdramon-bo-119"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-119"
+redirect_from: "/card/details/bo-119"
 related_cards:
   - "BO-116"
   - "BO-117"

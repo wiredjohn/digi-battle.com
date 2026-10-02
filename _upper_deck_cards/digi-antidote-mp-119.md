@@ -38,7 +38,7 @@ card_id: "MP-119"
 set_sort_order: 57
 slug: "digi-antidote-mp-119"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-119"
+redirect_from: "/card/details/mp-119"
 related_cards:
   - "MP-111"
   - "MP-112"

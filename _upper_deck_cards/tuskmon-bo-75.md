@@ -49,7 +49,7 @@ card_id: "BO-75"
 set_sort_order: 21
 slug: "tuskmon-bo-75"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-75"
+redirect_from: "/card/details/bo-75"
 related_cards:
   - "BO-56"
   - "BO-58"

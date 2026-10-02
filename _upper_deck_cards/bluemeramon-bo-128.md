@@ -53,7 +53,7 @@ card_id: "BO-128"
 set_sort_order: 20
 slug: "bluemeramon-bo-128"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-128"
+redirect_from: "/card/details/bo-128"
 related_cards:
   - "BO-126"
   - "BO-127"

@@ -49,7 +49,7 @@ card_id: "ST-13"
 set_sort_order: 13
 slug: "patamon-st-13"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-13"
+redirect_from: "/card/details/st-13"
 related_cards:
   - "ST-01"
   - "ST-03"

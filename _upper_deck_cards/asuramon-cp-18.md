@@ -53,7 +53,7 @@ card_id: "CP-18"
 set_sort_order: 18
 slug: "asuramon-cp-18"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-18"
+redirect_from: "/card/details/cp-18"
 related_cards:
   - "BO-24"
   - "CP-01"

@@ -49,7 +49,7 @@ card_id: "BO-27"
 set_sort_order: 27
 slug: "metaletemon-bo-27"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-27"
+redirect_from: "/card/details/bo-27"
 related_cards:
   - "CP-21"
   - "BO-17"

@@ -49,7 +49,7 @@ card_id: "BO-72"
 set_sort_order: 18
 slug: "raremon-bo-72"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-72"
+redirect_from: "/card/details/bo-72"
 related_cards:
   - "BO-56"
   - "BO-58"

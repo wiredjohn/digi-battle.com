@@ -40,7 +40,7 @@ card_id: "BO-152"
 set_sort_order: 44
 slug: "revenge-bo-152"
 original_language_name: "Revanche"
-redirect_from: "/Card/Details/BO-152"
+redirect_from: "/card/details/bo-152"
 related_cards:
   - "BO-143"
   - "BO-144"

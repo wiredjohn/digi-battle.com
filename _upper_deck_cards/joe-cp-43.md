@@ -39,7 +39,7 @@ card_id: "CP-43"
 set_sort_order: 43
 slug: "joe-cp-43"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-43"
+redirect_from: "/card/details/cp-43"
 related_cards:
   - "FX-06"
   - "CP-43_SWE"

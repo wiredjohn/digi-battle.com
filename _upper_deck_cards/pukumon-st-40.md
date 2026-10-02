@@ -48,7 +48,7 @@ card_id: "ST-40"
 set_sort_order: 40
 slug: "pukumon-st-40"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-40"
+redirect_from: "/card/details/st-40"
 related_cards:
   - "ST-40S"
   - "ST-33"

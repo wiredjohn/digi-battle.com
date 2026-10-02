@@ -45,7 +45,7 @@ card_id: "BO-66"
 set_sort_order: 12
 slug: "tyrannomon-bo-66"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-66"
+redirect_from: "/card/details/bo-66"
 related_cards:
   - "BO-56"
   - "BO-58"

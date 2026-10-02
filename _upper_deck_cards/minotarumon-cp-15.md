@@ -49,7 +49,7 @@ card_id: "CP-15"
 set_sort_order: 15
 slug: "minotarumon-cp-15"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-15"
+redirect_from: "/card/details/cp-15"
 related_cards:
   - "BO-21"
   - "CP-01"

@@ -51,7 +51,7 @@ card_id: "TB-03"
 set_sort_order: 3
 slug: "palmon-tb-03"
 original_language_name: ~
-redirect_from: "/Card/Details/TB-03"
+redirect_from: "/card/details/tb-03"
 related_cards:
   - "ST-09"
   - "TB-01"

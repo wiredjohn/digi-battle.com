@@ -39,7 +39,7 @@ card_id: "CP-38_SWE"
 set_sort_order: 29
 slug: "tai-cp-38_swe"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-38_Swe"
+redirect_from: "/card/details/cp-38_swe"
 related_cards:
   - "CP-38"
   - "FX-01"

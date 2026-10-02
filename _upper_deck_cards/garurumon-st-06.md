@@ -54,7 +54,7 @@ card_id: "ST-06"
 set_sort_order: 6
 slug: "garurumon-st-06"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-06"
+redirect_from: "/card/details/st-06"
 related_cards:
   - "ST-02"
   - "ST-04"

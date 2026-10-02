@@ -38,7 +38,7 @@ card_id: "BO-114"
 set_sort_order: 6
 slug: "keramon-bo-114"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-114"
+redirect_from: "/card/details/bo-114"
 related_cards:
   - "BO-109"
   - "BO-110"

@@ -42,7 +42,7 @@ card_id: "ST-67"
 set_sort_order: 3
 slug: "goburimon-st-67"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-67"
+redirect_from: "/card/details/st-67"
 related_cards:
   - "MP-67"
   - "ST-64"

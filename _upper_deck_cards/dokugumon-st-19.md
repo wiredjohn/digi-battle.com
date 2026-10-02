@@ -50,7 +50,7 @@ card_id: "ST-19"
 set_sort_order: 19
 slug: "dokugumon-st-19"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-19"
+redirect_from: "/card/details/st-19"
 related_cards:
   - "ST-19S"
   - "ST-02"

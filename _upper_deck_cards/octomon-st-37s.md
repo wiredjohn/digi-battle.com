@@ -52,7 +52,7 @@ card_id: "ST-37S"
 set_sort_order: 17
 slug: "octomon-st-37s"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-37S"
+redirect_from: "/card/details/st-37s"
 related_cards:
   - "ST-37"
   - "ST-19S"

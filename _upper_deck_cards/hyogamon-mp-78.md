@@ -54,7 +54,7 @@ card_id: "MP-78"
 set_sort_order: 16
 slug: "hyogamon-mp-78"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-78"
+redirect_from: "/card/details/mp-78"
 related_cards:
   - "MP-69"
   - "MP-70"

@@ -49,7 +49,7 @@ card_id: "BO-90"
 set_sort_order: 36
 slug: "blossomon-bo-90"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-90"
+redirect_from: "/card/details/bo-90"
 related_cards:
   - "BO-57"
   - "BO-62"

@@ -55,7 +55,7 @@ card_id: "ST-02"
 set_sort_order: 2
 slug: "greymon-st-02"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-02"
+redirect_from: "/card/details/st-02"
 related_cards:
   - "ST-04"
   - "ST-06"

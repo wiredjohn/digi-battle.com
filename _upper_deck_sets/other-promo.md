@@ -2,7 +2,7 @@
 name: "Other Promo"
 set_description: "This isn't an official Digi-Battle set, it's a collection of the other miscellaneous promotional cards from 1-off releases."
 slug: "other-promo"
-redirect_from: "/Sets/OtherPromo"
+redirect_from: "/sets/otherpromo"
 languages:
   - name: English
     editions:

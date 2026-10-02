@@ -38,7 +38,7 @@ card_id: "BO-103"
 set_sort_order: 49
 slug: "crest-of-friendship-bo-103"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-103"
+redirect_from: "/card/details/bo-103"
 related_cards:
   - "BO-97"
   - "BO-98"

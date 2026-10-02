@@ -51,7 +51,7 @@ card_id: "MP-85"
 set_sort_order: 23
 slug: "metalgarurumon-mp-85"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-85"
+redirect_from: "/card/details/mp-85"
 related_cards:
   - "ST-85"
   - "MP-84"

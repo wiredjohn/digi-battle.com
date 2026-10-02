@@ -47,7 +47,7 @@ card_id: "CP-33"
 set_sort_order: 33
 slug: "elecmon-cp-33"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-33"
+redirect_from: "/card/details/cp-33"
 related_cards:
   - "BO-61"
   - "CP-22"

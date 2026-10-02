@@ -55,7 +55,7 @@ card_id: "MP-70"
 set_sort_order: 8
 slug: "deputymon-mp-70"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-70"
+redirect_from: "/card/details/mp-70"
 related_cards:
   - "MP-69"
   - "MP-71"

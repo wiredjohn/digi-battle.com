@@ -50,7 +50,7 @@ card_id: "ST-05"
 set_sort_order: 5
 slug: "gabumon-st-05"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-05"
+redirect_from: "/card/details/st-05"
 related_cards:
   - "ST-01"
   - "ST-03"

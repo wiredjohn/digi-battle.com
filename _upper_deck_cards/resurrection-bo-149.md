@@ -39,7 +39,7 @@ card_id: "BO-149"
 set_sort_order: 41
 slug: "resurrection-bo-149"
 original_language_name: "Résurrection"
-redirect_from: "/Card/Details/BO-149"
+redirect_from: "/card/details/bo-149"
 related_cards:
   - "BO-143"
   - "BO-144"

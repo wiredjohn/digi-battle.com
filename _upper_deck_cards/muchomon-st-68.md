@@ -40,7 +40,7 @@ card_id: "ST-68"
 set_sort_order: 4
 slug: "muchomon-st-68"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-68"
+redirect_from: "/card/details/st-68"
 related_cards:
   - "MP-68"
   - "ST-64"

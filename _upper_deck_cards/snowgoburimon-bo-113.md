@@ -38,7 +38,7 @@ card_id: "BO-113"
 set_sort_order: 5
 slug: "snowgoburimon-bo-113"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-113"
+redirect_from: "/card/details/bo-113"
 related_cards:
   - "BO-109"
   - "BO-110"

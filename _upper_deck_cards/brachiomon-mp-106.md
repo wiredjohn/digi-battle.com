@@ -55,7 +55,7 @@ card_id: "MP-106"
 set_sort_order: 44
 slug: "brachiomon-mp-106"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-106"
+redirect_from: "/card/details/mp-106"
 related_cards:
   - "ST-106"
   - "MP-80"

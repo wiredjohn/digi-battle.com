@@ -2,7 +2,7 @@
 title: "Digi-Battle Game Rules"
 cover_image: "/assets/img/articles/how-to-play/playmat-thumb.png"
 featured: true
-redirect_from: "/Game/Rules"
+redirect_from: "/game/rules"
 ---
 
 If you want to actually play the Digi-Battle card game you'll need to know the rules. The rules have already been explained in great detail on a few other sites so I'll simply link you to them here.

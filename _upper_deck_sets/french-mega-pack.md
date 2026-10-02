@@ -2,7 +2,7 @@
 name: "French Mega Pack"
 set_description: "The French Mega Pack was a 2 player starter deck exclusive France. A French language set with some Digimon never getting an English print."
 slug: "french-mega-pack"
-redirect_from: "/Sets/FrenchMegaPack"
+redirect_from: "/sets/frenchmegapack"
 languages:
   - name: English
     editions:

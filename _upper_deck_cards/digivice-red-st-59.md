@@ -38,7 +38,7 @@ card_id: "ST-59"
 set_sort_order: 59
 slug: "digivice-red-st-59"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-59"
+redirect_from: "/card/details/st-59"
 related_cards:
   - "ST-49"
   - "ST-50"

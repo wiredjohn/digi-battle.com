@@ -54,7 +54,7 @@ card_id: "BO-01"
 set_sort_order: 1
 slug: "metalgreymon-bo-01"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-01"
+redirect_from: "/card/details/bo-01"
 related_cards:
   - "BO-80"
   - "CP-01"

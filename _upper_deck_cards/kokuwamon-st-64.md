@@ -46,7 +46,7 @@ card_id: "ST-64"
 set_sort_order: 1
 slug: "kokuwamon-st-64"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-64"
+redirect_from: "/card/details/st-64"
 related_cards:
   - "MP-64"
   - "ST-66"

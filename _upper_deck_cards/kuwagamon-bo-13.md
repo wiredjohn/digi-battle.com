@@ -57,7 +57,7 @@ card_id: "BO-13"
 set_sort_order: 13
 slug: "kuwagamon-bo-13"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-13"
+redirect_from: "/card/details/bo-13"
 related_cards:
   - "TB-04"
   - "CP-07"

@@ -39,7 +39,7 @@ card_id: "BO-109"
 set_sort_order: 1
 slug: "penguinmon-bo-109"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-109"
+redirect_from: "/card/details/bo-109"
 related_cards:
   - "BO-110"
   - "BO-111"

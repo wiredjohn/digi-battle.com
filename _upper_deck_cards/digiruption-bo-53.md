@@ -38,7 +38,7 @@ card_id: "BO-53"
 set_sort_order: 53
 slug: "digiruption-bo-53"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-53"
+redirect_from: "/card/details/bo-53"
 related_cards:
   - "BO-43"
   - "BO-44"

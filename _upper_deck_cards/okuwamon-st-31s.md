@@ -55,7 +55,7 @@ card_id: "ST-31S"
 set_sort_order: 13
 slug: "okuwamon-st-31s"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-31S"
+redirect_from: "/card/details/st-31s"
 related_cards:
   - "TB-09"
   - "ST-31"

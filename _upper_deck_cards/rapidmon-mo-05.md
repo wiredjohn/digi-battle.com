@@ -42,7 +42,7 @@ card_id: "MO-05"
 set_sort_order: 5
 slug: "rapidmon-mo-05"
 original_language_name: ~
-redirect_from: "/Card/Details/MO-05"
+redirect_from: "/card/details/mo-05"
 related_cards:
   - "MO-03"
   - "MO-04"

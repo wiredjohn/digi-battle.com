@@ -54,7 +54,7 @@ card_id: "MP-98"
 set_sort_order: 36
 slug: "vegiemon-mp-98"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-98"
+redirect_from: "/card/details/mp-98"
 related_cards:
   - "ST-98"
   - "MP-69"

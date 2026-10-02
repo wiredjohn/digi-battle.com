@@ -54,7 +54,7 @@ card_id: "BO-64"
 set_sort_order: 10
 slug: "mamemon-bo-64"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-64"
+redirect_from: "/card/details/bo-64"
 related_cards:
   - "CP-36"
   - "BO-57"

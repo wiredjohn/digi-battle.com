@@ -41,7 +41,7 @@ card_id: "BO-81"
 set_sort_order: 27
 slug: "floramon-bo-81"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-81"
+redirect_from: "/card/details/bo-81"
 related_cards:
   - "BO-60"
   - "BO-61"

@@ -38,7 +38,7 @@ card_id: "MO-02"
 set_sort_order: 2
 slug: "lopmon-mo-02"
 original_language_name: ~
-redirect_from: "/Card/Details/MO-02"
+redirect_from: "/card/details/mo-02"
 related_cards:
   - "MO-01"
 ---

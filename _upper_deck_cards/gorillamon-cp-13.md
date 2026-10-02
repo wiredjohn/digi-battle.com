@@ -47,7 +47,7 @@ card_id: "CP-13"
 set_sort_order: 13
 slug: "gorillamon-cp-13"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-13"
+redirect_from: "/card/details/cp-13"
 related_cards:
   - "BO-19"
   - "CP-02"

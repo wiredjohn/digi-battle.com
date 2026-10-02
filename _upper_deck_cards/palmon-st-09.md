@@ -51,7 +51,7 @@ card_id: "ST-09"
 set_sort_order: 9
 slug: "palmon-st-09"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-09"
+redirect_from: "/card/details/st-09"
 related_cards:
   - "TB-03"
   - "ST-01"

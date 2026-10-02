@@ -39,7 +39,7 @@ card_id: "BO-150"
 set_sort_order: 42
 slug: "booster-chip-bo-150"
 original_language_name: "Puce Booster"
-redirect_from: "/Card/Details/BO-150"
+redirect_from: "/card/details/bo-150"
 related_cards:
   - "BO-143"
   - "BO-144"

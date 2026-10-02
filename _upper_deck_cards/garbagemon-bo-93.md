@@ -51,7 +51,7 @@ card_id: "BO-93"
 set_sort_order: 39
 slug: "garbagemon-bo-93"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-93"
+redirect_from: "/card/details/bo-93"
 related_cards:
   - "BO-57"
   - "BO-62"

@@ -61,7 +61,7 @@ card_id: "ST-30"
 set_sort_order: 30
 slug: "piximon-st-30"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-30"
+redirect_from: "/card/details/st-30"
 related_cards:
   - "ST-30S"
   - "ST-21"

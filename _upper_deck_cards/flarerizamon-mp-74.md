@@ -55,7 +55,7 @@ card_id: "MP-74"
 set_sort_order: 12
 slug: "flarerizamon-mp-74"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-74"
+redirect_from: "/card/details/mp-74"
 related_cards:
   - "ST-74"
   - "MP-69"

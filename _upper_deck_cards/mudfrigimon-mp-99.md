@@ -49,7 +49,7 @@ card_id: "MP-99"
 set_sort_order: 37
 slug: "mudfrigimon-mp-99"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-99"
+redirect_from: "/card/details/mp-99"
 related_cards:
   - "MP-69"
   - "MP-70"

@@ -39,7 +39,7 @@ card_id: "MO-01"
 set_sort_order: 1
 slug: "terriermon-mo-01"
 original_language_name: ~
-redirect_from: "/Card/Details/MO-01"
+redirect_from: "/card/details/mo-01"
 related_cards:
   - "MO-02"
 ---

@@ -55,7 +55,7 @@ card_id: "TB-08"
 set_sort_order: 8
 slug: "andromon-tb-08"
 original_language_name: ~
-redirect_from: "/Card/Details/TB-08"
+redirect_from: "/card/details/tb-08"
 related_cards:
   - "BO-11"
   - "TB-07"

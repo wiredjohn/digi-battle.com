@@ -49,7 +49,7 @@ card_id: "BO-42"
 set_sort_order: 42
 slug: "piedmon-bo-42"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-42"
+redirect_from: "/card/details/bo-42"
 related_cards:
   - "CP-37"
   - "BO-17"

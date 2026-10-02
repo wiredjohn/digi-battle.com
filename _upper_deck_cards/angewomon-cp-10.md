@@ -54,7 +54,7 @@ card_id: "CP-10"
 set_sort_order: 10
 slug: "angewomon-cp-10"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-10"
+redirect_from: "/card/details/cp-10"
 related_cards:
   - "BO-16"
   - "CP-01"

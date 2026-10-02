@@ -39,5 +39,5 @@ cards:
   - "ST-60"
   - "ST-61"
 slug: "teamcriticaltrigger-custom-starter-deck"
-redirect_from: "/Decks/Details/TeamCriticalTrigger-Custom-Starter-Deck"
+redirect_from: "/decks/details/teamcriticaltrigger-custom-starter-deck"
 ---

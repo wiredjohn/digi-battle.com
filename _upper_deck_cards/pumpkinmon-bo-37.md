@@ -55,7 +55,7 @@ card_id: "BO-37"
 set_sort_order: 37
 slug: "pumpkinmon-bo-37"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-37"
+redirect_from: "/card/details/bo-37"
 related_cards:
   - "BO-01"
   - "BO-08"

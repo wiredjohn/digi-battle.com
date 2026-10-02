@@ -54,7 +54,7 @@ card_id: "ST-36"
 set_sort_order: 36
 slug: "coelamon-st-36"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-36"
+redirect_from: "/card/details/st-36"
 related_cards:
   - "ST-36S"
   - "ST-02"

@@ -60,7 +60,7 @@ card_id: "MP-80"
 set_sort_order: 18
 slug: "warumonzaemon-mp-80"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-80"
+redirect_from: "/card/details/mp-80"
 related_cards:
   - "MP-81"
   - "MP-82"

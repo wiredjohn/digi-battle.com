@@ -38,5 +38,5 @@ cards:
   - "BO-100"
   - "ST-28S"
 slug: "queenroadkillcandy-vaccine-deck"
-redirect_from: "/Decks/Details/QueenRoadKillCandy-Vaccine-Deck"
+redirect_from: "/decks/details/queenroadkillcandy-vaccine-deck"
 ---

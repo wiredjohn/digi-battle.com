@@ -63,7 +63,7 @@ card_id: "MP-81"
 set_sort_order: 19
 slug: "bigmamemon-mp-81"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-81"
+redirect_from: "/card/details/mp-81"
 related_cards:
   - "MP-80"
   - "MP-82"

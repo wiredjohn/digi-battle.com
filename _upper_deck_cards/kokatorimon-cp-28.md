@@ -43,7 +43,7 @@ card_id: "CP-28"
 set_sort_order: 28
 slug: "kokatorimon-cp-28"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-28"
+redirect_from: "/card/details/cp-28"
 related_cards:
   - "BO-56"
   - "CP-02"
