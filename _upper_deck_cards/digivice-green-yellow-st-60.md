@@ -38,7 +38,7 @@ card_id: "ST-60"
 set_sort_order: 60
 slug: "digivice-green-yellow-st-60"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-60"
+redirect_from: "/card/details/st-60"
 related_cards:
   - "ST-49"
   - "ST-50"

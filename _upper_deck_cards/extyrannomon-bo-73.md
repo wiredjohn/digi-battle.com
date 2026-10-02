@@ -43,7 +43,7 @@ card_id: "BO-73"
 set_sort_order: 19
 slug: "extyrannomon-bo-73"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-73"
+redirect_from: "/card/details/bo-73"
 related_cards:
   - "BO-57"
   - "BO-62"

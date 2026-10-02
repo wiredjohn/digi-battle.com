@@ -49,7 +49,7 @@ card_id: "BO-34"
 set_sort_order: 34
 slug: "marineangemon-bo-34"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-34"
+redirect_from: "/card/details/bo-34"
 related_cards:
   - "BO-17"
   - "BO-27"

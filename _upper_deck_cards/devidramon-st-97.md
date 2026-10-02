@@ -55,7 +55,7 @@ card_id: "ST-97"
 set_sort_order: 24
 slug: "devidramon-st-97"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-97"
+redirect_from: "/card/details/st-97"
 related_cards:
   - "MP-97"
   - "ST-71"

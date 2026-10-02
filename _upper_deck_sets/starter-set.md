@@ -2,7 +2,7 @@
 name: "Starter Set"
 set_description: "Released in February 2000 with the launch of the Digi-Battle, this set has enough cards for 2 players to learn and play the game."
 slug: "starter-set"
-redirect_from: "/Sets/StarterSet"
+redirect_from: "/sets/starterset"
 languages:
   - name: English
     editions:

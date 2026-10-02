@@ -57,7 +57,7 @@ card_id: "ST-82"
 set_sort_order: 12
 slug: "knightmon-st-82"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-82"
+redirect_from: "/card/details/st-82"
 related_cards:
   - "MP-82"
   - "ST-83"

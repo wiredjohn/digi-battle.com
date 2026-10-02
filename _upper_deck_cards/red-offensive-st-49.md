@@ -38,7 +38,7 @@ card_id: "ST-49"
 set_sort_order: 49
 slug: "red-offensive-st-49"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-49"
+redirect_from: "/card/details/st-49"
 related_cards:
   - "ST-50"
   - "ST-51"

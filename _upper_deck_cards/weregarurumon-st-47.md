@@ -55,7 +55,7 @@ card_id: "ST-47"
 set_sort_order: 47
 slug: "weregarurumon-st-47"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-47"
+redirect_from: "/card/details/st-47"
 related_cards:
   - "ST-47S"
   - "ST-21"

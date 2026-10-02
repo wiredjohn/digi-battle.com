@@ -55,7 +55,7 @@ card_id: "BO-120"
 set_sort_order: 12
 slug: "icemon-bo-120"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-120"
+redirect_from: "/card/details/bo-120"
 related_cards:
   - "BO-116"
   - "BO-117"

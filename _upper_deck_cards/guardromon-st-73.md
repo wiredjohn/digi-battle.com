@@ -56,7 +56,7 @@ card_id: "ST-73"
 set_sort_order: 7
 slug: "guardromon-st-73"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-73"
+redirect_from: "/card/details/st-73"
 related_cards:
   - "MP-73"
   - "ST-71"

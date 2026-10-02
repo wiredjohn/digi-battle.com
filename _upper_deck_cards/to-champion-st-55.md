@@ -38,7 +38,7 @@ card_id: "ST-55"
 set_sort_order: 55
 slug: "to-champion-st-55"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-55"
+redirect_from: "/card/details/st-55"
 related_cards:
   - "ST-49"
   - "ST-50"

@@ -43,7 +43,7 @@ card_id: "BO-95"
 set_sort_order: 41
 slug: "gryphonmon-bo-95"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-95"
+redirect_from: "/card/details/bo-95"
 related_cards:
   - "BO-55"
   - "BO-94"

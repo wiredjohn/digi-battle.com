@@ -49,7 +49,7 @@ card_id: "MP-101"
 set_sort_order: 39
 slug: "yanmamon-mp-101"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-101"
+redirect_from: "/card/details/mp-101"
 related_cards:
   - "MP-69"
   - "MP-70"

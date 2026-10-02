@@ -38,7 +38,7 @@ card_id: "ST-56"
 set_sort_order: 56
 slug: "ultra-digivolve-st-56"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-56"
+redirect_from: "/card/details/st-56"
 related_cards:
   - "ST-49"
   - "ST-50"

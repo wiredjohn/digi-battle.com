@@ -38,7 +38,7 @@ card_id: "MP-121"
 set_sort_order: 59
 slug: "digivice-vaccine-mp-121"
 original_language_name: "Digivice Anti-Virus"
-redirect_from: "/Card/Details/MP-121"
+redirect_from: "/card/details/mp-121"
 related_cards:
   - "MP-111"
   - "MP-112"

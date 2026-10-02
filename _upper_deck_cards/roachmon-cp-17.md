@@ -48,7 +48,7 @@ card_id: "CP-17"
 set_sort_order: 17
 slug: "roachmon-cp-17"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-17"
+redirect_from: "/card/details/cp-17"
 related_cards:
   - "BO-23"
   - "CP-02"

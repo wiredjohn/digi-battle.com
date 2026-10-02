@@ -51,7 +51,7 @@ card_id: "MP-71"
 set_sort_order: 9
 slug: "mekanorimon-mp-71"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-71"
+redirect_from: "/card/details/mp-71"
 related_cards:
   - "ST-71"
   - "MP-69"

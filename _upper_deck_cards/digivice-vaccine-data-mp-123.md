@@ -38,7 +38,7 @@ card_id: "MP-123"
 set_sort_order: 61
 slug: "digivice-vaccine-data-mp-123"
 original_language_name: "Digivice Anti-Virus & Donnée"
-redirect_from: "/Card/Details/MP-123"
+redirect_from: "/card/details/mp-123"
 related_cards:
   - "MP-111"
   - "MP-112"

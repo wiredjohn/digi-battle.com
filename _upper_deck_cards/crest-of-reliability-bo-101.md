@@ -38,7 +38,7 @@ card_id: "BO-101"
 set_sort_order: 47
 slug: "crest-of-reliability-bo-101"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-101"
+redirect_from: "/card/details/bo-101"
 related_cards:
   - "BO-97"
   - "BO-98"

@@ -38,7 +38,7 @@ card_id: "BO-44"
 set_sort_order: 44
 slug: "coral-rip-bo-44"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-44"
+redirect_from: "/card/details/bo-44"
 related_cards:
   - "BO-43"
   - "BO-45"

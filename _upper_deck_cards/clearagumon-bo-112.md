@@ -40,7 +40,7 @@ card_id: "BO-112"
 set_sort_order: 4
 slug: "clearagumon-bo-112"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-112"
+redirect_from: "/card/details/bo-112"
 related_cards:
   - "BO-109"
   - "BO-110"

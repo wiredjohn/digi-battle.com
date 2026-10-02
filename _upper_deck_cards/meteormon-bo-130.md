@@ -48,7 +48,7 @@ card_id: "BO-130"
 set_sort_order: 22
 slug: "meteormon-bo-130"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-130"
+redirect_from: "/card/details/bo-130"
 related_cards:
   - "BO-126"
   - "BO-127"

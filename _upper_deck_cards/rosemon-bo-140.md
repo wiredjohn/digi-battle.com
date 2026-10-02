@@ -48,7 +48,7 @@ card_id: "BO-140"
 set_sort_order: 32
 slug: "rosemon-bo-140"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-140"
+redirect_from: "/card/details/bo-140"
 related_cards:
   - "BO-135"
   - "BO-136"

@@ -43,7 +43,7 @@ card_id: "MO-04"
 set_sort_order: 4
 slug: "wendigomon-mo-04"
 original_language_name: ~
-redirect_from: "/Card/Details/MO-04"
+redirect_from: "/card/details/mo-04"
 related_cards:
   - "MO-03"
   - "MO-05"

@@ -55,7 +55,7 @@ card_id: "MP-79"
 set_sort_order: 17
 slug: "piddomon-mp-79"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-79"
+redirect_from: "/card/details/mp-79"
 related_cards:
   - "MP-69"
   - "MP-70"

@@ -61,7 +61,7 @@ card_id: "ST-25"
 set_sort_order: 25
 slug: "tortomon-st-25"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-25"
+redirect_from: "/card/details/st-25"
 related_cards:
   - "ST-25S"
   - "ST-02"

@@ -57,7 +57,7 @@ card_id: "ST-48"
 set_sort_order: 48
 slug: "skullmeramon-st-48"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-48"
+redirect_from: "/card/details/st-48"
 related_cards:
   - "TB-07"
   - "ST-48S"

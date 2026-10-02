@@ -51,7 +51,7 @@ card_id: "BO-91"
 set_sort_order: 37
 slug: "deramon-bo-91"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-91"
+redirect_from: "/card/details/bo-91"
 related_cards:
   - "BO-57"
   - "BO-62"

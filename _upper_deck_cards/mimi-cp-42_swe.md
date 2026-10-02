@@ -39,7 +39,7 @@ card_id: "CP-42_SWE"
 set_sort_order: 33
 slug: "mimi-cp-42_swe"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-42_Swe"
+redirect_from: "/card/details/cp-42_swe"
 related_cards:
   - "CP-42"
   - "FX-05"

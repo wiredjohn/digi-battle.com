@@ -56,7 +56,7 @@ card_id: "TB-05"
 set_sort_order: 5
 slug: "centarumon-tb-05"
 original_language_name: ~
-redirect_from: "/Card/Details/TB-05"
+redirect_from: "/card/details/tb-05"
 related_cards:
   - "ST-17"
   - "TB-04"

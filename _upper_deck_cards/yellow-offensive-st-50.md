@@ -38,7 +38,7 @@ card_id: "ST-50"
 set_sort_order: 50
 slug: "yellow-offensive-st-50"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-50"
+redirect_from: "/card/details/st-50"
 related_cards:
   - "ST-49"
   - "ST-51"

@@ -53,7 +53,7 @@ card_id: "CP-04"
 set_sort_order: 4
 slug: "ogremon-cp-04"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-04"
+redirect_from: "/card/details/cp-04"
 related_cards:
   - "BO-04"
   - "CP-02"

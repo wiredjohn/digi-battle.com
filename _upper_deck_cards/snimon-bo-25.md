@@ -43,7 +43,7 @@ card_id: "BO-25"
 set_sort_order: 25
 slug: "snimon-bo-25"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-25"
+redirect_from: "/card/details/bo-25"
 related_cards:
   - "CP-19"
   - "BO-02"

@@ -38,7 +38,7 @@ card_id: "BO-105"
 set_sort_order: 51
 slug: "flood-bo-105"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-105"
+redirect_from: "/card/details/bo-105"
 related_cards:
   - "BO-97"
   - "BO-98"

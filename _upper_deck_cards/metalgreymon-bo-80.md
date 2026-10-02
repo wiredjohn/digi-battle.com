@@ -52,7 +52,7 @@ card_id: "BO-80"
 set_sort_order: 26
 slug: "metalgreymon-bo-80"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-80"
+redirect_from: "/card/details/bo-80"
 related_cards:
   - "BO-01"
   - "CP-01"

@@ -38,7 +38,7 @@ card_id: "BO-54"
 set_sort_order: 54
 slug: "depth-charge-bo-54"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-54"
+redirect_from: "/card/details/bo-54"
 related_cards:
   - "BO-43"
   - "BO-44"

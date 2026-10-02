@@ -56,7 +56,7 @@ card_id: "ST-93"
 set_sort_order: 20
 slug: "morishellmon-st-93"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-93"
+redirect_from: "/card/details/st-93"
 related_cards:
   - "MP-93"
   - "ST-71"

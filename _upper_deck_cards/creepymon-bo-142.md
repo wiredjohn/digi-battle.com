@@ -53,7 +53,7 @@ card_id: "BO-142"
 set_sort_order: 34
 slug: "creepymon-bo-142"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-142"
+redirect_from: "/card/details/bo-142"
 related_cards:
   - "BO-135"
   - "BO-136"

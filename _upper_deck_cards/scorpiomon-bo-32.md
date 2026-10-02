@@ -62,7 +62,7 @@ card_id: "BO-32"
 set_sort_order: 32
 slug: "scorpiomon-bo-32"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-32"
+redirect_from: "/card/details/bo-32"
 related_cards:
   - "BO-01"
   - "BO-08"

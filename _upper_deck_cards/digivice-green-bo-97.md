@@ -38,7 +38,7 @@ card_id: "BO-97"
 set_sort_order: 43
 slug: "digivice-green-bo-97"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-97"
+redirect_from: "/card/details/bo-97"
 related_cards:
   - "BO-98"
   - "BO-99"

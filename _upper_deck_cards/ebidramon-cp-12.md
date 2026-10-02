@@ -50,7 +50,7 @@ card_id: "CP-12"
 set_sort_order: 12
 slug: "ebidramon-cp-12"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-12"
+redirect_from: "/card/details/cp-12"
 related_cards:
   - "BO-18"
   - "CP-02"

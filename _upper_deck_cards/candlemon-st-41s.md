@@ -48,7 +48,7 @@ card_id: "ST-41S"
 set_sort_order: 21
 slug: "candlemon-st-41s"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-41S"
+redirect_from: "/card/details/st-41s"
 related_cards:
   - "ST-41"
   - "ST-23S"

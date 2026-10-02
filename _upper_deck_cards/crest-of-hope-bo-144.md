@@ -38,7 +38,7 @@ card_id: "BO-144"
 set_sort_order: 36
 slug: "crest-of-hope-bo-144"
 original_language_name: "Symbole de L'Espoir"
-redirect_from: "/Card/Details/BO-144"
+redirect_from: "/card/details/bo-144"
 related_cards:
   - "BO-143"
   - "BO-145"

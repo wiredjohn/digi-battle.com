@@ -50,7 +50,7 @@ card_id: "BO-123"
 set_sort_order: 15
 slug: "shellnumemon-bo-123"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-123"
+redirect_from: "/card/details/bo-123"
 related_cards:
   - "BO-116"
   - "BO-117"

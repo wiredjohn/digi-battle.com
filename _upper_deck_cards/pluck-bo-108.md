@@ -39,7 +39,7 @@ card_id: "BO-108"
 set_sort_order: 54
 slug: "pluck-bo-108"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-108"
+redirect_from: "/card/details/bo-108"
 related_cards:
   - "BO-97"
   - "BO-98"

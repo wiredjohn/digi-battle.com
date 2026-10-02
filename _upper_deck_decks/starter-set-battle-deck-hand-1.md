@@ -39,5 +39,5 @@ cards:
   - "ST-59"
   - "ST-60"
 slug: "starter-set-battle-deck-hand-1"
-redirect_from: "/Decks/Details/Starter-Set-Battle-Deck-Hand-1"
+redirect_from: "/decks/details/starter-set-battle-deck-hand-1"
 ---

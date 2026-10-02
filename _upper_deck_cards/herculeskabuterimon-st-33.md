@@ -50,7 +50,7 @@ card_id: "ST-33"
 set_sort_order: 33
 slug: "herculeskabuterimon-st-33"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-33"
+redirect_from: "/card/details/st-33"
 related_cards:
   - "ST-34"
   - "ST-40"

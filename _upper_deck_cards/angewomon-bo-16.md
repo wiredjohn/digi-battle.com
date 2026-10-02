@@ -54,7 +54,7 @@ card_id: "BO-16"
 set_sort_order: 16
 slug: "angewomon-bo-16"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-16"
+redirect_from: "/card/details/bo-16"
 related_cards:
   - "CP-10"
   - "BO-01"

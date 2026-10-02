@@ -49,7 +49,7 @@ card_id: "ST-46"
 set_sort_order: 46
 slug: "mammothmon-st-46"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-46"
+redirect_from: "/card/details/st-46"
 related_cards:
   - "ST-46S"
   - "ST-21"

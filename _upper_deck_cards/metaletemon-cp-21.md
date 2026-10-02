@@ -49,7 +49,7 @@ card_id: "CP-21"
 set_sort_order: 21
 slug: "metaletemon-cp-21"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-21"
+redirect_from: "/card/details/cp-21"
 related_cards:
   - "BO-27"
   - "CP-11"

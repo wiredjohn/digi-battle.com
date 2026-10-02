@@ -46,7 +46,7 @@ card_id: "ST-16"
 set_sort_order: 16
 slug: "unimon-st-16"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-16"
+redirect_from: "/card/details/st-16"
 related_cards:
   - "ST-02"
   - "ST-04"

@@ -38,7 +38,7 @@ card_id: "ST-66"
 set_sort_order: 2
 slug: "salamon-st-66"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-66"
+redirect_from: "/card/details/st-66"
 related_cards:
   - "MP-66"
   - "ST-64"

@@ -49,7 +49,7 @@ card_id: "ST-42"
 set_sort_order: 42
 slug: "demidevimon-st-42"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-42"
+redirect_from: "/card/details/st-42"
 related_cards:
   - "ST-42S"
   - "ST-01"

@@ -40,7 +40,7 @@ card_id: "BO-82"
 set_sort_order: 28
 slug: "mushroomon-bo-82"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-82"
+redirect_from: "/card/details/bo-82"
 related_cards:
   - "BO-60"
   - "BO-61"

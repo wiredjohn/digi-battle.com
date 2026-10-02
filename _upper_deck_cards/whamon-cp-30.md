@@ -49,7 +49,7 @@ card_id: "CP-30"
 set_sort_order: 30
 slug: "whamon-cp-30"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-30"
+redirect_from: "/card/details/cp-30"
 related_cards:
   - "BO-58"
   - "CP-02"

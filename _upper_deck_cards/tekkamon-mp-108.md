@@ -57,7 +57,7 @@ card_id: "MP-108"
 set_sort_order: 46
 slug: "tekkamon-mp-108"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-108"
+redirect_from: "/card/details/mp-108"
 related_cards:
   - "MP-80"
   - "MP-81"

@@ -50,7 +50,7 @@ card_id: "CP-31"
 set_sort_order: 31
 slug: "sukamon-cp-31"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-31"
+redirect_from: "/card/details/cp-31"
 related_cards:
   - "BO-59"
   - "CP-02"

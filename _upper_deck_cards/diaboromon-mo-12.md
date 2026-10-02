@@ -42,7 +42,7 @@ card_id: "MO-12"
 set_sort_order: 12
 slug: "diaboromon-mo-12"
 original_language_name: ~
-redirect_from: "/Card/Details/MO-12"
+redirect_from: "/card/details/mo-12"
 related_cards:
   - "MO-07"
   - "MO-08"

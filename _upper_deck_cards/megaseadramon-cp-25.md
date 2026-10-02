@@ -53,7 +53,7 @@ card_id: "CP-25"
 set_sort_order: 25
 slug: "megaseadramon-cp-25"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-25"
+redirect_from: "/card/details/cp-25"
 related_cards:
   - "BO-31"
   - "CP-01"

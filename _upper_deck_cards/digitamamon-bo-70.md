@@ -42,7 +42,7 @@ card_id: "BO-70"
 set_sort_order: 16
 slug: "digitamamon-bo-70"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-70"
+redirect_from: "/card/details/bo-70"
 related_cards:
   - "BO-57"
   - "BO-62"

@@ -38,7 +38,7 @@ card_id: "BO-102"
 set_sort_order: 48
 slug: "crest-of-sincerity-bo-102"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-102"
+redirect_from: "/card/details/bo-102"
 related_cards:
   - "BO-97"
   - "BO-98"

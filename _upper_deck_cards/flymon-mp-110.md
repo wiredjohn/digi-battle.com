@@ -55,7 +55,7 @@ card_id: "MP-110"
 set_sort_order: 48
 slug: "flymon-mp-110"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-110"
+redirect_from: "/card/details/mp-110"
 related_cards:
   - "MP-69"
   - "MP-70"

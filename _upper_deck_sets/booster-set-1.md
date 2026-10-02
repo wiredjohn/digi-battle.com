@@ -2,7 +2,7 @@
 name: "Booster Set 1"
 set_description: "The first Digi-Battle Booster series, a 54 card set released with the initial launch of Digi-Battle in the year 2000."
 slug: "booster-set-1"
-redirect_from: "/Sets/BoosterSet1"
+redirect_from: "/sets/boosterset1"
 languages:
   - name: English
     editions:

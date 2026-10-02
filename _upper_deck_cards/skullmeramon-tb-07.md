@@ -59,7 +59,7 @@ card_id: "TB-07"
 set_sort_order: 7
 slug: "skullmeramon-tb-07"
 original_language_name: ~
-redirect_from: "/Card/Details/TB-07"
+redirect_from: "/card/details/tb-07"
 related_cards:
   - "ST-48"
   - "ST-48S"

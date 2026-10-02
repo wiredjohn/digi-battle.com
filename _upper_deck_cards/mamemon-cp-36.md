@@ -54,7 +54,7 @@ card_id: "CP-36"
 set_sort_order: 36
 slug: "mamemon-cp-36"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-36"
+redirect_from: "/card/details/cp-36"
 related_cards:
   - "BO-64"
   - "CP-01"

@@ -39,5 +39,5 @@ cards:
   - "MP-123"
   - "MP-124"
 slug: "french-mega-pack-battle-deck-2"
-redirect_from: "/Decks/Details/French-Mega-Pack-Battle-Deck-2"
+redirect_from: "/decks/details/french-mega-pack-battle-deck-2"
 ---

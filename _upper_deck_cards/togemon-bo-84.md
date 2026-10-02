@@ -57,7 +57,7 @@ card_id: "BO-84"
 set_sort_order: 30
 slug: "togemon-bo-84"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-84"
+redirect_from: "/card/details/bo-84"
 related_cards:
   - "ST-10"
   - "BO-56"

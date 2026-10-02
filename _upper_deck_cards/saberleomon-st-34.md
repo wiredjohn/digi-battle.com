@@ -45,7 +45,7 @@ card_id: "ST-34"
 set_sort_order: 34
 slug: "saberleomon-st-34"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-34"
+redirect_from: "/card/details/st-34"
 related_cards:
   - "TB-10"
   - "ST-33"

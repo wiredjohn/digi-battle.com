@@ -45,7 +45,7 @@ card_id: "CP-26"
 set_sort_order: 26
 slug: "metalseadramon-cp-26"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-26"
+redirect_from: "/card/details/cp-26"
 related_cards:
   - "BO-35"
   - "CP-11"

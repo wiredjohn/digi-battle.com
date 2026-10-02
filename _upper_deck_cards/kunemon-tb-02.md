@@ -49,7 +49,7 @@ card_id: "TB-02"
 set_sort_order: 2
 slug: "kunemon-tb-02"
 original_language_name: ~
-redirect_from: "/Card/Details/TB-02"
+redirect_from: "/card/details/tb-02"
 related_cards:
   - "ST-18"
   - "TB-01"

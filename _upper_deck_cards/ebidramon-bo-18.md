@@ -50,7 +50,7 @@ card_id: "BO-18"
 set_sort_order: 18
 slug: "ebidramon-bo-18"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-18"
+redirect_from: "/card/details/bo-18"
 related_cards:
   - "CP-12"
   - "BO-02"

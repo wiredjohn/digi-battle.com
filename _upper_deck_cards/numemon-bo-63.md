@@ -50,7 +50,7 @@ card_id: "BO-63"
 set_sort_order: 9
 slug: "numemon-bo-63"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-63"
+redirect_from: "/card/details/bo-63"
 related_cards:
   - "CP-35"
   - "BO-56"

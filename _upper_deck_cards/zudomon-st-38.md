@@ -57,7 +57,7 @@ card_id: "ST-38"
 set_sort_order: 38
 slug: "zudomon-st-38"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-38"
+redirect_from: "/card/details/st-38"
 related_cards:
   - "ST-38S"
   - "ST-21"

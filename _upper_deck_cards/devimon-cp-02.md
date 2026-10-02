@@ -66,7 +66,7 @@ card_id: "CP-02"
 set_sort_order: 2
 slug: "devimon-cp-02"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-02"
+redirect_from: "/card/details/cp-02"
 related_cards:
   - "TB-06"
   - "BO-02"

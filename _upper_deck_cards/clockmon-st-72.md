@@ -52,7 +52,7 @@ card_id: "ST-72"
 set_sort_order: 6
 slug: "clockmon-st-72"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-72"
+redirect_from: "/card/details/st-72"
 related_cards:
   - "MP-72"
   - "ST-71"

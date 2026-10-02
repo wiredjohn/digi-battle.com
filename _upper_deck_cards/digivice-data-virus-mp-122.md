@@ -38,7 +38,7 @@ card_id: "MP-122"
 set_sort_order: 60
 slug: "digivice-data-virus-mp-122"
 original_language_name: "Digivice Donnée & Virus"
-redirect_from: "/Card/Details/MP-122"
+redirect_from: "/card/details/mp-122"
 related_cards:
   - "MP-111"
   - "MP-112"

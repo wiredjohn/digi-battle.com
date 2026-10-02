@@ -63,7 +63,7 @@ card_id: "ST-14"
 set_sort_order: 14
 slug: "angemon-st-14"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-14"
+redirect_from: "/card/details/st-14"
 related_cards:
   - "ST-02"
   - "ST-04"

@@ -49,7 +49,7 @@ card_id: "MP-95"
 set_sort_order: 33
 slug: "nisedrimogemon-mp-95"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-95"
+redirect_from: "/card/details/mp-95"
 related_cards:
   - "ST-95"
   - "MP-69"

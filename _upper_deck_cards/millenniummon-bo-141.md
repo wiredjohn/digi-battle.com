@@ -45,7 +45,7 @@ card_id: "BO-141"
 set_sort_order: 33
 slug: "millenniummon-bo-141"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-141"
+redirect_from: "/card/details/bo-141"
 related_cards:
   - "BO-135"
   - "BO-136"

@@ -45,7 +45,7 @@ card_id: "ST-88"
 set_sort_order: 16
 slug: "dokunemon-st-88"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-88"
+redirect_from: "/card/details/st-88"
 related_cards:
   - "MP-88"
   - "ST-64"

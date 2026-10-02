@@ -38,7 +38,7 @@ card_id: "BO-43"
 set_sort_order: 43
 slug: "fly-trap-bo-43"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-43"
+redirect_from: "/card/details/bo-43"
 related_cards:
   - "BO-44"
   - "BO-45"

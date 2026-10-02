@@ -56,7 +56,7 @@ card_id: "BO-69"
 set_sort_order: 15
 slug: "megadramon-bo-69"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-69"
+redirect_from: "/card/details/bo-69"
 related_cards:
   - "BO-57"
   - "BO-62"

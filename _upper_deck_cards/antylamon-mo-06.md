@@ -44,7 +44,7 @@ card_id: "MO-06"
 set_sort_order: 6
 slug: "antylamon-mo-06"
 original_language_name: ~
-redirect_from: "/Card/Details/MO-06"
+redirect_from: "/card/details/mo-06"
 related_cards:
   - "MO-11"
 ---

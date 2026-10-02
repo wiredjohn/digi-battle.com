@@ -62,7 +62,7 @@ card_id: "BO-05"
 set_sort_order: 5
 slug: "meramon-bo-05"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-05"
+redirect_from: "/card/details/bo-05"
 related_cards:
   - "CP-05"
   - "BO-02"

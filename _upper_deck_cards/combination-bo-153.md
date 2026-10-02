@@ -39,7 +39,7 @@ card_id: "BO-153"
 set_sort_order: 45
 slug: "combination-bo-153"
 original_language_name: "Combinaison"
-redirect_from: "/Card/Details/BO-153"
+redirect_from: "/card/details/bo-153"
 related_cards:
   - "BO-143"
   - "BO-144"

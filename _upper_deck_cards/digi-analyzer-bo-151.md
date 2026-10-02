@@ -39,7 +39,7 @@ card_id: "BO-151"
 set_sort_order: 43
 slug: "digi-analyzer-bo-151"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-151"
+redirect_from: "/card/details/bo-151"
 related_cards:
   - "BO-143"
   - "BO-144"

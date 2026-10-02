@@ -49,7 +49,7 @@ card_id: "BO-21"
 set_sort_order: 21
 slug: "minotarumon-bo-21"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-21"
+redirect_from: "/card/details/bo-21"
 related_cards:
   - "CP-15"
   - "BO-01"

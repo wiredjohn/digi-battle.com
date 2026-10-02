@@ -56,7 +56,7 @@ card_id: "BO-39"
 set_sort_order: 39
 slug: "phantomon-bo-39"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-39"
+redirect_from: "/card/details/bo-39"
 related_cards:
   - "BO-01"
   - "BO-08"

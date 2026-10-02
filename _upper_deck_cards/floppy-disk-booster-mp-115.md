@@ -39,7 +39,7 @@ card_id: "MP-115"
 set_sort_order: 53
 slug: "floppy-disk-booster-mp-115"
 original_language_name: "Disquette Booster"
-redirect_from: "/Card/Details/MP-115"
+redirect_from: "/card/details/mp-115"
 related_cards:
   - "MP-111"
   - "MP-112"

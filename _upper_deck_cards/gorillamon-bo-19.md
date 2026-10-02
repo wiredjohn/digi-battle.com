@@ -47,7 +47,7 @@ card_id: "BO-19"
 set_sort_order: 19
 slug: "gorillamon-bo-19"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-19"
+redirect_from: "/card/details/bo-19"
 related_cards:
   - "CP-13"
   - "BO-02"

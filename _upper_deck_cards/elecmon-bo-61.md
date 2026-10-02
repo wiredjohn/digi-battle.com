@@ -47,7 +47,7 @@ card_id: "BO-61"
 set_sort_order: 7
 slug: "elecmon-bo-61"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-61"
+redirect_from: "/card/details/bo-61"
 related_cards:
   - "CP-33"
   - "BO-60"

@@ -55,7 +55,7 @@ card_id: "BO-08"
 set_sort_order: 8
 slug: "shogungekomon-bo-08"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-08"
+redirect_from: "/card/details/bo-08"
 related_cards:
   - "BO-01"
   - "BO-11"

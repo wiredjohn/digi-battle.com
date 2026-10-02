@@ -2,7 +2,7 @@
 name: "Booster Set 2"
 set_description: "The second Digi-Battle Booster series, released sometime in August 2000 with an additional 54 cards."
 slug: "booster-set-2"
-redirect_from: "/Sets/BoosterSet2"
+redirect_from: "/sets/boosterset2"
 languages:
   - name: English
     editions:

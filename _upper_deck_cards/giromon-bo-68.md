@@ -54,7 +54,7 @@ card_id: "BO-68"
 set_sort_order: 14
 slug: "giromon-bo-68"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-68"
+redirect_from: "/card/details/bo-68"
 related_cards:
   - "BO-57"
   - "BO-62"

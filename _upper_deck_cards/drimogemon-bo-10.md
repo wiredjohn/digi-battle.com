@@ -44,7 +44,7 @@ card_id: "BO-10"
 set_sort_order: 10
 slug: "drimogemon-bo-10"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-10"
+redirect_from: "/card/details/bo-10"
 related_cards:
   - "BO-02"
   - "BO-03"

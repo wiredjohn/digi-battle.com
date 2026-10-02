@@ -43,7 +43,7 @@ card_id: "BO-74"
 set_sort_order: 20
 slug: "deltamon-bo-74"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-74"
+redirect_from: "/card/details/bo-74"
 related_cards:
   - "BO-56"
   - "BO-58"

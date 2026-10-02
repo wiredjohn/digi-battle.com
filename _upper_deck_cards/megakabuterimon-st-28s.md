@@ -56,7 +56,7 @@ card_id: "ST-28S"
 set_sort_order: 10
 slug: "megakabuterimon-st-28s"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-28S"
+redirect_from: "/card/details/st-28s"
 related_cards:
   - "ST-28"
   - "ST-21S"

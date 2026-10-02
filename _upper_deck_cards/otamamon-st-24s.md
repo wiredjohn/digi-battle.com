@@ -45,7 +45,7 @@ card_id: "ST-24S"
 set_sort_order: 6
 slug: "otamamon-st-24s"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-24S"
+redirect_from: "/card/details/st-24s"
 related_cards:
   - "ST-24"
   - "ST-23S"

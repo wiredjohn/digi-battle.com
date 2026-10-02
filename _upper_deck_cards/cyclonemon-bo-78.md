@@ -46,7 +46,7 @@ card_id: "BO-78"
 set_sort_order: 24
 slug: "cyclonemon-bo-78"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-78"
+redirect_from: "/card/details/bo-78"
 related_cards:
   - "BO-56"
   - "BO-58"

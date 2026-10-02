@@ -49,7 +49,7 @@ card_id: "BO-20"
 set_sort_order: 20
 slug: "vilemon-bo-20"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-20"
+redirect_from: "/card/details/bo-20"
 related_cards:
   - "CP-14"
   - "BO-02"

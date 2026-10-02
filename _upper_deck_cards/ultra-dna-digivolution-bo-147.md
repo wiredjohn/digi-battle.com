@@ -38,7 +38,7 @@ card_id: "BO-147"
 set_sort_order: 39
 slug: "ultra-dna-digivolution-bo-147"
 original_language_name: "Ultra Digivolution ADN"
-redirect_from: "/Card/Details/BO-147"
+redirect_from: "/card/details/bo-147"
 related_cards:
   - "BO-143"
   - "BO-144"

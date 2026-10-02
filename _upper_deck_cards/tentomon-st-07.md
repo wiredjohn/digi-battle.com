@@ -48,7 +48,7 @@ card_id: "ST-07"
 set_sort_order: 7
 slug: "tentomon-st-07"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-07"
+redirect_from: "/card/details/st-07"
 related_cards:
   - "ST-01"
   - "ST-03"

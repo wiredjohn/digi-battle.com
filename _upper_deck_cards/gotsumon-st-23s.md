@@ -48,7 +48,7 @@ card_id: "ST-23S"
 set_sort_order: 5
 slug: "gotsumon-st-23s"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-23S"
+redirect_from: "/card/details/st-23s"
 related_cards:
   - "TB-01"
   - "ST-23"

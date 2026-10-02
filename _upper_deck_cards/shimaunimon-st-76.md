@@ -54,7 +54,7 @@ card_id: "ST-76"
 set_sort_order: 10
 slug: "shimaunimon-st-76"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-76"
+redirect_from: "/card/details/st-76"
 related_cards:
   - "MP-76"
   - "ST-71"

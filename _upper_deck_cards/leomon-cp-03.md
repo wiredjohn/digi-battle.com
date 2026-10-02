@@ -53,7 +53,7 @@ card_id: "CP-03"
 set_sort_order: 3
 slug: "leomon-cp-03"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-03"
+redirect_from: "/card/details/cp-03"
 related_cards:
   - "BO-03"
   - "CP-02"

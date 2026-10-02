@@ -49,7 +49,7 @@ card_id: "BO-136"
 set_sort_order: 28
 slug: "venommyotismon-bo-136"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-136"
+redirect_from: "/card/details/bo-136"
 related_cards:
   - "BO-135"
   - "BO-137"

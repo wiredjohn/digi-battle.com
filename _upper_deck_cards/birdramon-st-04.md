@@ -49,7 +49,7 @@ card_id: "ST-04"
 set_sort_order: 4
 slug: "birdramon-st-04"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-04"
+redirect_from: "/card/details/st-04"
 related_cards:
   - "ST-02"
   - "ST-06"

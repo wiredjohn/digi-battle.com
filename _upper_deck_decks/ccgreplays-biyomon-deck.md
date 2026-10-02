@@ -39,5 +39,5 @@ cards:
   - "BO-105"
   - "BO-108"
 slug: "ccgreplays-biyomon-deck"
-redirect_from: "/Decks/Details/CCGReplays-Biyomon-Deck"
+redirect_from: "/decks/details/ccgreplays-biyomon-deck"
 ---

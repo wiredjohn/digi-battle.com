@@ -53,7 +53,7 @@ card_id: "BO-139"
 set_sort_order: 31
 slug: "goldramon-bo-139"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-139"
+redirect_from: "/card/details/bo-139"
 related_cards:
   - "UN-01"
   - "BO-135"

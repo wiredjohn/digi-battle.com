@@ -39,7 +39,7 @@ card_id: "CP-39"
 set_sort_order: 39
 slug: "matt-cp-39"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-39"
+redirect_from: "/card/details/cp-39"
 related_cards:
   - "FX-02"
   - "CP-39_SWE"

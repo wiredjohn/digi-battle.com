@@ -39,5 +39,5 @@ cards:
   - "BO-40"
   - "BO-76"
 slug: "the-digi-dudes-devidudes-deck"
-redirect_from: "/Decks/Details/The-Digi-Dudes-DeviDudes-Deck"
+redirect_from: "/decks/details/the-digi-dudes-devidudes-deck"
 ---

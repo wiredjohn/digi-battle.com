@@ -52,7 +52,7 @@ card_id: "BO-83"
 set_sort_order: 29
 slug: "veedramon-bo-83"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-83"
+redirect_from: "/card/details/bo-83"
 related_cards:
   - "BO-56"
   - "BO-58"

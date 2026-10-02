@@ -38,7 +38,7 @@ card_id: "MP-112"
 set_sort_order: 50
 slug: "yellow-energy-particle-mp-112"
 original_language_name: "Particule Énergie Jaune"
-redirect_from: "/Card/Details/MP-112"
+redirect_from: "/card/details/mp-112"
 related_cards:
   - "MP-111"
   - "MP-113"

@@ -42,7 +42,7 @@ card_id: "BO-111"
 set_sort_order: 3
 slug: "aruraumon-bo-111"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-111"
+redirect_from: "/card/details/bo-111"
 related_cards:
   - "BO-109"
   - "BO-110"

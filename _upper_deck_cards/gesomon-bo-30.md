@@ -53,7 +53,7 @@ card_id: "BO-30"
 set_sort_order: 30
 slug: "gesomon-bo-30"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-30"
+redirect_from: "/card/details/bo-30"
 related_cards:
   - "CP-24"
   - "BO-02"

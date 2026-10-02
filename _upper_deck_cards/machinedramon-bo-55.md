@@ -57,7 +57,7 @@ card_id: "BO-55"
 set_sort_order: 1
 slug: "machinedramon-bo-55"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-55"
+redirect_from: "/card/details/bo-55"
 related_cards:
   - "CP-27"
   - "BO-94"

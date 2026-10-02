@@ -38,7 +38,7 @@ card_id: "BO-100"
 set_sort_order: 46
 slug: "crest-of-courage-bo-100"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-100"
+redirect_from: "/card/details/bo-100"
 related_cards:
   - "BO-97"
   - "BO-98"

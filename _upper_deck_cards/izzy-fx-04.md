@@ -39,7 +39,7 @@ card_id: "FX-04"
 set_sort_order: 4
 slug: "izzy-fx-04"
 original_language_name: ~
-redirect_from: "/Card/Details/FX-04"
+redirect_from: "/card/details/fx-04"
 related_cards:
   - "CP-41"
   - "CP-41_SWE"

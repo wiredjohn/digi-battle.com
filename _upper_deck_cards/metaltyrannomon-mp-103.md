@@ -54,7 +54,7 @@ card_id: "MP-103"
 set_sort_order: 41
 slug: "metaltyrannomon-mp-103"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-103"
+redirect_from: "/card/details/mp-103"
 related_cards:
   - "ST-103"
   - "MP-80"

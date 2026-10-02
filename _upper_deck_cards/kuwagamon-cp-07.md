@@ -57,7 +57,7 @@ card_id: "CP-07"
 set_sort_order: 7
 slug: "kuwagamon-cp-07"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-07"
+redirect_from: "/card/details/cp-07"
 related_cards:
   - "TB-04"
   - "BO-13"

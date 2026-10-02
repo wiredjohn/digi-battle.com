@@ -52,7 +52,7 @@ card_id: "BO-138"
 set_sort_order: 30
 slug: "apokarimon-bo-138"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-138"
+redirect_from: "/card/details/bo-138"
 related_cards:
   - "BO-135"
   - "BO-136"

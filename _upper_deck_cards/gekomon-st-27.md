@@ -60,7 +60,7 @@ card_id: "ST-27"
 set_sort_order: 27
 slug: "gekomon-st-27"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-27"
+redirect_from: "/card/details/st-27"
 related_cards:
   - "ST-27S"
   - "ST-02"

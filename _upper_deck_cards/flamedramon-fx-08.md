@@ -41,7 +41,7 @@ card_id: "FX-08"
 set_sort_order: 8
 slug: "flamedramon-fx-08"
 original_language_name: ~
-redirect_from: "/Card/Details/FX-08"
+redirect_from: "/card/details/fx-08"
 related_cards:
   - "FX-09"
   - "FX-10"

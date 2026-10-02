@@ -38,7 +38,7 @@ card_id: "BO-47"
 set_sort_order: 47
 slug: "iron-drill-bo-47"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-47"
+redirect_from: "/card/details/bo-47"
 related_cards:
   - "BO-43"
   - "BO-44"

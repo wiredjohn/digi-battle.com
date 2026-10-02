@@ -38,7 +38,7 @@ card_id: "MP-120"
 set_sort_order: 58
 slug: "anti-downgrade-mp-120"
 original_language_name: "Anti-Déclassement"
-redirect_from: "/Card/Details/MP-120"
+redirect_from: "/card/details/mp-120"
 related_cards:
   - "MP-111"
   - "MP-112"

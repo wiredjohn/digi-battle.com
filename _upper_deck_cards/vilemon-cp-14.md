@@ -49,7 +49,7 @@ card_id: "CP-14"
 set_sort_order: 14
 slug: "vilemon-cp-14"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-14"
+redirect_from: "/card/details/cp-14"
 related_cards:
   - "BO-20"
   - "CP-02"

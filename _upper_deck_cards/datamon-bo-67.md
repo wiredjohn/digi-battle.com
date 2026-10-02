@@ -52,7 +52,7 @@ card_id: "BO-67"
 set_sort_order: 13
 slug: "datamon-bo-67"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-67"
+redirect_from: "/card/details/bo-67"
 related_cards:
   - "BO-57"
   - "BO-62"

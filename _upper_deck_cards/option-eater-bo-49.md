@@ -38,7 +38,7 @@ card_id: "BO-49"
 set_sort_order: 49
 slug: "option-eater-bo-49"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-49"
+redirect_from: "/card/details/bo-49"
 related_cards:
   - "BO-43"
   - "BO-44"

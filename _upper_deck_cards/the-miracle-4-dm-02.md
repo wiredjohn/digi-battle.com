@@ -44,7 +44,7 @@ card_id: "DM-02"
 set_sort_order: 2
 slug: "the-miracle-4-dm-02"
 original_language_name: ~
-redirect_from: "/Card/Details/DM-02"
+redirect_from: "/card/details/dm-02"
 related_cards:
   - "DM-01"
   - "UN-01"

@@ -45,7 +45,7 @@ card_id: "MP-87"
 set_sort_order: 25
 slug: "betamon-mp-87"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-87"
+redirect_from: "/card/details/mp-87"
 related_cards:
   - "MP-63"
   - "MP-64"

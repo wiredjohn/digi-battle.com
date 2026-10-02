@@ -39,7 +39,7 @@ card_id: "MP-116"
 set_sort_order: 54
 slug: "evil-chip-mp-116"
 original_language_name: "Puce Maléfique"
-redirect_from: "/Card/Details/MP-116"
+redirect_from: "/card/details/mp-116"
 related_cards:
   - "MP-111"
   - "MP-112"

@@ -43,7 +43,7 @@ card_id: "BO-56"
 set_sort_order: 2
 slug: "kokatorimon-bo-56"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-56"
+redirect_from: "/card/details/bo-56"
 related_cards:
   - "CP-28"
   - "BO-58"

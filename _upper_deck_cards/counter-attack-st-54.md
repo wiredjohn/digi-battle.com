@@ -39,7 +39,7 @@ card_id: "ST-54"
 set_sort_order: 54
 slug: "counter-attack-st-54"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-54"
+redirect_from: "/card/details/st-54"
 related_cards:
   - "ST-49"
   - "ST-50"

@@ -48,7 +48,7 @@ card_id: "ST-45S"
 set_sort_order: 25
 slug: "bakemon-st-45s"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-45S"
+redirect_from: "/card/details/st-45s"
 related_cards:
   - "ST-45"
   - "ST-19S"

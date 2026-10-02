@@ -51,7 +51,7 @@ card_id: "BO-131"
 set_sort_order: 23
 slug: "magnaangemon-bo-131"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-131"
+redirect_from: "/card/details/bo-131"
 related_cards:
   - "BO-126"
   - "BO-127"

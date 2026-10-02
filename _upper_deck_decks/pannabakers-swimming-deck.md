@@ -39,5 +39,5 @@ cards:
   - "ST-50"
   - "ST-51"
 slug: "pannabakers-swimming-deck"
-redirect_from: "/Decks/Details/PannaBakers-Swimming-Deck"
+redirect_from: "/decks/details/pannabakers-swimming-deck"
 ---

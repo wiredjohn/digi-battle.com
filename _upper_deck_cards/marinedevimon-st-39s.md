@@ -51,7 +51,7 @@ card_id: "ST-39S"
 set_sort_order: 19
 slug: "marinedevimon-st-39s"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-39S"
+redirect_from: "/card/details/st-39s"
 related_cards:
   - "ST-39"
   - "ST-21S"

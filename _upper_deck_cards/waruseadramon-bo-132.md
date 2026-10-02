@@ -50,7 +50,7 @@ card_id: "BO-132"
 set_sort_order: 24
 slug: "waruseadramon-bo-132"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-132"
+redirect_from: "/card/details/bo-132"
 related_cards:
   - "BO-126"
   - "BO-127"

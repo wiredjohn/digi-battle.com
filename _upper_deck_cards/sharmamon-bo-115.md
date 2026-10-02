@@ -38,7 +38,7 @@ card_id: "BO-115"
 set_sort_order: 7
 slug: "sharmamon-bo-115"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-115"
+redirect_from: "/card/details/bo-115"
 related_cards:
   - "BO-109"
   - "BO-110"

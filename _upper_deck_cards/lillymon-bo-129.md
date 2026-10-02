@@ -49,7 +49,7 @@ card_id: "BO-129"
 set_sort_order: 21
 slug: "lillymon-bo-129"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-129"
+redirect_from: "/card/details/bo-129"
 related_cards:
   - "BO-126"
   - "BO-127"

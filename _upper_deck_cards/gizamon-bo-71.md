@@ -45,7 +45,7 @@ card_id: "BO-71"
 set_sort_order: 17
 slug: "gizamon-bo-71"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-71"
+redirect_from: "/card/details/bo-71"
 related_cards:
   - "BO-60"
   - "BO-61"

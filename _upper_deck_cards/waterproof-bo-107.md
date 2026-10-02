@@ -39,7 +39,7 @@ card_id: "BO-107"
 set_sort_order: 53
 slug: "waterproof-bo-107"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-107"
+redirect_from: "/card/details/bo-107"
 related_cards:
   - "BO-97"
   - "BO-98"

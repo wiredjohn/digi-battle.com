@@ -43,7 +43,7 @@ card_id: "ST-21S"
 set_sort_order: 3
 slug: "kimeramon-st-21s"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-21S"
+redirect_from: "/card/details/st-21s"
 related_cards:
   - "ST-21"
   - "ST-28S"

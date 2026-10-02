@@ -56,7 +56,7 @@ card_id: "MP-73"
 set_sort_order: 11
 slug: "guardromon-mp-73"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-73"
+redirect_from: "/card/details/mp-73"
 related_cards:
   - "ST-73"
   - "MP-69"

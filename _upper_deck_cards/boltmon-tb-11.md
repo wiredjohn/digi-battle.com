@@ -51,7 +51,7 @@ card_id: "TB-11"
 set_sort_order: 11
 slug: "boltmon-tb-11"
 original_language_name: ~
-redirect_from: "/Card/Details/TB-11"
+redirect_from: "/card/details/tb-11"
 related_cards:
   - "BO-41"
   - "TB-10"

@@ -38,7 +38,7 @@ card_id: "ST-53"
 set_sort_order: 53
 slug: "metal-attack-st-53"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-53"
+redirect_from: "/card/details/st-53"
 related_cards:
   - "ST-53S"
   - "ST-49"

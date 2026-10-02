@@ -41,7 +41,7 @@ card_id: "FX-10"
 set_sort_order: 10
 slug: "digmon-fx-10"
 original_language_name: ~
-redirect_from: "/Card/Details/FX-10"
+redirect_from: "/card/details/fx-10"
 related_cards:
   - "FX-08"
   - "FX-09"

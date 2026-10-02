@@ -53,7 +53,7 @@ card_id: "ST-43S"
 set_sort_order: 23
 slug: "apemon-st-43s"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-43S"
+redirect_from: "/card/details/st-43s"
 related_cards:
   - "ST-43"
   - "ST-19S"

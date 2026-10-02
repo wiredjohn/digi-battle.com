@@ -43,7 +43,7 @@ card_id: "CP-08"
 set_sort_order: 8
 slug: "mojyamon-cp-08"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-08"
+redirect_from: "/card/details/cp-08"
 related_cards:
   - "BO-14"
   - "CP-02"

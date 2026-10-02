@@ -38,7 +38,7 @@ card_id: "BO-48"
 set_sort_order: 48
 slug: "organic-enhancer-bo-48"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-48"
+redirect_from: "/card/details/bo-48"
 related_cards:
   - "BO-43"
   - "BO-44"

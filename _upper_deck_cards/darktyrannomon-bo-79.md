@@ -46,7 +46,7 @@ card_id: "BO-79"
 set_sort_order: 25
 slug: "darktyrannomon-bo-79"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-79"
+redirect_from: "/card/details/bo-79"
 related_cards:
   - "BO-56"
   - "BO-58"

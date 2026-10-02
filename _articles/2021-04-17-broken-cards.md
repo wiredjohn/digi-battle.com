@@ -1,7 +1,7 @@
 ---
 title: "Broken Cards"
 cover_image: "/assets/img/upper-deck-cards/FX-08-175.webp"
-redirect_from: "/Game/BrokenCards"
+redirect_from: "/game/brokencards"
 ---
 
 I define broken cards as cards which have no Digivolution Requirements that can be met. If no Digivolution Requirements can be met then it can't be used in game so is broken by design.

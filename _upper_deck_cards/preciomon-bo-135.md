@@ -51,7 +51,7 @@ card_id: "BO-135"
 set_sort_order: 27
 slug: "preciomon-bo-135"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-135"
+redirect_from: "/card/details/bo-135"
 related_cards:
   - "BO-136"
   - "BO-137"

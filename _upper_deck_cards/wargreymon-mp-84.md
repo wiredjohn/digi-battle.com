@@ -51,7 +51,7 @@ card_id: "MP-84"
 set_sort_order: 22
 slug: "wargreymon-mp-84"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-84"
+redirect_from: "/card/details/mp-84"
 related_cards:
   - "TB-12"
   - "ST-84"

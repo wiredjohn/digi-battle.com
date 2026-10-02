@@ -52,7 +52,7 @@ card_id: "BO-94"
 set_sort_order: 40
 slug: "phoenixmon-bo-94"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-94"
+redirect_from: "/card/details/bo-94"
 related_cards:
   - "BO-55"
   - "BO-95"

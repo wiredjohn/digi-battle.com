@@ -46,7 +46,7 @@ card_id: "BO-36"
 set_sort_order: 36
 slug: "tapirmon-bo-36"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-36"
+redirect_from: "/card/details/bo-36"
 related_cards:
   - "BO-28"
   - "BO-29"

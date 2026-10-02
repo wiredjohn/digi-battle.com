@@ -49,7 +49,7 @@ card_id: "BO-127"
 set_sort_order: 19
 slug: "panjyamon-bo-127"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-127"
+redirect_from: "/card/details/bo-127"
 related_cards:
   - "BO-126"
   - "BO-128"

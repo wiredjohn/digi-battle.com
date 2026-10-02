@@ -45,7 +45,7 @@ card_id: "BO-35"
 set_sort_order: 35
 slug: "metalseadramon-bo-35"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-35"
+redirect_from: "/card/details/bo-35"
 related_cards:
   - "CP-26"
   - "BO-17"

@@ -45,7 +45,7 @@ card_id: "BO-60"
 set_sort_order: 6
 slug: "gazimon-bo-60"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-60"
+redirect_from: "/card/details/bo-60"
 related_cards:
   - "CP-32"
   - "BO-61"

@@ -59,7 +59,7 @@ card_id: "TB-09"
 set_sort_order: 9
 slug: "okuwamon-tb-09"
 original_language_name: ~
-redirect_from: "/Card/Details/TB-09"
+redirect_from: "/card/details/tb-09"
 related_cards:
   - "ST-31"
   - "ST-31S"

@@ -41,7 +41,7 @@ card_id: "FX-09"
 set_sort_order: 9
 slug: "halsemon-fx-09"
 original_language_name: ~
-redirect_from: "/Card/Details/FX-09"
+redirect_from: "/card/details/fx-09"
 related_cards:
   - "FX-08"
   - "FX-10"

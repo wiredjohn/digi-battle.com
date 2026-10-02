@@ -58,7 +58,7 @@ card_id: "ST-32S"
 set_sort_order: 14
 slug: "skullgreymon-st-32s"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-32S"
+redirect_from: "/card/details/st-32s"
 related_cards:
   - "ST-32"
   - "ST-21S"

@@ -59,7 +59,7 @@ card_id: "ST-26"
 set_sort_order: 26
 slug: "starmon-st-26"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-26"
+redirect_from: "/card/details/st-26"
 related_cards:
   - "ST-26S"
   - "ST-02"

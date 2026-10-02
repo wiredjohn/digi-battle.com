@@ -61,7 +61,7 @@ card_id: "BO-12"
 set_sort_order: 12
 slug: "monochromon-bo-12"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-12"
+redirect_from: "/card/details/bo-12"
 related_cards:
   - "BO-02"
   - "BO-03"

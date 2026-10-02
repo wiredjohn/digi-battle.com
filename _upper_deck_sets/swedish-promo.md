@@ -2,7 +2,7 @@
 name: "Swedish Promo"
 set_description: "The Swedish Promo set was released in Sweden but the cards are in English. The set has cards from the French Mega Pack and Digi-Destined cards."
 slug: "swedish-promo"
-redirect_from: "/Sets/SwedishPromo"
+redirect_from: "/sets/swedishpromo"
 languages:
   - name: English
     editions:

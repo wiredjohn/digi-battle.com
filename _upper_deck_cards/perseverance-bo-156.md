@@ -39,7 +39,7 @@ card_id: "BO-156"
 set_sort_order: 48
 slug: "perseverance-bo-156"
 original_language_name: "Persévérance"
-redirect_from: "/Card/Details/BO-156"
+redirect_from: "/card/details/bo-156"
 related_cards:
   - "BO-143"
   - "BO-144"

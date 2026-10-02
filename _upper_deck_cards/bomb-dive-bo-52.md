@@ -38,7 +38,7 @@ card_id: "BO-52"
 set_sort_order: 52
 slug: "bomb-dive-bo-52"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-52"
+redirect_from: "/card/details/bo-52"
 related_cards:
   - "BO-43"
   - "BO-44"

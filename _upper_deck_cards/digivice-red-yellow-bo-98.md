@@ -38,7 +38,7 @@ card_id: "BO-98"
 set_sort_order: 44
 slug: "digivice-red-yellow-bo-98"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-98"
+redirect_from: "/card/details/bo-98"
 related_cards:
   - "BO-97"
   - "BO-99"

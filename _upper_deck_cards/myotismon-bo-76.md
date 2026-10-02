@@ -54,7 +54,7 @@ card_id: "BO-76"
 set_sort_order: 22
 slug: "myotismon-bo-76"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-76"
+redirect_from: "/card/details/bo-76"
 related_cards:
   - "BO-38"
   - "BO-57"

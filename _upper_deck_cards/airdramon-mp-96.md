@@ -54,7 +54,7 @@ card_id: "MP-96"
 set_sort_order: 34
 slug: "airdramon-mp-96"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-96"
+redirect_from: "/card/details/mp-96"
 related_cards:
   - "ST-96"
   - "MP-69"

@@ -54,7 +54,7 @@ card_id: "BO-38"
 set_sort_order: 38
 slug: "myotismon-bo-38"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-38"
+redirect_from: "/card/details/bo-38"
 related_cards:
   - "BO-76"
   - "BO-01"

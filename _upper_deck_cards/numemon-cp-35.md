@@ -50,7 +50,7 @@ card_id: "CP-35"
 set_sort_order: 35
 slug: "numemon-cp-35"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-35"
+redirect_from: "/card/details/cp-35"
 related_cards:
   - "BO-63"
   - "CP-02"

@@ -38,7 +38,7 @@ card_id: "BO-106"
 set_sort_order: 52
 slug: "meat-bo-106"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-106"
+redirect_from: "/card/details/bo-106"
 related_cards:
   - "BO-97"
   - "BO-98"

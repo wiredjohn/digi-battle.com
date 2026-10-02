@@ -44,7 +44,7 @@ card_id: "CP-29"
 set_sort_order: 29
 slug: "etemon-cp-29"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-29"
+redirect_from: "/card/details/cp-29"
 related_cards:
   - "BO-57"
   - "CP-01"

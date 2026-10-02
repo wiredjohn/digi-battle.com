@@ -38,7 +38,7 @@ card_id: "ST-52"
 set_sort_order: 52
 slug: "blitz-st-52"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-52"
+redirect_from: "/card/details/st-52"
 related_cards:
   - "ST-49"
   - "ST-50"

@@ -45,7 +45,7 @@ card_id: "BO-85"
 set_sort_order: 31
 slug: "kiwimon-bo-85"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-85"
+redirect_from: "/card/details/bo-85"
 related_cards:
   - "BO-56"
   - "BO-58"

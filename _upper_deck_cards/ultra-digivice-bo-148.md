@@ -38,7 +38,7 @@ card_id: "BO-148"
 set_sort_order: 40
 slug: "ultra-digivice-bo-148"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-148"
+redirect_from: "/card/details/bo-148"
 related_cards:
   - "BO-143"
   - "BO-144"

@@ -38,7 +38,7 @@ card_id: "ST-51"
 set_sort_order: 51
 slug: "green-offensive-st-51"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-51"
+redirect_from: "/card/details/st-51"
 related_cards:
   - "ST-49"
   - "ST-50"

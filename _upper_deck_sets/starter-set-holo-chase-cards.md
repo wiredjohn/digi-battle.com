@@ -3,8 +3,8 @@ name: "Starter Set Holo Chase Cards"
 set_description: "A set of foil variants of cards from the Starter Set distributed as rare chase cards in Booster set 1 and 2 booster packs."
 slug: "starter-set-holo-chase-cards"
 redirect_from: 
-  - "/Sets/StarterSetHoloChaseCards"
-  - "/Article/HoloChaseCards"
+  - "/sets/startersetholochasecards"
+  - "/article/holochasecards"
 languages:
   - name: English
     editions:

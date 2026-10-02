@@ -54,7 +54,7 @@ card_id: "ST-104"
 set_sort_order: 27
 slug: "vermilimon-st-104"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-104"
+redirect_from: "/card/details/st-104"
 related_cards:
   - "MP-104"
   - "ST-82"

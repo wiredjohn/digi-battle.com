@@ -62,7 +62,7 @@ card_id: "CP-05"
 set_sort_order: 5
 slug: "meramon-cp-05"
 original_language_name: ~
-redirect_from: "/Card/Details/CP-05"
+redirect_from: "/card/details/cp-05"
 related_cards:
   - "BO-05"
   - "CP-02"

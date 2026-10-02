@@ -39,7 +39,7 @@ card_id: "BO-146"
 set_sort_order: 38
 slug: "crest-of-light-bo-146"
 original_language_name: "Symbole de la Lumière"
-redirect_from: "/Card/Details/BO-146"
+redirect_from: "/card/details/bo-146"
 related_cards:
   - "BO-143"
   - "BO-144"

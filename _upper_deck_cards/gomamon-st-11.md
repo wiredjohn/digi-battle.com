@@ -48,7 +48,7 @@ card_id: "ST-11"
 set_sort_order: 11
 slug: "gomamon-st-11"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-11"
+redirect_from: "/card/details/st-11"
 related_cards:
   - "ST-01"
   - "ST-03"

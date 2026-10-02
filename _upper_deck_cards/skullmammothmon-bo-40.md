@@ -49,7 +49,7 @@ card_id: "BO-40"
 set_sort_order: 40
 slug: "skullmammothmon-bo-40"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-40"
+redirect_from: "/card/details/bo-40"
 related_cards:
   - "BO-17"
   - "BO-27"

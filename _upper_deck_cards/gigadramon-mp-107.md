@@ -57,7 +57,7 @@ card_id: "MP-107"
 set_sort_order: 45
 slug: "gigadramon-mp-107"
 original_language_name: ~
-redirect_from: "/Card/Details/MP-107"
+redirect_from: "/card/details/mp-107"
 related_cards:
   - "MP-80"
   - "MP-81"

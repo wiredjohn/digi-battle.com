@@ -58,7 +58,7 @@ card_id: "BO-89"
 set_sort_order: 35
 slug: "garudamon-bo-89"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-89"
+redirect_from: "/card/details/bo-89"
 related_cards:
   - "BO-57"
   - "BO-62"

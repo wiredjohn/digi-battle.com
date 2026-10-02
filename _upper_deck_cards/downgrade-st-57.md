@@ -38,7 +38,7 @@ card_id: "ST-57"
 set_sort_order: 57
 slug: "downgrade-st-57"
 original_language_name: ~
-redirect_from: "/Card/Details/ST-57"
+redirect_from: "/card/details/st-57"
 related_cards:
   - "ST-57S"
   - "ST-49"

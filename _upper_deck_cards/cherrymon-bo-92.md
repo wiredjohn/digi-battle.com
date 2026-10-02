@@ -48,7 +48,7 @@ card_id: "BO-92"
 set_sort_order: 38
 slug: "cherrymon-bo-92"
 original_language_name: ~
-redirect_from: "/Card/Details/BO-92"
+redirect_from: "/card/details/bo-92"
 related_cards:
   - "BO-57"
   - "BO-62"

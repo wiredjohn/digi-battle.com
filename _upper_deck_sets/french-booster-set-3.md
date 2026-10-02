@@ -2,7 +2,7 @@
 name: "French Booster Set 3"
 set_description: "Booster Set 3 was released exclusively in France with a low print run, making the cards especially rare."
 slug: "french-booster-set-3"
-redirect_from: "/Sets/FrenchBoosterSet3"
+redirect_from: "/sets/frenchboosterset3"
 languages:
   - name: English
     editions:

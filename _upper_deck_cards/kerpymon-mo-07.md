@@ -42,7 +42,7 @@ card_id: "MO-07"
 set_sort_order: 7
 slug: "kerpymon-mo-07"
 original_language_name: ~
-redirect_from: "/Card/Details/MO-07"
+redirect_from: "/card/details/mo-07"
 related_cards:
   - "MO-08"
   - "MO-10"
