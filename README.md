@@ -1,5 +1,4 @@
 # Digi-Battle.com
-**WORK IN PROGRESS!** - This documentation is still being created in-line with the current development of the site.
 
 This is the website source code for [digi-battle.com](https://digi-battle.com), the Digimon Digi-Battle Card Database.
 
