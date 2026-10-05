@@ -106,7 +106,7 @@ layout: default
         <ul class="ud-card__content-block">
             {% for oddity in card_oddities %}
             <li>
-                {{ oddity.oddity_type }} - {{ oddity.content }}
+                {{ oddity.oddity_type }}: {{ oddity.content | markdownify }}
             </li>
             {% endfor %}
         </ul>
@@ -186,6 +186,8 @@ layout: default
 </div>
 
 <script>
+    CenterTree();
+
     function ToggleTreeTextView() {
         document
             .querySelectorAll(
@@ -198,5 +200,14 @@ layout: default
                 ".up-card__digivolution--text-view:not(.up-card__digivolution-current)"
             )
             .forEach(card => card.classList.toggle("d-none"));
+    }
+
+    function CenterTree() {
+        let tree = document.querySelector(".ud-card__digivolutions");
+
+        if (tree) {
+            tree.scrollTop = (tree.scrollHeight - tree.clientHeight) / 2;
+            tree.scrollLeft = (tree.scrollWidth - tree.clientWidth) / 2;
+        }
     }
 </script>
