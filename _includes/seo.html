@@ -17,9 +17,18 @@
       {% assign seo_description = page.name
         | append: " ("
         | append: page.serial_code
-        | append: ") from set "
+        | append: ") "
+        | append: page.finish
+        | append: " finish "
+        | append: page.rarity
+        | append: " card from set "
         | append: page.set
         | append: " - Digimon card information, details, scans, images and more."
+      %}
+  {% elsif page.number %}
+      {% assign seo_description = "Archive record for Digimon World promo MetalGreymon DW-01, serial number "
+        | append: page.number
+        | append: " / 100000"
       %}
   {% else %}
     {% assign seo_description = page.content | strip_html | strip_newlines | truncate: 150 %}

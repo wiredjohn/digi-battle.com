@@ -46,7 +46,8 @@ redirect_from:
                 <ol>
                     {% for digimon in attack.digimon %}
                     <li>
-                        <a href="/upper-deck/cards/{{ digimon.name }}-{{ digimon.card_id }}">{{ digimon.name }}</a> ({{ digimon.card_id }})
+                        {% assign href = '/upper-deck/cards/' | append: digimon.name | replace: ' ', '-' | append: '-' | append: digimon.card_id | downcase %}
+                        <a href="{{ href }}">{{ digimon.name }}</a> ({{ digimon.card_id }})
                     </li>
                     {% endfor %}
                 </ol>
