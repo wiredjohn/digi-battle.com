@@ -4,5 +4,4 @@ card_specific: true
 affected_cards:
   - "BO-78"
 ---
-
-The tip of his claw pokes out the border of the frame. 
+The tip of his left claw pokes out the border of the frame. 
