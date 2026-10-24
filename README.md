@@ -28,26 +28,14 @@ git clone https://github.com/wiredjohn/digi-battle.com.git
 cd digi-battle.com
 ```
 
-The project offers a production build config and an optimized local development build config. The difference being `jekyll-sitemap` and `jekyll-redirect-from` are removed from the optimized build as they significantly increase build times.
+The project offers a production build config and an optimized local development build config. The difference being `jekyll-sitemap` and `jekyll-redirect-from` are removed from the optimized build as they significantly increase build times. 
 
 Optimized local development build:
 ```bash
-bundle config set --local without production
-
-bundle install
-
-bundle exec jekyll clean
-
-bundle exec jekyll serve --incremental --config _config_dev.yml
+./serve-dev.sh
 ```
 
 Production build:
 ```bash
-bundle config unset --local without
-
-bundle install
-
-bundle exec jekyll clean
-
-bundle exec jekyll serve --incremental --config _config.yml
+./serve-prod.sh
 ```

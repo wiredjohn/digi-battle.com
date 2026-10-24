@@ -68,6 +68,9 @@ exclude:
   - SECURITY.md
   - wrangler.jsonc
   - .gitignore
+  - serve-dev.sh
+  - serve-prod.sh
+  - Content/README.md
 
 sass:
   style: compressed

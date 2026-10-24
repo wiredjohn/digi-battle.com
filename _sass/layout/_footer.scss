@@ -56,3 +56,12 @@
 .footer-link[href="#"] {
     color: red;
 }
+
+.footer__disclaimer {
+    max-width: $width-max;
+    font-size: .8rem;
+    display: flex;
+    flex-direction: column;
+    gap: $spacing-sm;
+    margin: $spacing auto;
+}
