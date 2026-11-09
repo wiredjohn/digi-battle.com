@@ -8,6 +8,8 @@ launch_date_jekyll: "2026-10-02"
 
 excerpt_separator: ""
 
+collections_dir: _collections
+
 collections:
   upper_deck_cards:
     output: true

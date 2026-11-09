@@ -46,6 +46,7 @@ related_cards:
   - "FX-01"
   - "FX-03"
   - "FX-04"
+help_wanted:
+  - type: "Card Scan"
+    note: "Image missing"
 ---
-
-Card scan was provided by [digitalindex.ultimatedigimon.com](https://digitalindex.ultimatedigimon.com/digibattle/Digi-Battle_pages/miscpromo.php).

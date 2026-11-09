@@ -56,5 +56,8 @@ related_cards:
   - "BO-138"
   - "BO-139"
   - "BO-140"
+help_wanted:
+  - type: "Card Scan"
+    note: "Card in current image is heavily played"
 ---
 
