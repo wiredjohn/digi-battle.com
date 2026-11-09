@@ -1,12 +1,12 @@
 ---
 # GENERIC FIELDS
-name: "Tai"
-serial_code: "FX-01"
+name: "Izzy"
+serial_code: "FX-04"
 rarity: "PROMO"
 finish: "NORMAL"
 card_type: "Power Option"
 set: "Fox Kids Promo"
-special_effect: "Digivolve \"Agumon\" or \"Greymon\" to next level, regardless of Digivolve Requirements. This card allows you to exchange 1 card on Digivolve Zone with 1 card on Offline."
+special_effect: "Digivolve \"Tentomon\" or \"Kabuterimon\" to next level, regardless of Digivolve Requirements. This card allows you to see your opponent's top 3 Online cards."
 
 # DIGIMON FIELDS
 level: ~
@@ -35,17 +35,18 @@ power_option_restrictions:
   - "Send this card Offline at end of Duel."
 
 # META FIELDS
-card_id: "FX-01"
-set_sort_order: 1
-slug: "tai-fx-01"
+card_id: "FX-04"
+set_sort_order: 4
+slug: "izzy-fx-04"
 original_language_name: ~
-redirect_from: "/card/details/fx-01"
+redirect_from: "/card/details/fx-04"
 related_cards:
-  - "CP-38"
-  - "CP-38_SWE"
+  - "CP-41"
+  - "CP-41_SWE"
+  - "FX-01"
   - "FX-02"
   - "FX-03"
-  - "FX-04"
+help_wanted:
+  - type: "Card Scan"
+    note: "Image missing"
 ---
-
-Card scan was provided by [digitalindex.ultimatedigimon.com](https://digitalindex.ultimatedigimon.com/digibattle/Digi-Battle_pages/miscpromo.php).

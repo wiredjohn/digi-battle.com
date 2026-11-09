@@ -1,12 +1,12 @@
 ---
 # GENERIC FIELDS
-name: "Izzy"
-serial_code: "FX-04"
+name: "Sora"
+serial_code: "FX-03"
 rarity: "PROMO"
 finish: "NORMAL"
 card_type: "Power Option"
 set: "Fox Kids Promo"
-special_effect: "Digivolve \"Tentomon\" or \"Kabuterimon\" to next level, regardless of Digivolve Requirements. This card allows you to see your opponent's top 3 Online cards."
+special_effect: "Digivolve \"Biyomon\" or \"Birdramon\" to next level, regardless of Digivolve Requirements. Add 100 points to your Digimon Power."
 
 # DIGIMON FIELDS
 level: ~
@@ -35,17 +35,18 @@ power_option_restrictions:
   - "Send this card Offline at end of Duel."
 
 # META FIELDS
-card_id: "FX-04"
-set_sort_order: 4
-slug: "izzy-fx-04"
+card_id: "FX-03"
+set_sort_order: 3
+slug: "sora-fx-03"
 original_language_name: ~
-redirect_from: "/card/details/fx-04"
+redirect_from: "/card/details/fx-03"
 related_cards:
-  - "CP-41"
-  - "CP-41_SWE"
+  - "CP-40"
+  - "CP-40_SWE"
   - "FX-01"
   - "FX-02"
-  - "FX-03"
+  - "FX-04"
+help_wanted:
+  - type: "Card Scan"
+    note: "Image missing"
 ---
-
-Card scan was provided by [digitalindex.ultimatedigimon.com](https://digitalindex.ultimatedigimon.com/digibattle/Digi-Battle_pages/miscpromo.php).

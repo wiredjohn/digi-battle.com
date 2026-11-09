@@ -1,12 +1,12 @@
 ---
 # GENERIC FIELDS
-name: "Sora"
-serial_code: "FX-03"
+name: "Tai"
+serial_code: "FX-01"
 rarity: "PROMO"
 finish: "NORMAL"
 card_type: "Power Option"
 set: "Fox Kids Promo"
-special_effect: "Digivolve \"Biyomon\" or \"Birdramon\" to next level, regardless of Digivolve Requirements. Add 100 points to your Digimon Power."
+special_effect: "Digivolve \"Agumon\" or \"Greymon\" to next level, regardless of Digivolve Requirements. This card allows you to exchange 1 card on Digivolve Zone with 1 card on Offline."
 
 # DIGIMON FIELDS
 level: ~
@@ -35,17 +35,18 @@ power_option_restrictions:
   - "Send this card Offline at end of Duel."
 
 # META FIELDS
-card_id: "FX-03"
-set_sort_order: 3
-slug: "sora-fx-03"
+card_id: "FX-01"
+set_sort_order: 1
+slug: "tai-fx-01"
 original_language_name: ~
-redirect_from: "/card/details/fx-03"
+redirect_from: "/card/details/fx-01"
 related_cards:
-  - "CP-40"
-  - "CP-40_SWE"
-  - "FX-01"
+  - "CP-38"
+  - "CP-38_SWE"
   - "FX-02"
+  - "FX-03"
   - "FX-04"
+help_wanted:
+  - type: "Card Scan"
+    note: "Image missing"
 ---
-
-Card scan was provided by [digitalindex.ultimatedigimon.com](https://digitalindex.ultimatedigimon.com/digibattle/Digi-Battle_pages/miscpromo.php).

@@ -64,5 +64,8 @@ related_cards:
   - "ST-28S"
   - "ST-29S"
   - "ST-30S"
+help_wanted:
+  - type: "Card Scan"
+    note: "Image missing"
 ---
 

@@ -12,6 +12,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
 
+collections_dir: _collections
+
 collections:
   upper_deck_cards:
     output: true
