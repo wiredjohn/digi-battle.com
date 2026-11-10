@@ -73,6 +73,7 @@ exclude:
   - serve-dev.sh
   - serve-prod.sh
   - Content/README.md
+  - scripts
 
 sass:
   style: compressed
